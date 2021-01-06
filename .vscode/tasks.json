@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "hexo: deploy",
+			"command": "hexo deploy -g"
+		},
+		{
+			"type": "shell",
+			"label": "hexo: new",
+			"command": "hexo new ${input:param1}"
+		}
+	],
+	"inputs": [
+        {
+            "id": "param1",
+            "description": "Param1:",
+            "default": "",
+            "type": "promptString"
+		}
+	]
+}
