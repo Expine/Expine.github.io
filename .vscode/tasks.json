@@ -4,12 +4,14 @@
 		{
 			"type": "shell",
 			"label": "hexo: deploy",
-			"command": "hexo deploy -g"
+			"command": "hexo deploy -g",
+			"problemMatcher": []
 		},
 		{
 			"type": "shell",
 			"label": "hexo: new",
-			"command": "hexo new ${input:param1}"
+			"command": "hexo new ${input:param1}",
+			"problemMatcher": []
 		}
 	],
 	"inputs": [
