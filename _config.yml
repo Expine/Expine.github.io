@@ -5,7 +5,7 @@
 # Site
 title: Blog
 subtitle: ''
-description: ''
+description: '個人的なメモ帳、あるいは砂場'
 keywords:
 author: narratology
 language: ja
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: NexT
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,3 +107,14 @@ deploy:
   repo: https://github.com/Expine/Expine.github.io
   branch: main
   message: hexo deploy
+
+algolia:
+  applicationID: "E3BAQBHZPD"
+  apiKey: "b14116baeffa31aca71d0390d9eacfc5"
+  indexName: "narratology"
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html

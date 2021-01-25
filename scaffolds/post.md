@@ -1,5 +1,5 @@
 ---
-title: {{ title }}
+title: {{ title }} 日誌
 date: {{ date }}
-tags:
+tags: diary
 ---

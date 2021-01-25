@@ -12,7 +12,47 @@
 			"label": "hexo: new",
 			"command": "hexo new ${input:param1}",
 			"problemMatcher": []
+		},
+		{
+			"type": "shell",
+			"label": "hexo: page",
+			"command": "hexo new page ${input:param1}",
+			"problemMatcher": []
+		},
+		{
+			"type": "shell",
+			"label": "hexo: generate",
+			"command": "hexo generate",
+			"problemMatcher": [],
+			"dependsOn": [
+				"hexo: clean"
+			],
+		},
+		{
+			"type": "shell",
+			"label": "hexo: server",
+			"command": "hexo server",
+			"problemMatcher": [],
+			"dependsOn": [
+				"hexo: generate"
+			],
+		},
+		{
+			"type": "shell",
+			"label": "hexo: clean",
+			"command": "hexo clean",
+			"problemMatcher": [],
+		},
+		{
+			"type": "shell",
+			"label": "hexo: algolia",
+			"command": "hexo algolia",
+			"problemMatcher": [],
+			"dependsOn": [
+				"hexo: clean"
+			],
 		}
+		
 	],
 	"inputs": [
         {
