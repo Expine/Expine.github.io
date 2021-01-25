@@ -1,71 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>21/01/05 日誌</title>
-    <url>/2021/01/05/2021-01-05/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://store.steampowered.com/app/916050/Clocker/?l=japanese">Clocker</a><ul>
-<li>時間を操作するストーリードリブン</li>
-</ul>
-</li>
-<li><a href="https://store.steampowered.com/app/793370/KIDS/">KIDS</a><ul>
-<li>群衆アルゴリズム見本市</li>
-</ul>
-</li>
-<li><a href="https://store.steampowered.com/app/746710/Cypher/?l=japanese">Cypher</a><ul>
-<li>ガチ暗号</li>
-</ul>
-</li>
-<li><a href="https://store.steampowered.com/app/674450/Blind_Witch_Peek_Window/?l=japanese">Blind Witch</a><ul>
-<li>目が見えないことによる歯がゆさを疑似体験できる短編</li>
-</ul>
-</li>
-</ul>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://deeplearning.hatenablog.com/entry/scaling_law">Transformer</a><ul>
-<li>自然言語処理を金で殴る</li>
-</ul>
-</li>
-<li><a href="https://www.slideshare.net/100005930379759/scala-scala">米田の補題</a><ul>
-<li>圏論</li>
-</ul>
-</li>
-<li><a href="https://note.com/kokushokankokai/n/n6e468e0925d0?fbclid=IwAR1M0Ek2lwjfKORQqxdIcsXXv00wrUE6oczCencEgcayE8JW9n7IXGmb_w0">アヴェスタ</a><ul>
-<li>買うか迷っている</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/07 日誌</title>
-    <url>/2021/01/07/2021-01-07/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
-<li><a href="https://store.steampowered.com/app/1120940/Forgotten_Passages/?l=japanese">Forgotten Passages</a><ul>
-<li>歩くゲー。風景を眺めるためという感じ</li>
-</ul>
-</li>
-</ul>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://note.com/enzen3852/n/na1fecd0ac10b#r33rM">イラスト</a><ul>
-<li>貼りそびれていたけど継続は力かつ常に試行をやめないことも大事なんだなあと</li>
-</ul>
-</li>
-<li><a href="https://www.cnn.co.jp/fringe/35115940.html">地獄の門</a><ul>
-<li>こういう系の検証好き</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>diary</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>21/01/06 日誌</title>
     <url>/2021/01/06/2021-01-06/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
@@ -114,7 +49,89 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Shrug Island</tag>
+        <tag>Article</tag>
+        <tag>Program</tag>
+        <tag>Goods</tag>
+        <tag>Trivia</tag>
+        <tag>Service</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>21/01/05 日誌</title>
+    <url>/2021/01/05/2021-01-05/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/916050/Clocker/?l=japanese">Clocker</a><ul>
+<li>時間を操作するストーリードリブン</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/793370/KIDS/">KIDS</a><ul>
+<li>群衆アルゴリズム見本市</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/746710/Cypher/?l=japanese">Cypher</a><ul>
+<li>ガチ暗号</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/674450/Blind_Witch_Peek_Window/?l=japanese">Blind Witch</a><ul>
+<li>目が見えないことによる歯がゆさを疑似体験できる短編</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://deeplearning.hatenablog.com/entry/scaling_law">Transformer</a><ul>
+<li>自然言語処理を金で殴る</li>
+</ul>
+</li>
+<li><a href="https://www.slideshare.net/100005930379759/scala-scala">米田の補題</a><ul>
+<li>圏論</li>
+</ul>
+</li>
+<li><a href="https://note.com/kokushokankokai/n/n6e468e0925d0?fbclid=IwAR1M0Ek2lwjfKORQqxdIcsXXv00wrUE6oczCencEgcayE8JW9n7IXGmb_w0">アヴェスタ</a><ul>
+<li>買うか迷っている</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Clocker</tag>
+        <tag>KIDS</tag>
+        <tag>Cypher</tag>
+        <tag>Blind Witch</tag>
+        <tag>Academic</tag>
+        <tag>Books</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>21/01/07 日誌</title>
+    <url>/2021/01/07/2021-01-07/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
+<li><a href="https://store.steampowered.com/app/1120940/Forgotten_Passages/?l=japanese">Forgotten Passages</a><ul>
+<li>歩くゲー。風景を眺めるためという感じ</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://note.com/enzen3852/n/na1fecd0ac10b#r33rM">イラスト</a><ul>
+<li>貼りそびれていたけど継続は力かつ常に試行をやめないことも大事なんだなあと</li>
+</ul>
+</li>
+<li><a href="https://www.cnn.co.jp/fringe/35115940.html">地獄の門</a><ul>
+<li>こういう系の検証好き</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Forgotten Passages</tag>
+        <tag>Illustration</tag>
+        <tag>Proof</tag>
       </tags>
   </entry>
   <entry>
@@ -136,7 +153,10 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Forgotten Passages</tag>
+        <tag>Animation</tag>
       </tags>
   </entry>
   <entry>
@@ -150,7 +170,8 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Goods</tag>
       </tags>
   </entry>
   <entry>
@@ -175,7 +196,11 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Among Us</tag>
+        <tag>Programing</tag>
+        <tag>Bug</tag>
       </tags>
   </entry>
   <entry>
@@ -209,7 +234,13 @@
 <h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><p>SPECの人操って殺すケースが個人的に好きだったのだけれど、今思うとABCの本歌取りだなあと思って、クリスティー系の話が個人的好みなのを改めて認識した。<br>ちゃんと換骨奪胎してSPEC的な話に構成した脚本の方もすごい。</p>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Service</tag>
+        <tag>Programing</tag>
+        <tag>HEADLINER</tag>
+        <tag>PECO</tag>
+        <tag>Superliminal</tag>
       </tags>
   </entry>
   <entry>
@@ -227,7 +258,10 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Programing</tag>
+        <tag>Superliminal</tag>
       </tags>
   </entry>
   <entry>
@@ -244,7 +278,9 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Programing</tag>
       </tags>
   </entry>
   <entry>
@@ -270,7 +306,12 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Article</tag>
+        <tag>Programing</tag>
+        <tag>Superliminal</tag>
+        <tag>Titech</tag>
       </tags>
   </entry>
   <entry>
@@ -284,7 +325,8 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Trivia</tag>
       </tags>
   </entry>
   <entry>
@@ -306,7 +348,11 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Goods</tag>
+        <tag>Among Us</tag>
+        <tag>Art</tag>
       </tags>
   </entry>
   <entry>
@@ -329,7 +375,12 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Article</tag>
+        <tag>Superliminal</tag>
+        <tag>Understand</tag>
+        <tag>Comedy</tag>
       </tags>
   </entry>
   <entry>
@@ -344,21 +395,10 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/19 日誌</title>
-    <url>/2021/01/19/2021-01-19/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://automaton-media.com/articles/newsjp/20210118-149383/">マリオカート</a><ul>
-<li>あえて2ビット使ってるのも謎だけど、8時間20分もかなり謎</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Superliminal</tag>
+        <tag>Comedy</tag>
       </tags>
   </entry>
   <entry>
@@ -379,7 +419,25 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Article</tag>
+        <tag>Bug</tag>
+        <tag>Furi</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>21/01/19 日誌</title>
+    <url>/2021/01/19/2021-01-19/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://automaton-media.com/articles/newsjp/20210118-149383/">マリオカート</a><ul>
+<li>あえて2ビット使ってるのも謎だけど、8時間20分もかなり謎</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Bug</tag>
       </tags>
   </entry>
   <entry>
@@ -397,7 +455,9 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Article</tag>
+        <tag>Service</tag>
       </tags>
   </entry>
   <entry>
@@ -423,7 +483,10 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Article</tag>
+        <tag>Trivia</tag>
+        <tag>Game</tag>
       </tags>
   </entry>
   <entry>
@@ -441,7 +504,9 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Programming</tag>
+        <tag>GameDev</tag>
       </tags>
   </entry>
   <entry>
@@ -462,7 +527,10 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Article</tag>
+        <tag>Proof</tag>
+        <tag>Furi</tag>
       </tags>
   </entry>
   <entry>
@@ -476,7 +544,8 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>diary</tag>
+        <tag>Diary</tag>
+        <tag>Article</tag>
       </tags>
   </entry>
 </search>
