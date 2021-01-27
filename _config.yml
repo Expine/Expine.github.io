@@ -9,7 +9,7 @@ description: '個人的なメモ帳、あるいは砂場'
 keywords:
 author: narratology
 language: ja
-timezone: ''
+timezone: 'Asia/Tokyo'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'

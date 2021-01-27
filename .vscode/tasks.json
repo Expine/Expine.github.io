@@ -24,9 +24,6 @@
 			"label": "hexo: generate",
 			"command": "hexo generate",
 			"problemMatcher": [],
-			"dependsOn": [
-				"hexo: clean"
-			],
 		},
 		{
 			"type": "shell",
@@ -51,8 +48,16 @@
 			"dependsOn": [
 				"hexo: clean"
 			],
-		}
-		
+		},
+		{
+			"type": "shell",
+			"label": "hexo: generate and clean",
+			"command": "hexo generate",
+			"problemMatcher": [],
+			"dependsOn": [
+				"hexo: clean"
+			],
+		},		
 	],
 	"inputs": [
         {
