@@ -43,7 +43,7 @@ NexT.boot.registerEvents = function() {
     }));
   });
 
-  const duration = 20;
+  const duration = 200;
   document.querySelectorAll('.sidebar-nav li').forEach((element, index) => {
     element.addEventListener('click', () => {
       if (element.matches('.sidebar-toc-active .sidebar-nav-toc, .sidebar-overview-active .sidebar-nav-overview')) return;
