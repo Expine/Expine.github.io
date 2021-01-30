@@ -384,6 +384,21 @@
       </tags>
   </entry>
   <entry>
+    <title>21/01/19 日誌</title>
+    <url>/2021/01/19/2021-01-19/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://automaton-media.com/articles/newsjp/20210118-149383/">マリオカート</a><ul>
+<li>あえて2ビット使ってるのも謎だけど、8時間20分もかなり謎</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Bug</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>21/01/18 日誌</title>
     <url>/2021/01/18/2021-01-18/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
@@ -399,21 +414,6 @@
         <tag>退廃思考</tag>
         <tag>Superliminal</tag>
         <tag>Comedy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/19 日誌</title>
-    <url>/2021/01/19/2021-01-19/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://automaton-media.com/articles/newsjp/20210118-149383/">マリオカート</a><ul>
-<li>あえて2ビット使ってるのも謎だけど、8時間20分もかなり謎</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Bug</tag>
       </tags>
   </entry>
   <entry>
@@ -461,6 +461,26 @@
       </tags>
   </entry>
   <entry>
+    <title>21/01/23 日誌</title>
+    <url>/2021/01/23/2021-01-23/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://forest.watch.impress.co.jp/docs/news/1301910.html">win32metadata</a><ul>
+<li>C++以外でも開発しやすくなるのはいいな</li>
+</ul>
+</li>
+<li><a href="https://blog.bitchunk.net/development/konsairi_steamsale/">Steam</a><ul>
+<li>遊ぶ側から見ても楽しいゲームっぽく見せるのは難しそう</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Programming</tag>
+        <tag>GameDev</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>21/01/22 日誌</title>
     <url>/2021/01/22/2021-01-22/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
@@ -490,23 +510,27 @@
       </tags>
   </entry>
   <entry>
-    <title>21/01/23 日誌</title>
-    <url>/2021/01/23/2021-01-23/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://forest.watch.impress.co.jp/docs/news/1301910.html">win32metadata</a><ul>
-<li>C++以外でも開発しやすくなるのはいいな</li>
+    <title>21/01/24 日誌</title>
+    <url>/2021/01/24/2021-01-24/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/423230/Furi/?l=japanese">Furi</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.bbc.com/japanese/55761022">Google</a><ul>
+<li>言わんとしていることは分からんではないけれど、脅しってのはちょっと違う気もする</li>
 </ul>
 </li>
-<li><a href="https://blog.bitchunk.net/development/konsairi_steamsale/">Steam</a><ul>
-<li>遊ぶ側から見ても楽しいゲームっぽく見せるのは難しそう</li>
+<li><a href="https://toyokeizai.net/articles/-/405149?page=3">配管</a><ul>
+<li>こういうことをちゃんと取材するほうもされるほうも素晴らしい</li>
 </ul>
 </li>
 </ul>
 ]]></content>
       <tags>
         <tag>Diary</tag>
-        <tag>Programming</tag>
-        <tag>GameDev</tag>
+        <tag>Article</tag>
+        <tag>Proof</tag>
+        <tag>Furi</tag>
       </tags>
   </entry>
   <entry>
@@ -522,6 +546,26 @@
       <tags>
         <tag>Diary</tag>
         <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>21/01/27 日誌</title>
+    <url>/2021/01/27/2021-01-27/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/aikawa_yuduki/status/1354021958065688582">PとR</a><ul>
+<li>歴史の流れを感じる</li>
+</ul>
+</li>
+<li><a href="https://j-town.net/tokyo/column/allprefcolumn/317613.html">体験談</a><ul>
+<li>スカッとジャパンみがある(他意はある)</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Article</tag>
+        <tag>Trivia</tag>
       </tags>
   </entry>
   <entry>
@@ -555,47 +599,18 @@
       </tags>
   </entry>
   <entry>
-    <title>21/01/27 日誌</title>
-    <url>/2021/01/27/2021-01-27/</url>
+    <title>2021-01-29 日誌</title>
+    <url>/2021/01/29/2021-01-29/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://twitter.com/aikawa_yuduki/status/1354021958065688582">PとR</a><ul>
-<li>歴史の流れを感じる</li>
-</ul>
-</li>
-<li><a href="https://j-town.net/tokyo/column/allprefcolumn/317613.html">体験談</a><ul>
-<li>スカッとジャパンみがある(他意はある)</li>
+<li><a href="https://papasensei365.com/excel-game-dq3/">Excelゲーム</a><ul>
+<li>VBAを使わない？</li>
 </ul>
 </li>
 </ul>
 ]]></content>
       <tags>
         <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Trivia</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/24 日誌</title>
-    <url>/2021/01/24/2021-01-24/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://store.steampowered.com/app/423230/Furi/?l=japanese">Furi</a></li>
-</ul>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://www.bbc.com/japanese/55761022">Google</a><ul>
-<li>言わんとしていることは分からんではないけれど、脅しってのはちょっと違う気もする</li>
-</ul>
-</li>
-<li><a href="https://toyokeizai.net/articles/-/405149?page=3">配管</a><ul>
-<li>こういうことをちゃんと取材するほうもされるほうも素晴らしい</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Proof</tag>
-        <tag>Furi</tag>
+        <tag>Programming</tag>
       </tags>
   </entry>
   <entry>
@@ -635,21 +650,6 @@
 ]]></content>
       <tags>
         <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021-01-29 日誌</title>
-    <url>/2021/01/29/2021-01-29/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://papasensei365.com/excel-game-dq3/">Excelゲーム</a><ul>
-<li>VBAを使わない？</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Programming</tag>
       </tags>
   </entry>
 </search>
