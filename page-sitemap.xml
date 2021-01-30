@@ -10,6 +10,33 @@
     
     
     <url>
+        <loc>https://expine.github.io/product/</loc>
+        <lastmod>2021-01-30T08:14:00.842Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://expine.github.io/review/</loc>
+        <lastmod>2021-01-30T08:13:55.869Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://expine.github.io/tags/</loc>
+        <lastmod>2021-01-30T08:13:35.243Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://expine.github.io/review/wodicon2018/</loc>
         <lastmod>2021-01-30T07:10:06.962Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,33 +102,6 @@
     <url>
         <loc>https://expine.github.io/product/Under/</loc>
         <lastmod>2021-01-30T06:06:01.143Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://expine.github.io/review/</loc>
-        <lastmod>2021-01-28T16:39:43.441Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://expine.github.io/product/</loc>
-        <lastmod>2021-01-27T15:56:51.176Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://expine.github.io/tags/</loc>
-        <lastmod>2021-01-25T16:47:50.669Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
