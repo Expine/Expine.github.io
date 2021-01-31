@@ -186,7 +186,7 @@ body {
   line-height: 2;
   min-height: 100%;
   position: relative;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.1s ease-in-out;
 }
 h1,
 h2,
@@ -306,7 +306,7 @@ td {
   font-size: 0.875em;
   line-height: 2;
   padding: 0 20px;
-  transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.1s ease-in-out;
 }
 .btn:hover {
   background: var(--btn-default-hover-bg);
@@ -892,7 +892,6 @@ pre code {
   line-height: 1.8;
   padding: 0.25em 0.75em;
   text-align: center;
-  transition: all 0.2s ease-out;
 }
 .post-body .tabs ul.nav-tabs li.tab a i,
 .tabs-comment ul.nav-tabs li.tab a i {
@@ -1067,7 +1066,7 @@ pre code {
 .pagination .page-number {
   border-bottom: 0;
   border-top: 1px solid #eee;
-  transition: border-color 0.2s ease-in-out;
+  transition: border-color 0.1s ease-in-out;
 }
 .pagination .prev:hover,
 .pagination .next:hover,
@@ -1266,7 +1265,7 @@ pre code {
   border-bottom: 0;
   display: block;
   font-size: 0.8125em;
-  transition: border-color 0.2s ease-in-out;
+  transition: border-color 0.1s ease-in-out;
 }
 .menu-item a:hover,
 .menu-item a.menu-item-active {
@@ -1505,7 +1504,7 @@ pre code {
   padding-left: 0;
 }
 .post-toc ol a {
-  transition: all 0.2s ease-in-out;
+  transition: all 0.1s ease-in-out;
 }
 .post-toc .nav-item {
   line-height: 1.8;
@@ -1678,7 +1677,7 @@ pre code {
   box-sizing: border-box;
   color: #fff;
   padding: 0 6px;
-  transition: bottom 0.2s ease-in-out;
+  transition: bottom 0.1s ease-in-out;
   background: #222;
   cursor: pointer;
   opacity: 0.6;
@@ -1811,7 +1810,7 @@ pre code {
   margin: 30px 2px 0;
   padding-left: 15px;
   position: relative;
-  transition: border 0.2s ease-in-out;
+  transition: border 0.1s ease-in-out;
 }
 .posts-collapse .post-content .post-header::before {
   background: #bbb;
@@ -1819,7 +1818,7 @@ pre code {
   left: -6px;
   position: absolute;
   top: 0.75em;
-  transition: background 0.2s ease-in-out;
+  transition: background 0.1s ease-in-out;
   border-radius: 50%;
   content: ' ';
   height: 6px;
@@ -2034,7 +2033,7 @@ pre code {
   left: 0;
   position: absolute;
   transform: scaleX(0);
-  transition: transform 0.2s ease-in-out;
+  transition: transform 0.1s ease-in-out;
   width: 100%;
 }
 .posts-expand .post-title-link:hover::before {
@@ -2169,7 +2168,7 @@ pre code {
   line-height: 2;
   outline: 0;
   padding: 0 15px;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.1s ease-in-out;
   vertical-align: text-top;
 }
 .reward-container button:hover {
@@ -2573,7 +2572,7 @@ mark.search-keyword {
   visibility: inherit;
 }
 .use-motion .sidebar .animated {
-  animation-fill-mode: bibeota;
+  animation-fill-mode: both;
 }
 .header-inner {
   background: var(--content-bg-color);
@@ -2722,6 +2721,7 @@ mark.search-keyword {
   position: sticky;
   top: 12px;
   width: 180px;
+  visibility: hidden;
 }
 @media (max-width: 991px) {
   .sidebar {
