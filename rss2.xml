@@ -9,8 +9,58 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Fri, 29 Jan 2021 16:58:50 GMT</pubDate>
+    <pubDate>Sun, 31 Jan 2021 04:33:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2021-01-31 日誌</title>
+      <link>https://expine.github.io/2021/01/31/2021-01-31/</link>
+      <guid>https://expine.github.io/2021/01/31/2021-01-31/</guid>
+      <pubDate>Sun, 31 Jan 2021 04:32:34 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;リンク&quot;&gt;&lt;a href=&quot;#リンク&quot; class=&quot;headerlink&quot; title=&quot;リンク&quot;&gt;&lt;/a&gt;リンク&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FCIFAeHrkEE&amp;feature</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://www.youtube.com/watch?v=FCIFAeHrkEE&feature=youtu.be">リモートフィルム</a><ul><li>良い感じのポストアポカリプス</li></ul></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
+      
+      
+      <comments>https://expine.github.io/2021/01/31/2021-01-31/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2021-01-30 日誌</title>
+      <link>https://expine.github.io/2021/01/30/2021-01-30/</link>
+      <guid>https://expine.github.io/2021/01/30/2021-01-30/</guid>
+      <pubDate>Sat, 30 Jan 2021 09:26:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Hexo を弄って色々出せるようにしていくの楽しい。&lt;br&gt;あとはイラストでも叩き込んで、Steamのリンクでも貼り付けて、アイコン出せるようにして、レビュー記事を雑に追加したら満足しそう。&lt;/p&gt;
+&lt;h2 id=&quot;リンク&quot;&gt;&lt;a href=&quot;#リンク&quot; class=&quot;he</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Hexo を弄って色々出せるようにしていくの楽しい。<br>あとはイラストでも叩き込んで、Steamのリンクでも貼り付けて、アイコン出せるようにして、レビュー記事を雑に追加したら満足しそう。</p><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%A2%E3%82%A6%E3%83%88">アイリス・アウト</a><ul><li>語源で覚えておくと忘れなさそう</li></ul></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
+      
+      
+      <comments>https://expine.github.io/2021/01/30/2021-01-30/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2021-01-29 日誌</title>
@@ -538,74 +588,6 @@
       
       
       <comments>https://expine.github.io/2021/01/13/2021-01-13/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>21/01/12 日誌</title>
-      <link>https://expine.github.io/2021/01/12/2021-01-12/</link>
-      <guid>https://expine.github.io/2021/01/12/2021-01-12/</guid>
-      <pubDate>Tue, 12 Jan 2021 13:28:50 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li><li><a href="https://store.steampowered.com/app/1049410/Superliminal/?l=japanese">Superliminal</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://twitter.com/Fumiya_Kume/status/1199343136536875009">型</a><ul><li>型は良いぞ、TypeScriptを使おう</li></ul></li></ul>]]></content:encoded>
-      
-      
-      
-      <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/tags/%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">退廃思考</category>
-      
-      <category domain="https://Expine.github.io/tags/Programing/">Programing</category>
-      
-      <category domain="https://Expine.github.io/tags/Superliminal/">Superliminal</category>
-      
-      
-      <comments>https://expine.github.io/2021/01/12/2021-01-12/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>21/01/11 日報</title>
-      <link>https://expine.github.io/2021/01/11/2021-01-11/</link>
-      <guid>https://expine.github.io/2021/01/11/2021-01-11/</guid>
-      <pubDate>Mon, 11 Jan 2021 01:49:50 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li><li><a href="https://store.steampowered.com/app/680980/_/?l=japanese">HEADLINER</a><ul><li>世論を報道しない自由でコントロールするゲーム</li></ul></li><li><a href="https://store.steampowered.com/app/1360490/PECO/?l=japanese">PECO</a><ul><li>簡単なアクションパズル</li></ul></li><li><a href="https://store.steampowered.com/app/1049410/Superliminal/?l=japanese">Superliminal</a><ul><li>遠近法と視覚トリックを使った酔うパズル</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://speakerdeck.com/vvakame/jetbrains-night-tokyo-2018?slide=35">コード補完</a><ul><li>強者の理論だ</li></ul></li><li><a href="https://github.com/bitlaw-jp/the-constitution-of-japan">Prolog憲法</a><ul><li>更新は止まってるみたい</li></ul></li></ul><h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><p>SPECの人操って殺すケースが個人的に好きだったのだけれど、今思うとABCの本歌取りだなあと思って、クリスティー系の話が個人的好みなのを改めて認識した。<br>ちゃんと換骨奪胎してSPEC的な話に構成した脚本の方もすごい。</p>]]></content:encoded>
-      
-      
-      
-      <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/tags/%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">退廃思考</category>
-      
-      <category domain="https://Expine.github.io/tags/Service/">Service</category>
-      
-      <category domain="https://Expine.github.io/tags/Programing/">Programing</category>
-      
-      <category domain="https://Expine.github.io/tags/HEADLINER/">HEADLINER</category>
-      
-      <category domain="https://Expine.github.io/tags/PECO/">PECO</category>
-      
-      <category domain="https://Expine.github.io/tags/Superliminal/">Superliminal</category>
-      
-      
-      <comments>https://expine.github.io/2021/01/11/2021-01-11/#disqus_thread</comments>
       
     </item>
     
