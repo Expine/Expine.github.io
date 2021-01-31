@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>21/01/05 日誌</title>
-    <url>/2021/01/05/2021-01-05/</url>
+    <url>/2021/01/05/diary/2021-01-05/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/916050/Clocker/?l=japanese">Clocker</a><ul>
 <li>時間を操作するストーリードリブン</li>
@@ -47,8 +47,76 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo Tips</title>
+    <url>/2021/01/27/HexoTips-1/</url>
+    <content><![CDATA[<h2 id="タグでフィルタリングしてページを分けたい"><a href="#タグでフィルタリングしてページを分けたい" class="headerlink" title="タグでフィルタリングしてページを分けたい"></a>タグでフィルタリングしてページを分けたい</h2><p>日誌がHomeに並んでいるのが嫌だったので分けた。メモ書きが並ぶのも見目が悪い。</p>
+<h3 id="前提"><a href="#前提" class="headerlink" title="前提"></a>前提</h3><p>Hexo+NexT環境</p>
+<h3 id="手順"><a href="#手順" class="headerlink" title="手順"></a>手順</h3><ol>
+<li>公式の pagination をもってきて、ちょろっと弄る。</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">const &#123; format: _format, layout, data, perPage, includeTag, excludeTag &#125; &#x3D; Object.assign(&#123;</span><br><span class="line">  format: &#39;page&#x2F;%d&#x2F;&#39;,</span><br><span class="line">  layout: [&#39;archive&#39;, &#39;index&#39;],</span><br><span class="line">  data: &#123;&#125;,</span><br><span class="line">  perPage: 10,</span><br><span class="line">  includeTag: null,</span><br><span class="line">  excludeTag: null</span><br><span class="line">&#125;, options);</span><br><span class="line"></span><br><span class="line">const usePosts &#x3D; Object.create(posts);</span><br><span class="line">usePosts.data &#x3D; usePosts.data.sort((a, b) &#x3D;&gt; a.date.isBefore(b.date) ? 1 : a.date.isAfter(b.date) ? -1 : 0 )</span><br><span class="line">if (includeTag !&#x3D;&#x3D; null) &#123;</span><br><span class="line">  usePosts.data &#x3D; usePosts.data.filter(a &#x3D;&gt; a.tags.data.some(tag &#x3D;&gt; tag.name &#x3D;&#x3D; includeTag));</span><br><span class="line">  usePosts.length &#x3D; usePosts.data.length;</span><br><span class="line">&#125;</span><br><span class="line">if (excludeTag !&#x3D;&#x3D; null) &#123;</span><br><span class="line">  usePosts.data &#x3D; usePosts.data.filter(a &#x3D;&gt; !a.tags.data.some(tag &#x3D;&gt; tag.name &#x3D;&#x3D; excludeTag));</span><br><span class="line">  usePosts.length &#x3D; usePosts.data.length;</span><br><span class="line">&#125;</span><br><span class="line">const length &#x3D; usePosts.data.length;</span><br></pre></td></tr></table></figure>
+<p>適当に<code>posts</code>を弄ってフィルタリングする。コピーはしておかないとデータを破壊するので注意。</p>
+<ol start="2">
+<li>pagination を生成時フックにかけて、特定ディレクトリ以下にページ分けしたデータを入れる。</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var pagination &#x3D; require(&#39;.&#x2F;lib&#x2F;pagination&#39;);</span><br><span class="line">hexo.extend.generator.register(&#39;home&#39;, function(locals)&#123;</span><br><span class="line">  &#x2F;&#x2F; hexo-pagination makes an index.html for the &#x2F;archives route</span><br><span class="line">  return pagination(&#39;home&#39;, locals.posts, &#123;</span><br><span class="line">    perPage: 10,</span><br><span class="line">    layout: [&#39;index&#39;],</span><br><span class="line">    excludeTag: &#39;Diary&#39;</span><br><span class="line">  &#125;);</span><br><span class="line">&#125;);</span><br><span class="line">hexo.extend.generator.register(&#39;diary&#39;, function(locals)&#123;</span><br><span class="line">  &#x2F;&#x2F; hexo-pagination makes an index.html for the &#x2F;archives route</span><br><span class="line">  return pagination(&#39;diary&#39;, locals.posts, &#123;</span><br><span class="line">    perPage: 10,</span><br><span class="line">    layout: [&#39;diary&#39;, &#39;archive&#39;, &#39;index&#39;],</span><br><span class="line">    includeTag: &#39;Diary&#39;</span><br><span class="line">  &#125;);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<p>今回は考えるのが面倒だったので<code>next/scripts/events/index.js</code>にべた書き。これで<code>Diary</code>タグの有無でフィルタリングしてページわけできる。</p>
+<ol start="3">
+<li><code>_config.yml</code>のmenuのhomeやdiaryをそのディレクトリにしておく。</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">menu:</span><br><span class="line">  home: &#x2F;home&#x2F; || fa fa-home</span><br><span class="line">  archives: &#x2F;archives&#x2F; || fa fa-archive</span><br><span class="line">  tags: &#x2F;tags&#x2F; || fa fa-tags</span><br><span class="line">  diary: &#x2F;diary&#x2F; || fa fa-archive</span><br></pre></td></tr></table></figure>
+<p>ついでに<code>diary</code>用のlayoutファイルをindexからコピペして作っておく。</p>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://hexo.io/docs/variables#Site-Variables">使える変数</a><ul>
+<li>njk いじる時には使う</li>
+</ul>
+</li>
+<li><a href="https://hexo.io/api/generator.html">Generator</a><ul>
+<li>生成時フック</li>
+</ul>
+</li>
+<li><a href="https://github.com/hexojs/hexo-pagination">pagination</a><ul>
+<li>元ネタ</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>21/01/07 日誌</title>
+    <url>/2021/01/07/diary/2021-01-07/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
+<li><a href="https://store.steampowered.com/app/1120940/Forgotten_Passages/?l=japanese">Forgotten Passages</a><ul>
+<li>歩くゲー。風景を眺めるためという感じ</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://note.com/enzen3852/n/na1fecd0ac10b#r33rM">イラスト</a><ul>
+<li>貼りそびれていたけど継続は力かつ常に試行をやめないことも大事なんだなあと</li>
+</ul>
+</li>
+<li><a href="https://www.cnn.co.jp/fringe/35115940.html">地獄の門</a><ul>
+<li>こういう系の検証好き</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Forgotten Passages</tag>
+        <tag>Illustration</tag>
+        <tag>Proof</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>21/01/06 日誌</title>
-    <url>/2021/01/06/2021-01-06/</url>
+    <url>/2021/01/06/diary/2021-01-06/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a><ul>
 <li>不思議な話を読む</li>
@@ -106,37 +174,23 @@
       </tags>
   </entry>
   <entry>
-    <title>21/01/07 日誌</title>
-    <url>/2021/01/07/2021-01-07/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
-<li><a href="https://store.steampowered.com/app/1120940/Forgotten_Passages/?l=japanese">Forgotten Passages</a><ul>
-<li>歩くゲー。風景を眺めるためという感じ</li>
-</ul>
-</li>
-</ul>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://note.com/enzen3852/n/na1fecd0ac10b#r33rM">イラスト</a><ul>
-<li>貼りそびれていたけど継続は力かつ常に試行をやめないことも大事なんだなあと</li>
-</ul>
-</li>
-<li><a href="https://www.cnn.co.jp/fringe/35115940.html">地獄の門</a><ul>
-<li>こういう系の検証好き</li>
+    <title>21/01/08 日誌</title>
+    <url>/2021/01/08/diary/2021-01-08/</url>
+    <content><![CDATA[<h1 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h1><ul>
+<li><a href="https://twitter.com/tomimoto5151/status/1020630764587642881">ペンタブ</a><ul>
+<li>そういえば最近お絵描きしていない</li>
 </ul>
 </li>
 </ul>
 ]]></content>
       <tags>
         <tag>Diary</tag>
-        <tag>退廃思考</tag>
-        <tag>Forgotten Passages</tag>
-        <tag>Illustration</tag>
-        <tag>Proof</tag>
+        <tag>Goods</tag>
       </tags>
   </entry>
   <entry>
     <title>21/01/09 日誌</title>
-    <url>/2021/01/09/2021-01-09/</url>
+    <url>/2021/01/09/diary/2021-01-09/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store.steampowered.com/app/1120940/Forgotten_Passages/?l=japanese">Forgotten Passages</a></li>
@@ -160,23 +214,8 @@
       </tags>
   </entry>
   <entry>
-    <title>21/01/08 日誌</title>
-    <url>/2021/01/08/2021-01-08/</url>
-    <content><![CDATA[<h1 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h1><ul>
-<li><a href="https://twitter.com/tomimoto5151/status/1020630764587642881">ペンタブ</a><ul>
-<li>そういえば最近お絵描きしていない</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Goods</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>21/01/10 日誌</title>
-    <url>/2021/01/10/2021-01-10/</url>
+    <url>/2021/01/10/diary/2021-01-10/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store-jp.nintendo.com/list/software/70010000036097.html">Among Us</a><ul>
@@ -205,7 +244,7 @@
   </entry>
   <entry>
     <title>21/01/11 日報</title>
-    <url>/2021/01/11/2021-01-11/</url>
+    <url>/2021/01/11/diary/2021-01-11/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store.steampowered.com/app/680980/_/?l=japanese">HEADLINER</a><ul>
@@ -245,7 +284,7 @@
   </entry>
   <entry>
     <title>21/01/12 日誌</title>
-    <url>/2021/01/12/2021-01-12/</url>
+    <url>/2021/01/12/diary/2021-01-12/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store.steampowered.com/app/1049410/Superliminal/?l=japanese">Superliminal</a></li>
@@ -266,7 +305,7 @@
   </entry>
   <entry>
     <title>21/01/13 日誌</title>
-    <url>/2021/01/13/2021-01-13/</url>
+    <url>/2021/01/13/diary/2021-01-13/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 </ul>
@@ -285,7 +324,7 @@
   </entry>
   <entry>
     <title>21/01/14 日誌</title>
-    <url>/2021/01/14/2021-01-14/</url>
+    <url>/2021/01/14/diary/2021-01-14/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store.steampowered.com/app/1049410/Superliminal/?l=japanese">Superliminal</a></li>
@@ -316,7 +355,7 @@
   </entry>
   <entry>
     <title>21/01/15 日誌</title>
-    <url>/2021/01/15/2021-01-15/</url>
+    <url>/2021/01/15/diary/2021-01-15/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E6%B3%95%E5%89%87">ベンフォードの法則</a><ul>
 <li>確かに一様分布じゃない限り偏りはありそう</li>
@@ -331,7 +370,7 @@
   </entry>
   <entry>
     <title>21/01/16 日誌</title>
-    <url>/2021/01/16/2021-01-16/</url>
+    <url>/2021/01/16/diary/2021-01-16/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store-jp.nintendo.com/list/software/70010000036097.html">Among Us</a></li>
@@ -357,7 +396,7 @@
   </entry>
   <entry>
     <title>21/01/17 日誌</title>
-    <url>/2021/01/17/2021-01-17/</url>
+    <url>/2021/01/17/diary/2021-01-17/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store.steampowered.com/app/1049410/Superliminal/?l=japanese">Superliminal</a></li>
@@ -385,7 +424,7 @@
   </entry>
   <entry>
     <title>21/01/18 日誌</title>
-    <url>/2021/01/18/2021-01-18/</url>
+    <url>/2021/01/18/diary/2021-01-18/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
 <li><a href="https://store.steampowered.com/app/1049410/Superliminal/?l=japanese">Superliminal</a></li>
@@ -403,7 +442,7 @@
   </entry>
   <entry>
     <title>21/01/19 日誌</title>
-    <url>/2021/01/19/2021-01-19/</url>
+    <url>/2021/01/19/diary/2021-01-19/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://automaton-media.com/articles/newsjp/20210118-149383/">マリオカート</a><ul>
 <li>あえて2ビット使ってるのも謎だけど、8時間20分もかなり謎</li>
@@ -418,7 +457,7 @@
   </entry>
   <entry>
     <title>21/01/20 日誌</title>
-    <url>/2021/01/20/2021-01-20/</url>
+    <url>/2021/01/20/diary/2021-01-20/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/423230/Furi/?l=japanese">Furi</a></li>
 </ul>
@@ -442,7 +481,7 @@
   </entry>
   <entry>
     <title>21/01/21 日誌</title>
-    <url>/2021/01/21/2021-01-21/</url>
+    <url>/2021/01/21/diary/2021-01-21/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://juneray.hatenablog.com/entry/dagashi_wo_tsukurou">駄菓子の二次創作</a><ul>
 <li>ちゃんと材料を見てアレンジ加えているあたり完全な二次創作</li>
@@ -462,7 +501,7 @@
   </entry>
   <entry>
     <title>21/01/22 日誌</title>
-    <url>/2021/01/22/2021-01-22/</url>
+    <url>/2021/01/22/diary/2021-01-22/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://twitter.com/masaka_k/status/1352248538671955973">文字化け</a><ul>
 <li>知らなかった</li>
@@ -491,7 +530,7 @@
   </entry>
   <entry>
     <title>21/01/23 日誌</title>
-    <url>/2021/01/23/2021-01-23/</url>
+    <url>/2021/01/23/diary/2021-01-23/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://forest.watch.impress.co.jp/docs/news/1301910.html">win32metadata</a><ul>
 <li>C++以外でも開発しやすくなるのはいいな</li>
@@ -511,7 +550,7 @@
   </entry>
   <entry>
     <title>21/01/24 日誌</title>
-    <url>/2021/01/24/2021-01-24/</url>
+    <url>/2021/01/24/diary/2021-01-24/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/423230/Furi/?l=japanese">Furi</a></li>
 </ul>
@@ -528,29 +567,14 @@
 ]]></content>
       <tags>
         <tag>Diary</tag>
-        <tag>Article</tag>
         <tag>Proof</tag>
+        <tag>Article</tag>
         <tag>Furi</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/25 日誌</title>
-    <url>/2021/01/25/2021-01-25/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://twitter.com/Daphnia_t_ponyo/status/1323253766125047808">ズバット</a><ul>
-<li>何も見つからなかった日は過去のを引っ張り出してお茶を濁しています</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>21/01/26 日誌</title>
-    <url>/2021/01/26/2021-01-26/</url>
+    <url>/2021/01/26/diary/2021-01-26/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://mekasue.hatenablog.com/entry/2021/01/24/223555">カニノケンカ</a><ul>
 <li>面白い</li>
@@ -565,7 +589,7 @@
   </entry>
   <entry>
     <title>21/01/27 日誌</title>
-    <url>/2021/01/27/2021-01-27/</url>
+    <url>/2021/01/27/diary/2021-01-27/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://twitter.com/aikawa_yuduki/status/1354021958065688582">PとR</a><ul>
 <li>歴史の流れを感じる</li>
@@ -584,23 +608,23 @@
       </tags>
   </entry>
   <entry>
-    <title>2021-01-28 日誌</title>
-    <url>/2021/01/28/2021-01-28/</url>
+    <title>21/01/25 日誌</title>
+    <url>/2021/01/25/diary/2021-01-25/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://twitter.com/rei_software/status/1323772777279582208">有線LANが使えなくなる</a><ul>
-<li>こういう話好き</li>
+<li><a href="https://twitter.com/Daphnia_t_ponyo/status/1323253766125047808">ズバット</a><ul>
+<li>何も見つからなかった日は過去のを引っ張り出してお茶を濁しています</li>
 </ul>
 </li>
 </ul>
 ]]></content>
       <tags>
         <tag>Diary</tag>
-        <tag>Proof</tag>
+        <tag>Article</tag>
       </tags>
   </entry>
   <entry>
     <title>2021-01-29 日誌</title>
-    <url>/2021/01/29/2021-01-29/</url>
+    <url>/2021/01/29/diary/2021-01-29/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://papasensei365.com/excel-game-dq3/">Excelゲーム</a><ul>
 <li>VBAを使わない？</li>
@@ -614,8 +638,23 @@
       </tags>
   </entry>
   <entry>
+    <title>2021-01-28 日誌</title>
+    <url>/2021/01/28/diary/2021-01-28/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/rei_software/status/1323772777279582208">有線LANが使えなくなる</a><ul>
+<li>こういう話好き</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Proof</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2021-01-30 日誌</title>
-    <url>/2021/01/30/2021-01-30/</url>
+    <url>/2021/01/30/diary/2021-01-30/</url>
     <content><![CDATA[<p>Hexo を弄って色々出せるようにしていくの楽しい。<br>あとはイラストでも叩き込んで、Steamのリンクでも貼り付けて、アイコン出せるようにして、レビュー記事を雑に追加したら満足しそう。</p>
 <h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%A2%E3%82%A6%E3%83%88">アイリス・アウト</a><ul>
@@ -630,10 +669,14 @@
   </entry>
   <entry>
     <title>2021-01-31 日誌</title>
-    <url>/2021/01/31/2021-01-31/</url>
+    <url>/2021/01/31/diary/2021-01-31/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://www.youtube.com/watch?v=FCIFAeHrkEE&feature=youtu.be">リモートフィルム</a><ul>
 <li>良い感じのポストアポカリプス</li>
+</ul>
+</li>
+<li><a href="https://note.com/masashisan/n/ne2da4d91c673">インディー戦略</a><ul>
+<li>言うは易く行うは難しっぽいけど運用してるの素晴らしいなあ</li>
 </ul>
 </li>
 </ul>
@@ -643,42 +686,56 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo Tips</title>
-    <url>/2021/01/27/HexoTips-1/</url>
-    <content><![CDATA[<h2 id="タグでフィルタリングしてページを分けたい"><a href="#タグでフィルタリングしてページを分けたい" class="headerlink" title="タグでフィルタリングしてページを分けたい"></a>タグでフィルタリングしてページを分けたい</h2><p>日誌がHomeに並んでいるのが嫌だったので分けた。メモ書きが並ぶのも見目が悪い。</p>
-<h3 id="前提"><a href="#前提" class="headerlink" title="前提"></a>前提</h3><p>Hexo+NexT環境</p>
-<h3 id="手順"><a href="#手順" class="headerlink" title="手順"></a>手順</h3><ol>
-<li>公式の pagination をもってきて、ちょろっと弄る。</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">const &#123; format: _format, layout, data, perPage, includeTag, excludeTag &#125; &#x3D; Object.assign(&#123;</span><br><span class="line">  format: &#39;page&#x2F;%d&#x2F;&#39;,</span><br><span class="line">  layout: [&#39;archive&#39;, &#39;index&#39;],</span><br><span class="line">  data: &#123;&#125;,</span><br><span class="line">  perPage: 10,</span><br><span class="line">  includeTag: null,</span><br><span class="line">  excludeTag: null</span><br><span class="line">&#125;, options);</span><br><span class="line"></span><br><span class="line">const usePosts &#x3D; Object.create(posts);</span><br><span class="line">usePosts.data &#x3D; usePosts.data.sort((a, b) &#x3D;&gt; a.date.isBefore(b.date) ? 1 : a.date.isAfter(b.date) ? -1 : 0 )</span><br><span class="line">if (includeTag !&#x3D;&#x3D; null) &#123;</span><br><span class="line">  usePosts.data &#x3D; usePosts.data.filter(a &#x3D;&gt; a.tags.data.some(tag &#x3D;&gt; tag.name &#x3D;&#x3D; includeTag));</span><br><span class="line">  usePosts.length &#x3D; usePosts.data.length;</span><br><span class="line">&#125;</span><br><span class="line">if (excludeTag !&#x3D;&#x3D; null) &#123;</span><br><span class="line">  usePosts.data &#x3D; usePosts.data.filter(a &#x3D;&gt; !a.tags.data.some(tag &#x3D;&gt; tag.name &#x3D;&#x3D; excludeTag));</span><br><span class="line">  usePosts.length &#x3D; usePosts.data.length;</span><br><span class="line">&#125;</span><br><span class="line">const length &#x3D; usePosts.data.length;</span><br></pre></td></tr></table></figure>
-<p>適当に<code>posts</code>を弄ってフィルタリングする。コピーはしておかないとデータを破壊するので注意。</p>
-<ol start="2">
-<li>pagination を生成時フックにかけて、特定ディレクトリ以下にページ分けしたデータを入れる。</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var pagination &#x3D; require(&#39;.&#x2F;lib&#x2F;pagination&#39;);</span><br><span class="line">hexo.extend.generator.register(&#39;home&#39;, function(locals)&#123;</span><br><span class="line">  &#x2F;&#x2F; hexo-pagination makes an index.html for the &#x2F;archives route</span><br><span class="line">  return pagination(&#39;home&#39;, locals.posts, &#123;</span><br><span class="line">    perPage: 10,</span><br><span class="line">    layout: [&#39;index&#39;],</span><br><span class="line">    excludeTag: &#39;Diary&#39;</span><br><span class="line">  &#125;);</span><br><span class="line">&#125;);</span><br><span class="line">hexo.extend.generator.register(&#39;diary&#39;, function(locals)&#123;</span><br><span class="line">  &#x2F;&#x2F; hexo-pagination makes an index.html for the &#x2F;archives route</span><br><span class="line">  return pagination(&#39;diary&#39;, locals.posts, &#123;</span><br><span class="line">    perPage: 10,</span><br><span class="line">    layout: [&#39;diary&#39;, &#39;archive&#39;, &#39;index&#39;],</span><br><span class="line">    includeTag: &#39;Diary&#39;</span><br><span class="line">  &#125;);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
-<p>今回は考えるのが面倒だったので<code>next/scripts/events/index.js</code>にべた書き。これで<code>Diary</code>タグの有無でフィルタリングしてページわけできる。</p>
-<ol start="3">
-<li><code>_config.yml</code>のmenuのhomeやdiaryをそのディレクトリにしておく。</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">menu:</span><br><span class="line">  home: &#x2F;home&#x2F; || fa fa-home</span><br><span class="line">  archives: &#x2F;archives&#x2F; || fa fa-archive</span><br><span class="line">  tags: &#x2F;tags&#x2F; || fa fa-tags</span><br><span class="line">  diary: &#x2F;diary&#x2F; || fa fa-archive</span><br></pre></td></tr></table></figure>
-<p>ついでに<code>diary</code>用のlayoutファイルをindexからコピペして作っておく。</p>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://hexo.io/docs/variables#Site-Variables">使える変数</a><ul>
-<li>njk いじる時には使う</li>
-</ul>
-</li>
-<li><a href="https://hexo.io/api/generator.html">Generator</a><ul>
-<li>生成時フック</li>
-</ul>
-</li>
-<li><a href="https://github.com/hexojs/hexo-pagination">pagination</a><ul>
-<li>元ネタ</li>
-</ul>
-</li>
-</ul>
+    <title>Recursed</title>
+    <url>/2021/01/31/review/Recursed/index/</url>
+    <content><![CDATA[<p><a href="https://store.steampowered.com/app/497780/Recursed/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603"></a></p>
+<p>パズルゲームという砂場は様々な概念を変換しうる土壌を持っています。同じ倉庫番でも、そこにキャラクター性を足せばHellTakerとなり、ルール構築という概念を入れればBaba Is Youとなります。<br>このゲーム、Recursedはパズルゲームに再帰をはじめとしたプログラミングの概念を組み入れた作品です。</p>
+<p>ゲームルールはいたってシンプルであり、物をつかむ、直線上に投げる、ジャンプの3つのアクションを使って、ステージにある宝石をとればクリアとなります。<br>ステージはいくつかの部屋に分かれており、宝箱に入ることでその部屋に入ることができます。</p>
+<p>しかし、このゲームは単純に一筋縄で解けるものではありません。このゲームを複雑にしているのは、物をつかむというアクションです。<br>このアクションでつかめるのは扉を開ける鍵や、足場となるブロックだけではありません。なんと部屋に入ることのできる宝箱すら掴んで持ち運べるのです。</p>
+<p>加えて、部屋に一度入ってから出ると、その部屋の状態は初期状態にリセットされます。例えば、ブロックが一つおいてある部屋に入ってブロックを掴んで持ち出しても、入り直せばまたブロックが復活しているのです。</p>
+<p>これらの性質をうまく活用していくことがこのゲームを攻略するカギとなっていきます。</p>
+<table>
+<thead>
+<tr>
+<th>ルールはシンプル</th>
+<th>宝箱を持って入る</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="images%5Crecursed%5C20201215025239_1.jpg"></td>
+<td><img src="images%5Crecursed%5C20201215025255_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>そして、ここまでの説明で勘の良い方はお気づきかもしれませんが、この性質はプログラミングの概念として解釈できます。<br>部屋に入ることのできる宝箱は一つの引数(持ち運び)、一つの返り値(持ち出し)を持つ関数ポインタと考えることができます。<br>そう考えれば宝箱を持って入るのは関数ポインタを引数として渡したと解釈できますし、入るたびに状態がリセットされるのはローカル変数が初期化されたとでも解釈できます。</p>
+<p>さらにステージを進むにつれて、より複雑な概念が現れていきます。ステージに必ず一つしか存在しなくなる緑色のオーラ(static)、水に沈めると状態が変わる宝箱(仮想関数？)、亀裂から出ることでその部屋で行った行為を状態保存して入り口を持って出てこれる瓶(継続)、入るとそれまでのすべての行為は保存されたままそれの対が置かれた別の部屋に入ることのできる大釜(スレッド)。<br>様々なプログラミングの概念がパズルに綺麗に落とし込まれています。</p>
+<table>
+<thead>
+<tr>
+<th>static</th>
+<th>スレッド</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://i.imgur.com/yN9o8BL.jpg"></td>
+<td><img src="https://i.imgur.com/sHqL5QI.jpg"></td>
+</tr>
+</tbody></table>
+<p>プログラミングにおいてカバレッジを100%にすることが難しいように、あらゆる可能性を考慮してRecursedのパズルを解くのは難問となります。<br>その分、結果からの逆算をちゃんと行ってクリアできた時の達成感はかなりのものです。</p>
+<p>また、このゲームを進めていくと、ある条件下ではグリッチが起こせることに気づくでしょう。<br>このグリッチを見つけ出すことで、さらなる難問へとチャレンジすることもできます。</p>
+<table>
+<thead>
+<tr>
+<th>????</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://i.imgur.com/S8iJnxC.jpg"></td>
+</tr>
+</tbody></table>
+<p>Recursedは再帰をパズルのギミックとして取り入れ、あたかもプログラムの様に解くパズルゲームとなっています。<br>一方で、このゲームはプログラムの知識を必要とするわけではありません。あくまで概念として取り入れて、パズルへと昇華した作品ですので、プログラマーの方以外でも気軽にプレイしてみてください。</p>
 ]]></content>
       <tags>
-        <tag>Hexo</tag>
+        <tag>review</tag>
       </tags>
   </entry>
   <entry>
@@ -712,13 +769,13 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>ノイマン</title>
-    <url>/illust/2017/12/05/index.html</url>
+    <title>緋色のFA</title>
+    <url>/illust/2018/08/28/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>緋色のFA</title>
-    <url>/illust/2018/08/28/index.html</url>
+    <title>ノイマン</title>
+    <url>/illust/2017/12/05/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>

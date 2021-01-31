@@ -125,8 +125,8 @@
 <nav class="site-nav">
   <ul class="main-menu menu">
         <li class="menu-item menu-item-home"><a href="/home/" rel="section"><i class="fa fa-home fa-fw"></i>ホーム</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>アーカイブ<span class="badge">28</span></a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>タグ<span class="badge">33</span></a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>アーカイブ<span class="badge">29</span></a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>タグ<span class="badge">34</span></a></li>
         <li class="menu-item menu-item-diary"><a href="/diary/" rel="section"><i class="fa fa-book fa-fw"></i>日誌</a></li>
         <li class="menu-item menu-item-review"><a href="/review/" rel="section"><i class="fa fa-gamepad fa-fw"></i>レビュー</a></li>
         <li class="menu-item menu-item-product"><a href="/product/" rel="section"><i class="fa fa-database fa-fw"></i>プロダクト</a></li>
@@ -238,7 +238,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/31/2021-01-31/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/31/review/Recursed/index/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -251,7 +251,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/31/2021-01-31/" class="post-title-link" itemprop="url">2021-01-31 日誌</a>
+          <a href="/2021/01/31/review/Recursed/index/" class="post-title-link" itemprop="url">Recursed</a>
         </h2>
 
         <div class="post-meta-container">
@@ -263,7 +263,116 @@
       <span class="post-meta-item-text">投稿日</span>
       
 
-      <time title="作成日：2021-01-31 13:32:34 / 修正日：13:33:37" itemprop="dateCreated datePublished" datetime="2021-01-31T13:32:34+09:00">2021-01-31</time>
+      <time title="作成日：2021-01-31 17:08:59 / 修正日：17:16:20" itemprop="dateCreated datePublished" datetime="2021-01-31T17:08:59+09:00">2021-01-31</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p><a target="_blank" rel="external nofollow noopener noreferrer" href="https://store.steampowered.com/app/497780/Recursed/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603"></a></p>
+<p>パズルゲームという砂場は様々な概念を変換しうる土壌を持っています。同じ倉庫番でも、そこにキャラクター性を足せばHellTakerとなり、ルール構築という概念を入れればBaba Is Youとなります。<br>このゲーム、Recursedはパズルゲームに再帰をはじめとしたプログラミングの概念を組み入れた作品です。</p>
+<p>ゲームルールはいたってシンプルであり、物をつかむ、直線上に投げる、ジャンプの3つのアクションを使って、ステージにある宝石をとればクリアとなります。<br>ステージはいくつかの部屋に分かれており、宝箱に入ることでその部屋に入ることができます。</p>
+<p>しかし、このゲームは単純に一筋縄で解けるものではありません。このゲームを複雑にしているのは、物をつかむというアクションです。<br>このアクションでつかめるのは扉を開ける鍵や、足場となるブロックだけではありません。なんと部屋に入ることのできる宝箱すら掴んで持ち運べるのです。</p>
+<p>加えて、部屋に一度入ってから出ると、その部屋の状態は初期状態にリセットされます。例えば、ブロックが一つおいてある部屋に入ってブロックを掴んで持ち出しても、入り直せばまたブロックが復活しているのです。</p>
+<p>これらの性質をうまく活用していくことがこのゲームを攻略するカギとなっていきます。</p>
+<table>
+<thead>
+<tr>
+<th>ルールはシンプル</th>
+<th>宝箱を持って入る</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="images%5Crecursed%5C20201215025239_1.jpg"></td>
+<td><img src="images%5Crecursed%5C20201215025255_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>そして、ここまでの説明で勘の良い方はお気づきかもしれませんが、この性質はプログラミングの概念として解釈できます。<br>部屋に入ることのできる宝箱は一つの引数(持ち運び)、一つの返り値(持ち出し)を持つ関数ポインタと考えることができます。<br>そう考えれば宝箱を持って入るのは関数ポインタを引数として渡したと解釈できますし、入るたびに状態がリセットされるのはローカル変数が初期化されたとでも解釈できます。</p>
+<p>さらにステージを進むにつれて、より複雑な概念が現れていきます。ステージに必ず一つしか存在しなくなる緑色のオーラ(static)、水に沈めると状態が変わる宝箱(仮想関数？)、亀裂から出ることでその部屋で行った行為を状態保存して入り口を持って出てこれる瓶(継続)、入るとそれまでのすべての行為は保存されたままそれの対が置かれた別の部屋に入ることのできる大釜(スレッド)。<br>様々なプログラミングの概念がパズルに綺麗に落とし込まれています。</p>
+<table>
+<thead>
+<tr>
+<th>static</th>
+<th>スレッド</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://i.imgur.com/yN9o8BL.jpg"></td>
+<td><img src="https://i.imgur.com/sHqL5QI.jpg"></td>
+</tr>
+</tbody></table>
+<p>プログラミングにおいてカバレッジを100%にすることが難しいように、あらゆる可能性を考慮してRecursedのパズルを解くのは難問となります。<br>その分、結果からの逆算をちゃんと行ってクリアできた時の達成感はかなりのものです。</p>
+<p>また、このゲームを進めていくと、ある条件下ではグリッチが起こせることに気づくでしょう。<br>このグリッチを見つけ出すことで、さらなる難問へとチャレンジすることもできます。</p>
+<table>
+<thead>
+<tr>
+<th>????</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://i.imgur.com/S8iJnxC.jpg"></td>
+</tr>
+</tbody></table>
+<p>Recursedは再帰をパズルのギミックとして取り入れ、あたかもプログラムの様に解くパズルゲームとなっています。<br>一方で、このゲームはプログラムの知識を必要とするわけではありません。あくまで概念として取り入れて、パズルへと昇華した作品ですので、プログラマーの方以外でも気軽にプレイしてみてください。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/31/diary/2021-01-31/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/./images/avater.png">
+      <meta itemprop="name" content="narratology">
+      <meta itemprop="description" content="個人的なメモ帳、あるいは砂場">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Blog">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2021/01/31/diary/2021-01-31/" class="post-title-link" itemprop="url">2021-01-31 日誌</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">投稿日</span>
+      
+
+      <time title="作成日：2021-01-31 13:32:34 / 修正日：17:01:06" itemprop="dateCreated datePublished" datetime="2021-01-31T13:32:34+09:00">2021-01-31</time>
     </span>
 
   
@@ -279,6 +388,10 @@
           <h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a target="_blank" rel="external nofollow noopener noreferrer" href="https://www.youtube.com/watch?v=FCIFAeHrkEE&feature=youtu.be">リモートフィルム</a><ul>
 <li>良い感じのポストアポカリプス</li>
+</ul>
+</li>
+<li><a target="_blank" rel="external nofollow noopener noreferrer" href="https://note.com/masashisan/n/ne2da4d91c673">インディー戦略</a><ul>
+<li>言うは易く行うは難しっぽいけど運用してるの素晴らしいなあ</li>
 </ul>
 </li>
 </ul>
@@ -308,7 +421,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/30/2021-01-30/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/30/diary/2021-01-30/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -321,7 +434,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/30/2021-01-30/" class="post-title-link" itemprop="url">2021-01-30 日誌</a>
+          <a href="/2021/01/30/diary/2021-01-30/" class="post-title-link" itemprop="url">2021-01-30 日誌</a>
         </h2>
 
         <div class="post-meta-container">
@@ -339,7 +452,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">編集日</span>
-        <time title="修正日：2021-01-31 13:13:55" itemprop="dateModified" datetime="2021-01-31T13:13:55+09:00">2021-01-31</time>
+        <time title="修正日：2021-01-31 17:01:06" itemprop="dateModified" datetime="2021-01-31T17:01:06+09:00">2021-01-31</time>
       </span>
 
   
@@ -385,7 +498,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/29/2021-01-29/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/29/diary/2021-01-29/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -398,7 +511,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/29/2021-01-29/" class="post-title-link" itemprop="url">2021-01-29 日誌</a>
+          <a href="/2021/01/29/diary/2021-01-29/" class="post-title-link" itemprop="url">2021-01-29 日誌</a>
         </h2>
 
         <div class="post-meta-container">
@@ -416,7 +529,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">編集日</span>
-        <time title="修正日：2021-01-30 01:58:50" itemprop="dateModified" datetime="2021-01-30T01:58:50+09:00">2021-01-30</time>
+        <time title="修正日：2021-01-31 17:01:06" itemprop="dateModified" datetime="2021-01-31T17:01:06+09:00">2021-01-31</time>
       </span>
 
   
@@ -461,7 +574,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/28/2021-01-28/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/28/diary/2021-01-28/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -474,7 +587,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/28/2021-01-28/" class="post-title-link" itemprop="url">2021-01-28 日誌</a>
+          <a href="/2021/01/28/diary/2021-01-28/" class="post-title-link" itemprop="url">2021-01-28 日誌</a>
         </h2>
 
         <div class="post-meta-container">
@@ -492,7 +605,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">編集日</span>
-        <time title="修正日：2021-01-29 00:59:27" itemprop="dateModified" datetime="2021-01-29T00:59:27+09:00">2021-01-29</time>
+        <time title="修正日：2021-01-31 17:01:06" itemprop="dateModified" datetime="2021-01-31T17:01:06+09:00">2021-01-31</time>
       </span>
 
   
@@ -632,7 +745,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/27/2021-01-27/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/27/diary/2021-01-27/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -645,7 +758,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/27/2021-01-27/" class="post-title-link" itemprop="url">21/01/27 日誌</a>
+          <a href="/2021/01/27/diary/2021-01-27/" class="post-title-link" itemprop="url">21/01/27 日誌</a>
         </h2>
 
         <div class="post-meta-container">
@@ -655,10 +768,16 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">投稿日</span>
-      
 
-      <time title="作成日：2021-01-27 00:25:59 / 修正日：23:44:48" itemprop="dateCreated datePublished" datetime="2021-01-27T00:25:59+09:00">2021-01-27</time>
+      <time title="作成日：2021-01-27 00:25:59" itemprop="dateCreated datePublished" datetime="2021-01-27T00:25:59+09:00">2021-01-27</time>
     </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">編集日</span>
+        <time title="修正日：2021-01-31 17:01:06" itemprop="dateModified" datetime="2021-01-31T17:01:06+09:00">2021-01-31</time>
+      </span>
 
   
 </div>
@@ -706,7 +825,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/26/2021-01-26/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/26/diary/2021-01-26/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -719,7 +838,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/26/2021-01-26/" class="post-title-link" itemprop="url">21/01/26 日誌</a>
+          <a href="/2021/01/26/diary/2021-01-26/" class="post-title-link" itemprop="url">21/01/26 日誌</a>
         </h2>
 
         <div class="post-meta-container">
@@ -729,10 +848,16 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">投稿日</span>
-      
 
-      <time title="作成日：2021-01-26 09:17:30 / 修正日：09:19:31" itemprop="dateCreated datePublished" datetime="2021-01-26T09:17:30+09:00">2021-01-26</time>
+      <time title="作成日：2021-01-26 09:17:30" itemprop="dateCreated datePublished" datetime="2021-01-26T09:17:30+09:00">2021-01-26</time>
     </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">編集日</span>
+        <time title="修正日：2021-01-31 17:01:06" itemprop="dateModified" datetime="2021-01-31T17:01:06+09:00">2021-01-31</time>
+      </span>
 
   
 </div>
@@ -776,7 +901,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/25/2021-01-25/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/25/diary/2021-01-25/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -789,7 +914,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/25/2021-01-25/" class="post-title-link" itemprop="url">21/01/25 日誌</a>
+          <a href="/2021/01/25/diary/2021-01-25/" class="post-title-link" itemprop="url">21/01/25 日誌</a>
         </h2>
 
         <div class="post-meta-container">
@@ -807,7 +932,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">編集日</span>
-        <time title="修正日：2021-01-26 03:34:38" itemprop="dateModified" datetime="2021-01-26T03:34:38+09:00">2021-01-26</time>
+        <time title="修正日：2021-01-31 17:01:06" itemprop="dateModified" datetime="2021-01-31T17:01:06+09:00">2021-01-31</time>
       </span>
 
   
@@ -852,7 +977,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/24/2021-01-24/">
+    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/24/diary/2021-01-24/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/./images/avater.png">
@@ -865,7 +990,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/24/2021-01-24/" class="post-title-link" itemprop="url">21/01/24 日誌</a>
+          <a href="/2021/01/24/diary/2021-01-24/" class="post-title-link" itemprop="url">21/01/24 日誌</a>
         </h2>
 
         <div class="post-meta-container">
@@ -883,7 +1008,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">編集日</span>
-        <time title="修正日：2021-01-26 03:33:49" itemprop="dateModified" datetime="2021-01-26T03:33:49+09:00">2021-01-26</time>
+        <time title="修正日：2021-01-31 17:01:06" itemprop="dateModified" datetime="2021-01-31T17:01:06+09:00">2021-01-31</time>
       </span>
 
   
@@ -906,86 +1031,6 @@
 </li>
 <li><a target="_blank" rel="external nofollow noopener noreferrer" href="https://toyokeizai.net/articles/-/405149?page=3">配管</a><ul>
 <li>こういうことをちゃんと取材するほうもされるほうも素晴らしい</li>
-</ul>
-</li>
-</ul>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang>
-    <link itemprop="mainEntityOfPage" href="https://expine.github.io/2021/01/23/2021-01-23/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/./images/avater.png">
-      <meta itemprop="name" content="narratology">
-      <meta itemprop="description" content="個人的なメモ帳、あるいは砂場">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Blog">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2021/01/23/2021-01-23/" class="post-title-link" itemprop="url">21/01/23 日誌</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">投稿日</span>
-
-      <time title="作成日：2021-01-23 20:03:49" itemprop="dateCreated datePublished" datetime="2021-01-23T20:03:49+09:00">2021-01-23</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">編集日</span>
-        <time title="修正日：2021-01-26 03:33:10" itemprop="dateModified" datetime="2021-01-26T03:33:10+09:00">2021-01-26</time>
-      </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a target="_blank" rel="external nofollow noopener noreferrer" href="https://forest.watch.impress.co.jp/docs/news/1301910.html">win32metadata</a><ul>
-<li>C++以外でも開発しやすくなるのはいいな</li>
-</ul>
-</li>
-<li><a target="_blank" rel="external nofollow noopener noreferrer" href="https://blog.bitchunk.net/development/konsairi_steamsale/">Steam</a><ul>
-<li>遊ぶ側から見ても楽しいゲームっぽく見せるのは難しそう</li>
 </ul>
 </li>
 </ul>
