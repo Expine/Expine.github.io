@@ -1984,7 +1984,7 @@ pre code {
 }
 .post-gallery {
   display: flex;
-  min-height: 200px;
+  min-height: 50px;
 }
 .post-gallery .post-gallery-image {
   flex: 1;
@@ -2898,4 +2898,8 @@ body {
   transform: translate(-50%, -50%);
   width: 100%;
   height: auto;
+}
+.post-gallery .gallery-small-img img {
+  width: 25%;
+  float: left;
 }

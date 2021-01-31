@@ -10,9 +10,15 @@
 
     <url>
         <loc>https://Expine.github.io/2021/01/31/review/Recursed/index/</loc>
-        <lastmod>2021-01-31T08:16:20.775Z</lastmod>
+        <lastmod>2021-01-31T09:33:58.937Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603</image:loc>
+
+        </image:image>
 
     </url>
 
