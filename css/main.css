@@ -2721,7 +2721,6 @@ mark.search-keyword {
   position: sticky;
   top: 12px;
   width: 180px;
-  visibility: hidden;
 }
 @media (max-width: 991px) {
   .sidebar {

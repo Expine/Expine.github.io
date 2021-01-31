@@ -175,6 +175,35 @@
       </tags>
   </entry>
   <entry>
+    <title>21/01/10 日誌</title>
+    <url>/2021/01/10/2021-01-10/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
+<li><a href="https://store-jp.nintendo.com/list/software/70010000036097.html">Among Us</a><ul>
+<li>無限にやれそう</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/minyoruminyon/status/1348118623575896065">シェル芸</a><ul>
+<li>すごい</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/MegaX2_/status/1172714388979163137">バグ</a><ul>
+<li>コピーした時点で何か速度がおかしくなってる？</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Among Us</tag>
+        <tag>Programing</tag>
+        <tag>Bug</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>21/01/11 日報</title>
     <url>/2021/01/11/2021-01-11/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
@@ -208,39 +237,10 @@
         <tag>Diary</tag>
         <tag>退廃思考</tag>
         <tag>Service</tag>
+        <tag>Programing</tag>
         <tag>HEADLINER</tag>
         <tag>PECO</tag>
         <tag>Superliminal</tag>
-        <tag>Programing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/10 日誌</title>
-    <url>/2021/01/10/2021-01-10/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
-<li><a href="https://store-jp.nintendo.com/list/software/70010000036097.html">Among Us</a><ul>
-<li>無限にやれそう</li>
-</ul>
-</li>
-</ul>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://twitter.com/minyoruminyon/status/1348118623575896065">シェル芸</a><ul>
-<li>すごい</li>
-</ul>
-</li>
-<li><a href="https://twitter.com/MegaX2_/status/1172714388979163137">バグ</a><ul>
-<li>コピーした時点で何か速度がおかしくなってる？</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>退廃思考</tag>
-        <tag>Programing</tag>
-        <tag>Among Us</tag>
-        <tag>Bug</tag>
       </tags>
   </entry>
   <entry>
@@ -260,8 +260,8 @@
       <tags>
         <tag>Diary</tag>
         <tag>退廃思考</tag>
-        <tag>Superliminal</tag>
         <tag>Programing</tag>
+        <tag>Superliminal</tag>
       </tags>
   </entry>
   <entry>
@@ -309,9 +309,24 @@
         <tag>Diary</tag>
         <tag>退廃思考</tag>
         <tag>Article</tag>
-        <tag>Superliminal</tag>
         <tag>Programing</tag>
+        <tag>Superliminal</tag>
         <tag>Titech</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>21/01/15 日誌</title>
+    <url>/2021/01/15/2021-01-15/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E6%B3%95%E5%89%87">ベンフォードの法則</a><ul>
+<li>確かに一様分布じゃない限り偏りはありそう</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Trivia</tag>
       </tags>
   </entry>
   <entry>
@@ -366,21 +381,6 @@
         <tag>Superliminal</tag>
         <tag>Understand</tag>
         <tag>Comedy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/15 日誌</title>
-    <url>/2021/01/15/2021-01-15/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E6%B3%95%E5%89%87">ベンフォードの法則</a><ul>
-<li>確かに一様分布じゃない限り偏りはありそう</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Trivia</tag>
       </tags>
   </entry>
   <entry>
@@ -441,6 +441,26 @@
       </tags>
   </entry>
   <entry>
+    <title>21/01/21 日誌</title>
+    <url>/2021/01/21/2021-01-21/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://juneray.hatenablog.com/entry/dagashi_wo_tsukurou">駄菓子の二次創作</a><ul>
+<li>ちゃんと材料を見てアレンジ加えているあたり完全な二次創作</li>
+</ul>
+</li>
+<li><a href="https://thisanimedoesnotexist.ai/index_jp.html">イラスト</a><ul>
+<li>遠目で見るとそれっぽく、近くで見るとやばいのが分かる。というか原型とどめすぎてるのかもしれない</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>Article</tag>
+        <tag>Service</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>21/01/22 日誌</title>
     <url>/2021/01/22/2021-01-22/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
@@ -467,26 +487,6 @@
         <tag>Article</tag>
         <tag>Trivia</tag>
         <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/21 日誌</title>
-    <url>/2021/01/21/2021-01-21/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://juneray.hatenablog.com/entry/dagashi_wo_tsukurou">駄菓子の二次創作</a><ul>
-<li>ちゃんと材料を見てアレンジ加えているあたり完全な二次創作</li>
-</ul>
-</li>
-<li><a href="https://thisanimedoesnotexist.ai/index_jp.html">イラスト</a><ul>
-<li>遠目で見るとそれっぽく、近くで見るとやばいのが分かる。というか原型とどめすぎてるのかもしれない</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Service</tag>
       </tags>
   </entry>
   <entry>
@@ -712,13 +712,13 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>緋色のFA</title>
-    <url>/illust/2018/08/28/index.html</url>
+    <title>ノイマン</title>
+    <url>/illust/2017/12/05/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>ノイマン</title>
-    <url>/illust/2017/12/05/index.html</url>
+    <title>緋色のFA</title>
+    <url>/illust/2018/08/28/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
