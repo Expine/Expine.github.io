@@ -2,7 +2,4 @@ User-agent: *
 Disallow: /archives/
 Disallow: /tags/
 Disallow: /assets/
-Disallow: /css/
-Disallow: /images/
-Disallow: /js/
 Sitemap: /sitemap.xml
