@@ -9,8 +9,35 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Mon, 01 Feb 2021 00:05:45 GMT</pubDate>
+    <pubDate>Mon, 01 Feb 2021 15:37:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2021-02-02 日誌</title>
+      <link>https://expine.github.io/2021/02/02/diary/2021-02-02/</link>
+      <guid>https://expine.github.io/2021/02/02/diary/2021-02-02/</guid>
+      <pubDate>Mon, 01 Feb 2021 15:18:20 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;リンク&quot;&gt;&lt;a href=&quot;#リンク&quot; class=&quot;headerlink&quot; title=&quot;リンク&quot;&gt;&lt;/a&gt;リンク&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.kyoto-np.co.jp/articles/-/493163&quot;&gt;宇宙法要&lt;</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://www.kyoto-np.co.jp/articles/-/493163">宇宙法要</a><ul><li>寺もユニバーサルな時代</li></ul></li><li><a href="https://pc.watch.impress.co.jp/docs/news/1303761.html">リーク監視</a><ul><li>対応が早いのかタイミングがいいのか</li></ul></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/tags/Service/">Service</category>
+      
+      
+      <comments>https://expine.github.io/2021/02/02/diary/2021-02-02/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2021-02-01 日誌</title>
@@ -32,36 +59,12 @@
       
       <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
       
-      <category domain="https://Expine.github.io/tags/%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">退廃思考</category>
-      
       <category domain="https://Expine.github.io/tags/Novel/">Novel</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">Game:退廃思考</category>
       
       
       <comments>https://expine.github.io/2021/02/01/diary/2021-02-01/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Recursed</title>
-      <link>https://expine.github.io/2021/01/31/review/Recursed/index/</link>
-      <guid>https://expine.github.io/2021/01/31/review/Recursed/index/</guid>
-      <pubDate>Sun, 31 Jan 2021 08:08:59 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;Recursed&quot;&gt;&lt;a href=&quot;#Recursed&quot; class=&quot;headerlink&quot; title=&quot;Recursed&quot;&gt;&lt;/a&gt;Recursed&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://store.steampowered.com/app/49</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="Recursed"><a href="#Recursed" class="headerlink" title="Recursed"></a>Recursed</h2><p><a href="https://store.steampowered.com/app/497780/Recursed/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603"></a></p><table><thead><tr><th>値段</th><th>クリア状況</th><th>実績</th><th>プレイ時間</th></tr></thead><tbody><tr><td>820</td><td>クリア</td><td>17 / 17</td><td>20時間</td></tr></tbody></table><table><thead><tr><th>お勧め度</th><th>コスパ</th></tr></thead><tbody><tr><td>★★★★★★★★☆☆</td><td>★★★★★★★☆☆☆</td></tr></tbody></table><p>パズルゲームという砂場は様々な概念を変換しうる土壌を持っています。同じ倉庫番でも、そこにキャラクター性を足せばHellTakerとなり、ルール構築という概念を入れればBaba Is Youとなります。<br>このゲーム、Recursedはパズルゲームに再帰をはじめとしたプログラミングの概念を組み入れた作品です。</p><h3 id="ルールはシンプル、経路は複雑"><a href="#ルールはシンプル、経路は複雑" class="headerlink" title="ルールはシンプル、経路は複雑"></a>ルールはシンプル、経路は複雑</h3><table><thead><tr><th>ルールはシンプル</th><th>宝箱を持って入る</th></tr></thead><tbody><tr><td><img src="/images/recursed/20201215025239_1.jpg"></td><td><img src="/images/recursed/20201215025256_1.jpg"></td></tr></tbody></table><p>ゲームのルールはいたってシンプルであり、物をつかむ、直線上に投げる、ジャンプの3つのアクションを使って、ステージにある宝石をとればクリアとなります。<br>さらに、ステージはいくつかの部屋に分かれており、宝箱に入ることでその部屋に入ることができます。</p><p>しかし、このゲームは単純に一筋縄で解けるものではありません。物をつかむというアクションが、このゲームを複雑怪奇なものにしています。<br>このアクションでつかめるのは扉を開ける鍵や、足場となるブロックだけではありません。なんと部屋の入り口である宝箱すら掴んで持ち運べるのです。</p><p>また、部屋に入り直すことで、その部屋の状態は初期状態にリセットされます。例えば、ブロックが一つおいてある部屋に入ってブロックを掴んで持ち出しても、入り直せばまたブロックが復活しているのです。</p><p>これらの性質をうまく活用していくことがこのゲームを攻略するカギとなっていきます。<br>ある部屋でブロックが複数必要なら、その部屋にブロックが一つおいてある宝箱を持ち込んで、その宝箱からブロックを必要な数取り出すなど、課題を解決するには複雑なアプローチが必要になっていくでしょう。</p><h3 id="プログラムとの連関"><a href="#プログラムとの連関" class="headerlink" title="プログラムとの連関"></a>プログラムとの連関</h3><table><thead><tr><th>static</th><th>スレッド</th></tr></thead><tbody><tr><td><img src="/images/recursed/20201215025505_1.jpg"></td><td><img src="/images/recursed/20201215025448_1.jpg"></td></tr></tbody></table><p>そして、ここまでの説明で勘の良い方はお気づきかもしれませんが、この性質はプログラミングの概念として解釈できます。<br>部屋に入ることのできる宝箱は一つの引数(持ち運び)、一つの返り値(持ち出し)を持つ関数ポインタと考えることができます。<br>そう考えれば宝箱を持って入るのは関数ポインタを引数として渡したと解釈できますし、入るたびに状態がリセットされるのはローカル変数が初期化されたとでも解釈できます。</p><p>さらにステージを進むにつれて、より複雑な概念が現れていきます。ステージに必ず一つしか存在しなくなる緑色のオーラ(static)、水に沈めると状態が変わる宝箱(仮想関数？)、亀裂から出ることでその部屋で行った行為を状態保存して入り口を持って出てこれる瓶(継続)、入るとそれまでのすべての行為は保存されたままそれの対が置かれた別の部屋に入ることのできる大釜(スレッド)。<br>様々なプログラミングの概念がパズルに綺麗に落とし込まれています。</p><p>プログラミングにおいてカバレッジを100%にすることが難しいように、あらゆる可能性を考慮してRecursedのパズルを解くのは難問となります。<br>その分、結果からの逆算をちゃんと行ってクリアできた時の達成感は筆舌に尽くしがたいものがあります。</p><h3 id="隠し要素もある"><a href="#隠し要素もある" class="headerlink" title="隠し要素もある"></a>隠し要素もある</h3><table><thead><tr><th>????</th></tr></thead><tbody><tr><td><img src="/images/recursed/20200712184506_1.jpg"></td></tr></tbody></table><p>また、このゲームを進めていくと、ある条件下ではグリッチが起こせることに気づくでしょう。<br>このグリッチを見つけ出すことで、さらなる難問へとチャレンジすることもできます。</p><p>グリッチをステージから見つけ出すということも難しければ、グリッチのその先をクリアすることはさらに難しいものとなっています。最後まで歯ごたえのあるパズルを楽しめることでしょう。</p><h3 id="まとめ"><a href="#まとめ" class="headerlink" title="まとめ"></a>まとめ</h3><p>Recursedは再帰をパズルのギミックとして取り入れ、あたかもプログラムの様に解くパズルゲームとなっています。<br>一方で、このゲームはプログラムの知識を必要とするわけではありません。あくまで概念として取り入れて、パズルへと昇華した作品ですので、プログラマーの方以外でも気軽にプレイしてみてください。</p><h2 id="個人的な感想"><a href="#個人的な感想" class="headerlink" title="個人的な感想"></a>個人的な感想</h2><p>プログラマーが好きそうなパズルゲームという意味で、Induction なんかと軌を一にするゲームだと思っています。<br>別にプログラム的な知識を要求されたりはしませんが、思考の過程はかなりプログラマー寄りになってきそうな作品なので。</p><p>出来の良いパズルゲームをやると、クリアしたときに製作者は天才かと呟く時が来るんですが、この作品も例にもれずそういうタイプです。発想が天才的で、めちゃくちゃ美しく解けます。The Void の Escalate は控えめに言っても作った人は天才。</p><p>Interlock の複雑具合も、Escalate の頭がぶっ壊れそうな構成も、Flight の凄まじさも、大体全部好きです。好きなステージは結構多いゲームでした。</p>]]></content:encoded>
-      
-      
-      
-      <category domain="https://Expine.github.io/tags/Review/">Review</category>
-      
-      
-      <comments>https://expine.github.io/2021/01/31/review/Recursed/index/#disqus_thread</comments>
       
     </item>
     
@@ -87,11 +90,11 @@
       
       <category domain="https://Expine.github.io/tags/Art/">Art</category>
       
-      <category domain="https://Expine.github.io/tags/Furi/">Furi</category>
-      
       <category domain="https://Expine.github.io/tags/GameDev/">GameDev</category>
       
       <category domain="https://Expine.github.io/tags/Broadcast/">Broadcast</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-Furi/">Game:Furi</category>
       
       
       <comments>https://expine.github.io/2021/01/31/diary/2021-01-31/#disqus_thread</comments>
@@ -310,7 +313,7 @@
       
       <category domain="https://Expine.github.io/tags/Proof/">Proof</category>
       
-      <category domain="https://Expine.github.io/tags/Furi/">Furi</category>
+      <category domain="https://Expine.github.io/tags/Game-Furi/">Game:Furi</category>
       
       
       <comments>https://expine.github.io/2021/01/24/diary/2021-01-24/#disqus_thread</comments>
@@ -430,7 +433,7 @@
       
       <category domain="https://Expine.github.io/tags/Bug/">Bug</category>
       
-      <category domain="https://Expine.github.io/tags/Furi/">Furi</category>
+      <category domain="https://Expine.github.io/tags/Game-Furi/">Game:Furi</category>
       
       
       <comments>https://expine.github.io/2021/01/20/diary/2021-01-20/#disqus_thread</comments>
@@ -484,11 +487,11 @@
       
       <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
       
-      <category domain="https://Expine.github.io/tags/%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">退廃思考</category>
-      
-      <category domain="https://Expine.github.io/tags/Superliminal/">Superliminal</category>
-      
       <category domain="https://Expine.github.io/tags/Comedy/">Comedy</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">Game:退廃思考</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-Superliminal/">Game:Superliminal</category>
       
       
       <comments>https://expine.github.io/2021/01/18/diary/2021-01-18/#disqus_thread</comments>
@@ -515,15 +518,15 @@
       
       <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
       
-      <category domain="https://Expine.github.io/tags/%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">退廃思考</category>
-      
       <category domain="https://Expine.github.io/tags/Article/">Article</category>
       
-      <category domain="https://Expine.github.io/tags/Superliminal/">Superliminal</category>
-      
-      <category domain="https://Expine.github.io/tags/Understand/">Understand</category>
-      
       <category domain="https://Expine.github.io/tags/Comedy/">Comedy</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">Game:退廃思考</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-Superliminal/">Game:Superliminal</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-Understand/">Game:Understand</category>
       
       
       <comments>https://expine.github.io/2021/01/17/diary/2021-01-17/#disqus_thread</comments>
@@ -550,13 +553,13 @@
       
       <category domain="https://Expine.github.io/tags/Diary/">Diary</category>
       
-      <category domain="https://Expine.github.io/tags/%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">退廃思考</category>
-      
       <category domain="https://Expine.github.io/tags/Goods/">Goods</category>
       
-      <category domain="https://Expine.github.io/tags/Among-Us/">Among Us</category>
-      
       <category domain="https://Expine.github.io/tags/Art/">Art</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-%E9%80%80%E5%BB%83%E6%80%9D%E8%80%83/">Game:退廃思考</category>
+      
+      <category domain="https://Expine.github.io/tags/Game-Among-Us/">Game:Among Us</category>
       
       
       <comments>https://expine.github.io/2021/01/16/diary/2021-01-16/#disqus_thread</comments>
