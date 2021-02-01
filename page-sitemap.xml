@@ -10,17 +10,8 @@
     
     
     <url>
-        <loc>https://expine.github.io/review/wodicon2017/</loc>
-        <lastmod>2021-02-01T00:10:28.573Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://expine.github.io/review/wodicon2018/</loc>
-        <lastmod>2021-01-31T10:45:33.925Z</lastmod>
+        <loc>https://expine.github.io/review/wodifes2020/</loc>
+        <lastmod>2021-02-01T16:17:32.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -29,7 +20,7 @@
     
     <url>
         <loc>https://expine.github.io/review/wodicon2020/</loc>
-        <lastmod>2021-01-31T10:44:46.742Z</lastmod>
+        <lastmod>2021-02-01T16:17:22.993Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -38,7 +29,16 @@
     
     <url>
         <loc>https://expine.github.io/review/wodicon2019/</loc>
-        <lastmod>2021-01-31T10:44:35.069Z</lastmod>
+        <lastmod>2021-02-01T16:17:16.143Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://expine.github.io/review/wodicon2018/</loc>
+        <lastmod>2021-02-01T16:17:10.668Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -47,7 +47,16 @@
     
     <url>
         <loc>https://expine.github.io/review/wodicon2017/index2.html</loc>
-        <lastmod>2021-01-31T07:12:25.711Z</lastmod>
+        <lastmod>2021-02-01T16:17:05.073Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://expine.github.io/review/wodicon2017/</loc>
+        <lastmod>2021-02-01T16:10:32.148Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -102,15 +111,6 @@
     <url>
         <loc>https://expine.github.io/tags/</loc>
         <lastmod>2021-01-30T08:13:35.243Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://expine.github.io/review/wodifes2020/</loc>
-        <lastmod>2021-01-30T06:48:07.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
