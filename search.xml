@@ -783,6 +783,25 @@
       </tags>
   </entry>
   <entry>
+    <title>2021-02-01 日誌</title>
+    <url>/2021/02/01/diary/2021-02-01/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://gigazine.net/news/20210131-novelwriter/">NovelWriter</a><ul>
+<li>世の中はMarkdown時代</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+        <tag>退廃思考</tag>
+        <tag>Novel</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>illust</title>
     <url>/illust/index.html</url>
     <content><![CDATA[]]></content>
@@ -2547,7 +2566,7 @@ function toggle_bad() {
 <p><a name="caution"></a></p>
 <h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>このレビューは、筆者個人の独断と偏見によって書かれています。当然サークルの総意ではありませんし、筆者の好みが多分に影響していますことをご了承ください。<br>また、出来る限り気を付けていますが、一部ネタバレを含む可能性もあります。問題がある場合は、コメント等にて指摘していただけると助かります。<br>なお、レビュー内容は主にプレイ当時の初期バージョンに基づいています。大きく変更している場合は、最新バージョンについての言及も行いますが、漏れがある可能性があります。</p>
 <p><a name="before"></a></p>
-<h2 id="前書き"><a href="#前書き" class="headerlink" title="前書き"></a>前書き</h2><p><a href="http://www.silversecond.com/WolfRPGEditor/Contest/"><img src="http://www.silversecond.com/WolfRPGEditor/Contest/banner.png" width="468" height="60" class="alignnone size-medium"></a><br>WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製のゲームを競う、年一回開催のコンテストです。<br>今回は第9回になりますが、様々なゲームが出品され、大変楽しませてもらいました。全てのゲームをプレイし、ほとんどのゲームでクリアと呼べる地点まで到達する程には、遊ばせていただきました。<br>すでに結果発表と相成りましたので、ウディコンに出品された素晴らしい作品に対して、おこがましくもささやかな返礼として、紙面を頂くことができましたので、全作品のレビューを書こうと思った次第です。</p>
+<h2 id="前書き"><a href="#前書き" class="headerlink" title="前書き"></a>前書き</h2><p><a href="https://www.silversecond.com/WolfRPGEditor/Contest/result09.shtml"><img src="https://www.silversecond.com/WolfRPGEditor/Contest/Entry09/CMbanner.png" width="468" height="60" class="alignnone size-medium"></a><br>WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製のゲームを競う、年一回開催のコンテストです。<br>今回は第9回になりますが、様々なゲームが出品され、大変楽しませてもらいました。全てのゲームをプレイし、ほとんどのゲームでクリアと呼べる地点まで到達する程には、遊ばせていただきました。<br>すでに結果発表と相成りましたので、ウディコンに出品された素晴らしい作品に対して、おこがましくもささやかな返礼として、紙面を頂くことができましたので、全作品のレビューを書こうと思った次第です。</p>
 <p>なお、筆者は漫画でいえばARIAが好きで、最近出色と感じたのはインスタントバレットやリィンカーネーションの花弁で、小説でいえば米澤穂信さんが好きで、好きなゲームはFF10です。また、前回のウディコンで一番好きだったのがバケモノハイツです。その辺りを評価から差っ引いて考えると、より公平に感じるかもしれません。</p>
 <p>悪かった点を見るのが不快という方は、こちらのボタンを切り替えてください。悪い点が隠れます。<br><input type="button" id="bad_button" value="悪い点を見ない(現在の状態では、悪い点が見えます)" onclick="toggle_bad();"></p>
 <h2 id="レビュー-前半-1-40"><a href="#レビュー-前半-1-40" class="headerlink" title="レビュー(前半 1-40)"></a>レビュー(前半 1-40)</h2><p><a name="1"></a></p>
