@@ -9,6 +9,44 @@
 
 
     <url>
+        <loc>https://Expine.github.io/2020/07/09/review/Recursed/index/</loc>
+        <lastmod>2021-02-02T16:43:36.798Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025239_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025256_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025505_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025448_1.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://Expine.github.io/2021/02/03/diary/2021-02-03/</loc>
         <lastmod>2021-02-02T16:34:48.379Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -49,44 +87,6 @@
         <image:image>
 
             <image:loc>https://Expine.github.io/images/review/celeste/20201213210547_1.jpg</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://Expine.github.io/2020/07/09/review/Recursed/index/</loc>
-        <lastmod>2021-02-02T00:17:59.757Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025239_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025256_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025505_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025448_1.jpg</image:loc>
 
         </image:image>
 
