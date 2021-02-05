@@ -35,12 +35,13 @@
 </li>
 </ul>
 ]]></content>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
+      <categories>
+        <category>Programming</category>
+        <category>Hexo</category>
+      </categories>
   </entry>
   <entry>
-    <title>21/01/05 日誌</title>
+    <title>2021-01-05 日誌</title>
     <url>/2021/01/05/diary/2021-01-05/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/916050/Clocker/?l=japanese">Clocker</a><ul>
@@ -75,18 +76,20 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Academic</tag>
-        <tag>Books</tag>
-        <tag>Game:Clocker</tag>
-        <tag>Game:KIDS</tag>
-        <tag>Game:Cypher</tag>
-        <tag>Game:Blind Witch</tag>
+        <tag>Clocker</tag>
+        <tag>KIDS</tag>
+        <tag>Cypher</tag>
+        <tag>Blind Witch</tag>
+        <tag>学術</tag>
+        <tag>書籍</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/06 日誌</title>
+    <title>2021-01-06 日誌</title>
     <url>/2021/01/06/diary/2021-01-06/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a><ul>
@@ -133,19 +136,21 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Program</tag>
-        <tag>Goods</tag>
-        <tag>Trivia</tag>
-        <tag>Service</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Shrug Island</tag>
+        <tag>退廃思考</tag>
+        <tag>Shrug Island</tag>
+        <tag>読み物</tag>
+        <tag>プログラミング</tag>
+        <tag>グッズ</tag>
+        <tag>雑学</tag>
+        <tag>Webサービス</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/07 日誌</title>
+    <title>2021-01-07 日誌</title>
     <url>/2021/01/07/diary/2021-01-07/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -165,31 +170,18 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Illustration</tag>
-        <tag>Proof</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Forgotten Passages</tag>
+        <tag>退廃思考</tag>
+        <tag>Forgotten Passages</tag>
+        <tag>イラスト</tag>
+        <tag>検証</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/08 日誌</title>
-    <url>/2021/01/08/diary/2021-01-08/</url>
-    <content><![CDATA[<h1 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h1><ul>
-<li><a href="https://twitter.com/tomimoto5151/status/1020630764587642881">ペンタブ</a><ul>
-<li>そういえば最近お絵描きしていない</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Goods</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/10 日誌</title>
+    <title>2021-01-10 日誌</title>
     <url>/2021/01/10/diary/2021-01-10/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -209,16 +201,35 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Programing</tag>
-        <tag>Bug</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Among Us</tag>
+        <tag>退廃思考</tag>
+        <tag>プログラミング</tag>
+        <tag>Among Us</tag>
+        <tag>バグ</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/09 日誌</title>
+    <title>2021-01-08 日誌</title>
+    <url>/2021/01/08/diary/2021-01-08/</url>
+    <content><![CDATA[<h1 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h1><ul>
+<li><a href="https://twitter.com/tomimoto5151/status/1020630764587642881">ペンタブ</a><ul>
+<li>そういえば最近お絵描きしていない</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>グッズ</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-01-09 日誌</title>
     <url>/2021/01/09/diary/2021-01-09/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -235,15 +246,17 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Animation</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Forgotten Passages</tag>
+        <tag>退廃思考</tag>
+        <tag>Forgotten Passages</tag>
+        <tag>アニメーション</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/11 日誌</title>
+    <title>2021-01-11 日誌</title>
     <url>/2021/01/11/diary/2021-01-11/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -272,18 +285,41 @@
 </ul>
 <h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><p>SPECの人操って殺すケースが個人的に好きだったのだけれど、今思うとABCの本歌取りだなあと思って、クリスティー系の話が個人的好みなのを改めて認識した。<br>ちゃんと換骨奪胎してSPEC的な話に構成した脚本の方もすごい。</p>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Service</tag>
-        <tag>Programing</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Superliminal</tag>
-        <tag>Game:HEADLINER</tag>
-        <tag>Game:PECO</tag>
+        <tag>退廃思考</tag>
+        <tag>プログラミング</tag>
+        <tag>Webサービス</tag>
+        <tag>HEADLINER</tag>
+        <tag>PECO</tag>
+        <tag>Superliminal</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/12 日誌</title>
+    <title>2021-01-13 日誌</title>
+    <url>/2021/01/13/diary/2021-01-13/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://blog.ryotak.me/post/vscode-write-access/">脆弱性調査</a><ul>
+<li>追い方が綺麗</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>退廃思考</tag>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-01-12 日誌</title>
     <url>/2021/01/12/diary/2021-01-12/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -296,34 +332,17 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Programing</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Superliminal</tag>
+        <tag>退廃思考</tag>
+        <tag>プログラミング</tag>
+        <tag>Superliminal</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/13 日誌</title>
-    <url>/2021/01/13/diary/2021-01-13/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
-</ul>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://blog.ryotak.me/post/vscode-write-access/">脆弱性調査</a><ul>
-<li>追い方が綺麗</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Programing</tag>
-        <tag>Game:退廃思考</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/14 日誌</title>
+    <title>2021-01-14 日誌</title>
     <url>/2021/01/14/diary/2021-01-14/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -344,17 +363,19 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Programing</tag>
-        <tag>Titech</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Superliminal</tag>
+        <tag>退廃思考</tag>
+        <tag>読み物</tag>
+        <tag>プログラミング</tag>
+        <tag>Superliminal</tag>
+        <tag>東工大</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/15 日誌</title>
+    <title>2021-01-15 日誌</title>
     <url>/2021/01/15/diary/2021-01-15/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E6%B3%95%E5%89%87">ベンフォードの法則</a><ul>
@@ -363,13 +384,43 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Trivia</tag>
+        <tag>雑学</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/17 日誌</title>
+    <title>2021-01-16 日誌</title>
+    <url>/2021/01/16/diary/2021-01-16/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
+<li><a href="https://store-jp.nintendo.com/list/software/70010000036097.html">Among Us</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/da01220329/status/1350097608853876738">プラモ</a><ul>
+<li>脳がバグりそう</li>
+</ul>
+</li>
+<li><a href="https://www.indiegogo.com/projects/gpd-win3-the-world-s-1st-handheld-aaa-game-console#/">GPD WIN3</a><ul>
+<li>カード使えなかった</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>退廃思考</tag>
+        <tag>グッズ</tag>
+        <tag>Among Us</tag>
+        <tag>アート作品</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-01-17 日誌</title>
     <url>/2021/01/17/diary/2021-01-17/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -387,43 +438,36 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Comedy</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Superliminal</tag>
-        <tag>Game:Understand</tag>
+        <tag>退廃思考</tag>
+        <tag>Superliminal</tag>
+        <tag>Understand</tag>
+        <tag>ネタ</tag>
+        <tag>記事</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/16 日誌</title>
-    <url>/2021/01/16/diary/2021-01-16/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
-<li><a href="https://store-jp.nintendo.com/list/software/70010000036097.html">Among Us</a></li>
-</ul>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://twitter.com/da01220329/status/1350097608853876738">プラモ</a><ul>
-<li>脳がバグりそう</li>
-</ul>
-</li>
-<li><a href="https://www.indiegogo.com/projects/gpd-win3-the-world-s-1st-handheld-aaa-game-console#/">GPD WIN3</a><ul>
-<li>カード使えなかった</li>
+    <title>2021-01-19 日誌</title>
+    <url>/2021/01/19/diary/2021-01-19/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://automaton-media.com/articles/newsjp/20210118-149383/">マリオカート</a><ul>
+<li>あえて2ビット使ってるのも謎だけど、8時間20分もかなり謎</li>
 </ul>
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Goods</tag>
-        <tag>Art</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Among Us</tag>
+        <tag>バグ</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/18 日誌</title>
+    <title>2021-01-18 日誌</title>
     <url>/2021/01/18/diary/2021-01-18/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1205160/_Decadent_Thinking/?l=japanese">退廃思考</a></li>
@@ -433,15 +477,17 @@
 <li><a href="https://twitter.com/denicmarko/status/1271739092292821000">ニワトリが先</a></li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Comedy</tag>
-        <tag>Game:退廃思考</tag>
-        <tag>Game:Superliminal</tag>
+        <tag>退廃思考</tag>
+        <tag>Superliminal</tag>
+        <tag>ネタ</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/20 日誌</title>
+    <title>2021-01-20 日誌</title>
     <url>/2021/01/20/diary/2021-01-20/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/423230/Furi/?l=japanese">Furi</a></li>
@@ -457,30 +503,17 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Bug</tag>
-        <tag>Game:Furi</tag>
+        <tag>読み物</tag>
+        <tag>バグ</tag>
+        <tag>Furi</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/19 日誌</title>
-    <url>/2021/01/19/diary/2021-01-19/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://automaton-media.com/articles/newsjp/20210118-149383/">マリオカート</a><ul>
-<li>あえて2ビット使ってるのも謎だけど、8時間20分もかなり謎</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Bug</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>21/01/21 日誌</title>
+    <title>2021-01-21 日誌</title>
     <url>/2021/01/21/diary/2021-01-21/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://juneray.hatenablog.com/entry/dagashi_wo_tsukurou">駄菓子の二次創作</a><ul>
@@ -493,14 +526,16 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Service</tag>
+        <tag>Webサービス</tag>
+        <tag>記事</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/22 日誌</title>
+    <title>2021-01-22 日誌</title>
     <url>/2021/01/22/diary/2021-01-22/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://twitter.com/masaka_k/status/1352248538671955973">文字化け</a><ul>
@@ -521,15 +556,17 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Trivia</tag>
-        <tag>Game</tag>
+        <tag>雑学</tag>
+        <tag>記事</tag>
+        <tag>ゲーム</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/24 日誌</title>
+    <title>2021-01-24 日誌</title>
     <url>/2021/01/24/diary/2021-01-24/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/423230/Furi/?l=japanese">Furi</a></li>
@@ -545,15 +582,17 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Proof</tag>
-        <tag>Game:Furi</tag>
+        <tag>検証</tag>
+        <tag>記事</tag>
+        <tag>Furi</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/23 日誌</title>
+    <title>2021-01-23 日誌</title>
     <url>/2021/01/23/diary/2021-01-23/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://forest.watch.impress.co.jp/docs/news/1301910.html">win32metadata</a><ul>
@@ -566,14 +605,16 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Programming</tag>
-        <tag>GameDev</tag>
+        <tag>プログラミング</tag>
+        <tag>ゲーム開発</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/25 日誌</title>
+    <title>2021-01-25 日誌</title>
     <url>/2021/01/25/diary/2021-01-25/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://twitter.com/Daphnia_t_ponyo/status/1323253766125047808">ズバット</a><ul>
@@ -582,13 +623,15 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
+        <tag>記事</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/26 日誌</title>
+    <title>2021-01-26 日誌</title>
     <url>/2021/01/26/diary/2021-01-26/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://mekasue.hatenablog.com/entry/2021/01/24/223555">カニノケンカ</a><ul>
@@ -597,13 +640,15 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
+        <tag>読み物</tag>
       </tags>
   </entry>
   <entry>
-    <title>21/01/27 日誌</title>
+    <title>2021-01-27 日誌</title>
     <url>/2021/01/27/diary/2021-01-27/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://twitter.com/aikawa_yuduki/status/1354021958065688582">PとR</a><ul>
@@ -616,10 +661,12 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Article</tag>
-        <tag>Trivia</tag>
+        <tag>雑学</tag>
+        <tag>記事</tag>
       </tags>
   </entry>
   <entry>
@@ -632,9 +679,11 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Proof</tag>
+        <tag>検証</tag>
       </tags>
   </entry>
   <entry>
@@ -647,112 +696,11 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Programming</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Recursed: 再帰するパズル</title>
-    <url>/2020/07/09/review/Recursed/index/</url>
-    <content><![CDATA[<h2 id="Recursed"><a href="#Recursed" class="headerlink" title="Recursed"></a>Recursed</h2><p><a href="https://store.steampowered.com/app/497780/Recursed/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603"></a></p>
-<table>
-<thead>
-<tr>
-<th>値段</th>
-<th>クリア状況</th>
-<th>実績</th>
-<th>プレイ時間</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>820</td>
-<td>クリア</td>
-<td>17 / 17</td>
-<td>20時間</td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th>お勧め度</th>
-<th>コスパ</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>★★★★★★★★☆☆</td>
-<td>★★★★★★★☆☆☆</td>
-</tr>
-</tbody></table>
-<p>パズルゲームという砂場は様々な概念を変換しうる土壌を持っています。同じ倉庫番でも、そこにキャラクター性を足せばHellTakerとなり、ルール構築という概念を入れればBaba Is Youとなります。<br>このゲーム、Recursedはパズルゲームに再帰をはじめとしたプログラミングの概念を組み入れた作品です。</p>
-<h3 id="ルールはシンプル、経路は複雑"><a href="#ルールはシンプル、経路は複雑" class="headerlink" title="ルールはシンプル、経路は複雑"></a>ルールはシンプル、経路は複雑</h3><table>
-<thead>
-<tr>
-<th>ルールはシンプル</th>
-<th>宝箱を持って入る</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="/images/review/recursed/20201215025239_1.jpg"></td>
-<td><img src="/images/review/recursed/20201215025256_1.jpg"></td>
-</tr>
-</tbody></table>
-<p>ゲームのルールはいたってシンプルであり、物をつかむ、直線上に投げる、ジャンプの3つのアクションを使って、ステージにある宝石をとればクリアとなります。<br>さらに、ステージはいくつかの部屋に分かれており、宝箱に入ることでその部屋に入ることができます。</p>
-<p>しかし、このゲームは単純に一筋縄で解けるものではありません。物をつかむというアクションが、このゲームを複雑怪奇なものにしています。<br>このアクションでつかめるのは扉を開ける鍵や、足場となるブロックだけではありません。なんと部屋の入り口である宝箱すら掴んで持ち運べるのです。</p>
-<p>また、部屋に入り直すことで、その部屋の状態は初期状態にリセットされます。例えば、ブロックが一つおいてある部屋に入ってブロックを掴んで持ち出しても、入り直せばまたブロックが復活しているのです。</p>
-<p>これらの性質をうまく活用していくことがこのゲームを攻略するカギとなっていきます。<br>ある部屋でブロックが複数必要なら、その部屋にブロックが一つおいてある宝箱を持ち込んで、その宝箱からブロックを必要な数取り出すなど、課題を解決するには複雑なアプローチが必要になっていくでしょう。</p>
-<h3 id="プログラムとの連関"><a href="#プログラムとの連関" class="headerlink" title="プログラムとの連関"></a>プログラムとの連関</h3><table>
-<thead>
-<tr>
-<th>static</th>
-<th>スレッド</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="/images/review/recursed/20201215025505_1.jpg"></td>
-<td><img src="/images/review/recursed/20201215025448_1.jpg"></td>
-</tr>
-</tbody></table>
-<p>そして、ここまでの説明で勘の良い方はお気づきかもしれませんが、この性質はプログラミングの概念として解釈できます。<br>部屋に入ることのできる宝箱は一つの引数(持ち運び)、一つの返り値(持ち出し)を持つ関数ポインタと考えることができます。<br>そう考えれば宝箱を持って入るのは関数ポインタを引数として渡したと解釈できますし、入るたびに状態がリセットされるのはローカル変数が初期化されたとでも解釈できます。</p>
-<p>さらにステージを進むにつれて、より複雑な概念が現れていきます。ステージに必ず一つしか存在しなくなる緑色のオーラ(static)、水に沈めると状態が変わる宝箱(仮想関数？)、亀裂から出ることでその部屋で行った行為を状態保存して入り口を持って出てこれる瓶(継続)、入るとそれまでのすべての行為は保存されたままそれの対が置かれた別の部屋に入ることのできる大釜(スレッド)。<br>様々なプログラミングの概念がパズルに綺麗に落とし込まれています。</p>
-<p>プログラミングにおいてカバレッジを100%にすることが難しいように、あらゆる可能性を考慮してRecursedのパズルを解くのは難問となります。<br>その分、結果からの逆算をちゃんと行ってクリアできた時の達成感は筆舌に尽くしがたいものがあります。</p>
-<h3 id="隠し要素もある"><a href="#隠し要素もある" class="headerlink" title="隠し要素もある"></a>隠し要素もある</h3><table>
-<thead>
-<tr>
-<th>????</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="/images/review/recursed/20200712184506_1.jpg"></td>
-</tr>
-</tbody></table>
-<p>また、このゲームを進めていくと、ある条件下ではグリッチが起こせることに気づくでしょう。<br>このグリッチを見つけ出すことで、さらなる難問へとチャレンジすることもできます。</p>
-<p>グリッチをステージから見つけ出すということも難しければ、グリッチのその先をクリアすることはさらに難しいものとなっています。最後まで歯ごたえのあるパズルを楽しめることでしょう。</p>
-<h3 id="再帰するパズル"><a href="#再帰するパズル" class="headerlink" title="再帰するパズル"></a>再帰するパズル</h3><p>Recursedは再帰をパズルのギミックとして取り入れ、あたかもプログラムの様に解くパズルゲームとなっています。<br>一方で、このゲームはプログラムの知識を必要とするわけではありません。あくまで概念として取り入れて、パズルへと昇華した作品ですので、プログラマーの方以外でも気軽にプレイしてみてください。</p>
-<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>プログラマーが好きそうなパズルゲームという意味で、Induction なんかと軌を一にするゲームだと思っています。<br>別にプログラム的な知識を要求されたりはしませんが、思考の過程はかなりプログラマー寄りになってきそうな作品なので。</p>
-<p>出来の良いパズルゲームをやると、クリアしたときに製作者は天才かと呟く時が来るんですが、この作品も例にもれずそういうタイプです。発想が天才的で、めちゃくちゃ美しく解けます。The Void の Escalate は控えめに言っても作った人は天才。</p>
-<p>Interlock の複雑具合も、Escalate の頭がぶっ壊れそうな構成も、Flight の凄まじさも、大体全部好きです。好きなステージは結構多いゲームでした。</p>
-]]></content>
-      <tags>
-        <tag>Review</tag>
-        <tag>Genre:Puzzle</tag>
-        <tag>Game:Recursed</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021-01-30 日誌</title>
-    <url>/2021/01/30/diary/2021-01-30/</url>
-    <content><![CDATA[<p>Hexo を弄って色々出せるようにしていくの楽しい。<br>あとはイラストでも叩き込んで、Steamのリンクでも貼り付けて、アイコン出せるようにして、レビュー記事を雑に追加したら満足しそう。</p>
-<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%A2%E3%82%A6%E3%83%88">アイリス・アウト</a><ul>
-<li>語源で覚えておくと忘れなさそう</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>Diary</tag>
-        <tag>Trivia</tag>
+        <tag>プログラミング</tag>
       </tags>
   </entry>
   <entry>
@@ -776,12 +724,32 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Art</tag>
-        <tag>GameDev</tag>
-        <tag>Broadcast</tag>
-        <tag>Game:Furi</tag>
+        <tag>アート作品</tag>
+        <tag>Furi</tag>
+        <tag>ゲーム開発</tag>
+        <tag>配信</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-01-30 日誌</title>
+    <url>/2021/01/30/diary/2021-01-30/</url>
+    <content><![CDATA[<p>Hexo を弄って色々出せるようにしていくの楽しい。<br>あとはイラストでも叩き込んで、Steamのリンクでも貼り付けて、アイコン出せるようにして、レビュー記事を雑に追加したら満足しそう。</p>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%A2%E3%82%A6%E3%83%88">アイリス・アウト</a><ul>
+<li>語源で覚えておくと忘れなさそう</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
       </tags>
   </entry>
   <entry>
@@ -797,94 +765,12 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Novel</tag>
-        <tag>Game:退廃思考</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>OneShot: 敷衍する一度きりの体験</title>
-    <url>/2019/06/30/review/OneShot/index/</url>
-    <content><![CDATA[<h2 id="OneShot"><a href="#OneShot" class="headerlink" title="OneShot"></a>OneShot</h2><p><a href="https://store.steampowered.com/app/420530/OneShot/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/header.jpg?t=1589357151"></a></p>
-<table>
-<thead>
-<tr>
-<th>値段</th>
-<th>クリア状況</th>
-<th>実績</th>
-<th>プレイ時間</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>980</td>
-<td>さようなら</td>
-<td>7 / 11</td>
-<td>5時間</td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th>お勧め度</th>
-<th>コスパ</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>★★★★★★★★★★</td>
-<td>★★★★★★★★☆☆</td>
-</tr>
-</tbody></table>
-<p>アドベンチャーゲームに限らず、ゲームというのは繰り返し行うことのできる体験です。殊に物語に主眼を置くゲームでは、選択肢に応じた分岐などにより周回することを想定しているような作りのものもあります。<br>OneShot はそれらに対して、その名の示すとおりにただ一度きりの体験を提供するゲームとなっています。</p>
-<h3 id="ニコ可愛い"><a href="#ニコ可愛い" class="headerlink" title="ニコ可愛い"></a>ニコ可愛い</h3><table>
-<thead>
-<tr>
-<th>ニコ可愛い</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_f96300cc310f7f0aa6f6c6f0c870cdd4c6418bf7.jpg?t=1589357151"></td>
-</tr>
-</tbody></table>
-<p>OneShot を紹介するのは非常に困難なことの一つです。このゲームの良さはまさにこのゲームがワンショットであるが故のものであり、その一度きりの体験を妨げないためにもこのゲームの体験について語るわけにはいかないからです。<br>なので、このゲームに関しては公式のスクショしか貼っていません。</p>
-<p>このゲームをネタバレなしで語る上で欠かせないのは、主人公であるニコが可愛いことです。このゲームをお勧めしてきた友人は異口同音にニコ可愛いしか言いませんでしたが、終わってみれば成程これはニコ可愛いと勧めるほかない作品です。</p>
-<h3 id="美しき景観"><a href="#美しき景観" class="headerlink" title="美しき景観"></a>美しき景観</h3><table>
-<thead>
-<tr>
-<th>そびえる摩天楼</th>
-<th>淡く光る水面</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_5d03428de28dd03845a9adb5566ba29431eba0f5.jpg?t=1589357151"></td>
-<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_5632681456db78d0e33c252c59d39c18ff35262e.jpg?t=1589357151"></td>
-</tr>
-</tbody></table>
-<p>プレイヤーはこのニコとともに、世界に光を取り戻すための旅をします。<br>薄暗い暗闇の荒野をさまようことも、鬱蒼と茂る草木の中を進むことも、遥かそびえたつ摩天楼を巡ることもあります。<br>それぞれの土地は幻想的な雰囲気をたたえつつも、光を失ったが故のほの暗さも抱えています。</p>
-<p>それらの土地で流れるBGMも非常によく、心地よく世界に浸ることができます。陰ある中で描かれる美しい世界を良質な曲とともにめぐるという体験もまた良いものです。</p>
-<h3 id="出会いと別れ"><a href="#出会いと別れ" class="headerlink" title="出会いと別れ"></a>出会いと別れ</h3><table>
-<thead>
-<tr>
-<th>兄妹</th>
-<th>親切な苦労人</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_f215b03a3339871a6652bb14df418f205d1c6e42.jpg?t=1589357151"></td>
-<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_bb4e011aa2958a09bf84994055991e377846e155.jpg?t=1589357151"></td>
-</tr>
-</tbody></table>
-<p>また、訪れる土地ごとに出会いもあります。<br>多くの魅力的なキャラクターとの物語を体験し、出会いと別れを経てOneShotは紡がれていきます。<br>このように、様々な土地で様々な人物と触れあいながら、探索したり謎を解いたりすることでゲームは少しづつ結末へと向けて進んでいくようになっています。</p>
-<p>そうしてOneshotが描く結末までの体験は、およそゲームにしかなしえない体験の頂の一つであり、またこれまでのゲーム体験にすら波及し得るものでもあるでしょう。<br>ただし、この結末へと向けた展開はどれを語ろうとネタバレになってしまうので、もうこれ以上は語れません。とりあえずニコが可愛いということは伝えておきます。</p>
-<h3 id="敷衍する一度きりの体験"><a href="#敷衍する一度きりの体験" class="headerlink" title="敷衍する一度きりの体験"></a>敷衍する一度きりの体験</h3><p>このゲームはただ一度きりの体験であり、そして全ての体験へと敷衍するものです。Oneshotという名に偽りはありません。<br>叶うのであれば、もう一回記憶を消してプレイしたいところです。</p>
-<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>道中のパズルなんかも結構好きではあるんですが、終盤以降の流れとシステムの親和性は感動を以て迎えられる作品です。本当にニコが可愛い。</p>
-<p>プレイヤーは選択をする存在であり、選択とは世界を構成する行為であり、それに伴う結果はプレイヤー自身が深く受け止めなくてはならないのでしょう。それが正しいことにせよ、正しくないことにせよ、選んだという事実からは目を背けることはできません。</p>
-<p>ただ一度きりの体験だからこそ得難いのですが、まあ記憶消してもう一回やりたいのは皆そうだと思います。</p>
-]]></content>
-      <tags>
-        <tag>Review</tag>
-        <tag>Genre:Adventure</tag>
-        <tag>Game:OneShot</tag>
+        <tag>退廃思考</tag>
+        <tag>小説</tag>
       </tags>
   </entry>
   <entry>
@@ -901,94 +787,12 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
-        <tag>Service</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Celeste: 気持ち良い2Dプラットフォーマー</title>
-    <url>/2020/12/13/review/Celeste/index/</url>
-    <content><![CDATA[<h2 id="Celeste"><a href="#Celeste" class="headerlink" title="Celeste"></a>Celeste</h2><p><a href="https://store.steampowered.com/app/504230/Celeste/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg?t=1580863858"></a></p>
-<table>
-<thead>
-<tr>
-<th>値段</th>
-<th>クリア状況</th>
-<th>実績</th>
-<th>プレイ時間</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1980</td>
-<td>クリア</td>
-<td>15 / 32</td>
-<td>12時間</td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th>お勧め度</th>
-<th>コスパ</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>★★★★★★★★☆☆</td>
-<td>★★★★★★★☆☆☆</td>
-</tr>
-</tbody></table>
-<p>世の中の――殊にインディーズの――アクションゲームの中には、ひたすらに難しいゲームがあります。<br>そういったとかく難しいゲームをプレイし続けるモチベーションは人によって様々でしょうが、制圧したときの達成感が多くを占めるのではないと思います。<br>しかし、クリアした時にしか感じないその達成感一つでゲームをけん引するには、よほどうまく制圧への導線を引く必要があるでしょう。</p>
-<p>このゲーム、Celesteは確かに制圧への導線も美しいですが、それ以上の答えを秘めています。<br>シンプルに、動かしていて楽しいアクションとなっているというものです。</p>
-<h3 id="プラットフォーマーとしての難しさ"><a href="#プラットフォーマーとしての難しさ" class="headerlink" title="プラットフォーマーとしての難しさ"></a>プラットフォーマーとしての難しさ</h3><table>
-<thead>
-<tr>
-<th>Celesteは難しい</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="/images/review/celeste/20201213204929_1.jpg"></td>
-</tr>
-</tbody></table>
-<p>Celesteは難しいです。Steam上では精密プラットフォーマーと名の付くこの手のゲームの難しさは、提示されたそのルートを寸分の狂いもなく手元で実行することにあります。<br>きちんとタイミングよくジャンプし、タイミングよくダッシュを使い、空中移動を華麗に決めて、時にはアドリブもちゃんと効かす。これらを完璧に実行できて初めてステージをクリアすることができます。そこに妥協はなく、厳然たるゲームの上手さが問われる修羅の道です。<br>精密プラットフォーマーはその修羅ゆえに、ステージの途中で心が折れたりモチベーションが尽きることがままあります。</p>
-<p>しかし、Celesteは動かしていて楽しいがために、その修羅を幾分か緩和させてくれます。どれくらい楽しいかといえば、このレビューを書くためにちょっと触っていたら未クリアの2-B,3-Bを合わせて1000回くらいやられながらもクリアしてしまって夜更かしするくらいには楽しいです。</p>
-<h3 id="動かして楽しい高難度アクション"><a href="#動かして楽しい高難度アクション" class="headerlink" title="動かして楽しい高難度アクション"></a>動かして楽しい高難度アクション</h3><table>
-<thead>
-<tr>
-<th>ルートが分かる</th>
-<th>増進させる仕掛け</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="/images/review/celeste/20201213191955_1.jpg"></td>
-<td><img src="/images/review/celeste/20201213205153_1.jpg"></td>
-</tr>
-</tbody></table>
-<p>では、Celesteがなぜ楽しく動かせる死にゲーなのかというと、おおよそ4つくらい理由があると思っています。</p>
-<p>まず、リトライが早いです。とにかくリトライを重ねるゲームなので、プレイしていれば自然とその回数は増えてしまいます。しかし、クリア後にこんなにミスったのかと思うほどには、リトライそのものにストレスも時間も感じません。<br>ロックマン式の素早い死亡モーションもさることながら、この短い中でさえキーを押すとスキップできるという至れり尽くせりの仕様が大きな理由の一つでしょう。<br>加えて、復帰位置がステージに入ってきた位置ではなく、アクションの開始地点に置かれているのもリトライ性を高めています。</p>
-<p>また、ルートがある程度明瞭に分かるところも試行錯誤しやすいポイントです。<br>ある程度ルート構築に頭を割くステージもありますが、多くのステージは直感的にここを通ればよいというのが分かります。<br>ルートに不安があると、暗中模索でやっている感覚がして辛いところですが、Celesteにおいては大体ここまではノーミスで進んだなという気持ちで取り組めます。<br>上図のケースでは難所は3か所くらいあるので、そこを突破できるようになっていくたびに成長を感じて進められます。</p>
-<p>次に、ミスしてもプレイヤーが自身のせいだろうなと思うようなマージンが仕込まれているのも大事なところです。<br>作者が公言しているコヨーテタイムのみならず、当たり判定の小ささや、当たったオブジェクトがその場で静止してどのポイントで当たったかを明確に示してくれることなど、細かいレベルで自身のミスを自覚しやすいシステムになっています。<br>ミスの原因がゲーム側にあると思ってモチベーションがだだ下がりすることは経験上よくありますが、Celesteにおいては殆どありませんでした。</p>
-<p>最後に、動きが気持ちよく、その気持ちよさを増進させる仕掛けが多くあること。そして、妨害する仕掛けが殆どないことが最大のポイントだと思っています。<br>Celesteの動きで最大に気持ち良いのはなんといってもダッシュです。このダッシュ状態で入ることで高速で抜けられる壁というものは、ダッシュという動きの気持ちよさを高めています。<br>また、目に見えるギミックという仕掛けだけではなく、敵とギミックの配置という仕掛けにおいても、ダッシュを気持ちよくさせるようにデザインされているものが数多く見られます。<br>加えてこれらは共通して、綺麗に攻略することで見た目が格好良くなるという副次効果もあります。これにより、プレイヤーは上手いプレイができたという実感が湧くことでしょう。<br>ついでに細かいところですが、地面にはみ出そうなときにモーションが変わっていたり、ジャンプやダッシュ中に揺れ物がちゃんと揺れたり、アクションのたびに緩い画面地震が起こるなどの細やかな部分も気持ちよさの後押しをしています。</p>
-<h3 id="美しいドットグラフィック"><a href="#美しいドットグラフィック" class="headerlink" title="美しいドットグラフィック"></a>美しいドットグラフィック</h3><table>
-<thead>
-<tr>
-<th>ドット絵が綺麗</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="/images/review/celeste/20201213210547_1.jpg"></td>
-</tr>
-</tbody></table>
-<p>また、Celesteを語る上では美しいドット絵と音楽も外せません。</p>
-<p>残酷なまでに厳しい冬山の情景も、息を呑むほど美しい頂上付近の景色も精緻に描かれています。スクショを見るとなんとなく分かりますが、各面でトゲの役割を担うオブジェクトも異なっています。<br>このような各ステージで様変わりしていく風景もまた見どころの一つとなるでしょう。<br>特に、ストーリー終盤の駆け上がっていくようなシーンは曲も相まってテンションを上げたまま最後まで突っ走れる程に素晴らしかったです。</p>
-<h3 id="気持ち良い2Dプラットフォーマー"><a href="#気持ち良い2Dプラットフォーマー" class="headerlink" title="気持ち良い2Dプラットフォーマー"></a>気持ち良い2Dプラットフォーマー</h3><p>Celesteは確かに難しく、歯ごたえのあるアクションゲームではありますが、難しいステージをクリアすることで得られる達成感というものを、動きの気持ちよさで補助して与えてくれるゲームでもあります。<br>この手のゲームを初めてやる方にも勧められるような手の行き届いた作品と言えるでしょう。</p>
-<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>説明なしだと少し厳しいギミックはいくつかあるかもしれませんが、理不尽に感じるようなマップ構成は殆どない作品です。一画面に収まらず、その外の情報がいる場合はちゃんと見るためのギミックが配置されています。<br>多分、リアルスキルさえ高ければそんなに死なずにクリアできるんだと思います。筆者はめちゃくちゃ死にましたが。</p>
-<p>あと、ストーリーもちゃんとあって、盛り上がりに寄与してくれます。ラストへと向かう流れは音楽とともに気分を盛り上げてくれました。</p>
-]]></content>
-      <tags>
-        <tag>Review</tag>
-        <tag>Game:Celeste</tag>
-        <tag>Genre:2D Platformer</tag>
+        <tag>記事</tag>
+        <tag>サービス</tag>
       </tags>
   </entry>
   <entry>
@@ -1009,8 +813,29 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
       <tags>
-        <tag>Diary</tag>
+        <tag>記事</tag>
+        <tag>ゲーム開発</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-04 日誌</title>
+    <url>/2021/02/04/diary/2021-02-04/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ledge.ai/maitake-yukiguni/">まいたけ</a><ul>
+<li>まいたけのカットが難度高いことすら知らなかった</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
       </tags>
   </entry>
   <entry>
@@ -1100,15 +925,294 @@
 <h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>およそシューティングで一番楽しめた作品です。一サイクルが短いことと、HPが高めなのでちゃんと相手の攻撃を見る時間が確保できるのが良いポイントでした。<br>また、アップグレードなしの武器もそこそこ強いので、アップグレードが全然うまくいかなくてもそこそこ戦えるのもイライラ感がなくて良いです。</p>
 <p>個人的にはステージ2の曲が好きなんですが、あまりにもステージ4で戦いすぎてそのBGMばかり脳内再生されます。</p>
 ]]></content>
+      <categories>
+        <category>Review</category>
+        <category>シューティング</category>
+      </categories>
       <tags>
-        <tag>Review</tag>
-        <tag>Game:Monolith</tag>
-        <tag>Genre:STG</tag>
+        <tag>Monolith</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Celeste: 気持ち良い2Dプラットフォーマー</title>
+    <url>/2020/12/13/review/Celeste/index/</url>
+    <content><![CDATA[<h2 id="Celeste"><a href="#Celeste" class="headerlink" title="Celeste"></a>Celeste</h2><p><a href="https://store.steampowered.com/app/504230/Celeste/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg?t=1580863858"></a></p>
+<table>
+<thead>
+<tr>
+<th>値段</th>
+<th>クリア状況</th>
+<th>実績</th>
+<th>プレイ時間</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1980</td>
+<td>クリア</td>
+<td>15 / 32</td>
+<td>12時間</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>お勧め度</th>
+<th>コスパ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>★★★★★★★★☆☆</td>
+<td>★★★★★★★☆☆☆</td>
+</tr>
+</tbody></table>
+<p>世の中の――殊にインディーズの――アクションゲームの中には、ひたすらに難しいゲームがあります。<br>そういったとかく難しいゲームをプレイし続けるモチベーションは人によって様々でしょうが、制圧したときの達成感が多くを占めるのではないと思います。<br>しかし、クリアした時にしか感じないその達成感一つでゲームをけん引するには、よほどうまく制圧への導線を引く必要があるでしょう。</p>
+<p>このゲーム、Celesteは確かに制圧への導線も美しいですが、それ以上の答えを秘めています。<br>シンプルに、動かしていて楽しいアクションとなっているというものです。</p>
+<h3 id="プラットフォーマーとしての難しさ"><a href="#プラットフォーマーとしての難しさ" class="headerlink" title="プラットフォーマーとしての難しさ"></a>プラットフォーマーとしての難しさ</h3><table>
+<thead>
+<tr>
+<th>Celesteは難しい</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/celeste/20201213204929_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>Celesteは難しいです。Steam上では精密プラットフォーマーと名の付くこの手のゲームの難しさは、提示されたそのルートを寸分の狂いもなく手元で実行することにあります。<br>きちんとタイミングよくジャンプし、タイミングよくダッシュを使い、空中移動を華麗に決めて、時にはアドリブもちゃんと効かす。これらを完璧に実行できて初めてステージをクリアすることができます。そこに妥協はなく、厳然たるゲームの上手さが問われる修羅の道です。<br>精密プラットフォーマーはその修羅ゆえに、ステージの途中で心が折れたりモチベーションが尽きることがままあります。</p>
+<p>しかし、Celesteは動かしていて楽しいがために、その修羅を幾分か緩和させてくれます。どれくらい楽しいかといえば、このレビューを書くためにちょっと触っていたら未クリアの2-B,3-Bを合わせて1000回くらいやられながらもクリアしてしまって夜更かしするくらいには楽しいです。</p>
+<h3 id="動かして楽しい高難度アクション"><a href="#動かして楽しい高難度アクション" class="headerlink" title="動かして楽しい高難度アクション"></a>動かして楽しい高難度アクション</h3><table>
+<thead>
+<tr>
+<th>ルートが分かる</th>
+<th>増進させる仕掛け</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/celeste/20201213191955_1.jpg"></td>
+<td><img src="/images/review/celeste/20201213205153_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>では、Celesteがなぜ楽しく動かせる死にゲーなのかというと、おおよそ4つくらい理由があると思っています。</p>
+<p>まず、リトライが早いです。とにかくリトライを重ねるゲームなので、プレイしていれば自然とその回数は増えてしまいます。しかし、クリア後にこんなにミスったのかと思うほどには、リトライそのものにストレスも時間も感じません。<br>ロックマン式の素早い死亡モーションもさることながら、この短い中でさえキーを押すとスキップできるという至れり尽くせりの仕様が大きな理由の一つでしょう。<br>加えて、復帰位置がステージに入ってきた位置ではなく、アクションの開始地点に置かれているのもリトライ性を高めています。</p>
+<p>また、ルートがある程度明瞭に分かるところも試行錯誤しやすいポイントです。<br>ある程度ルート構築に頭を割くステージもありますが、多くのステージは直感的にここを通ればよいというのが分かります。<br>ルートに不安があると、暗中模索でやっている感覚がして辛いところですが、Celesteにおいては大体ここまではノーミスで進んだなという気持ちで取り組めます。<br>上図のケースでは難所は3か所くらいあるので、そこを突破できるようになっていくたびに成長を感じて進められます。</p>
+<p>次に、ミスしてもプレイヤーが自身のせいだろうなと思うようなマージンが仕込まれているのも大事なところです。<br>作者が公言しているコヨーテタイムのみならず、当たり判定の小ささや、当たったオブジェクトがその場で静止してどのポイントで当たったかを明確に示してくれることなど、細かいレベルで自身のミスを自覚しやすいシステムになっています。<br>ミスの原因がゲーム側にあると思ってモチベーションがだだ下がりすることは経験上よくありますが、Celesteにおいては殆どありませんでした。</p>
+<p>最後に、動きが気持ちよく、その気持ちよさを増進させる仕掛けが多くあること。そして、妨害する仕掛けが殆どないことが最大のポイントだと思っています。<br>Celesteの動きで最大に気持ち良いのはなんといってもダッシュです。このダッシュ状態で入ることで高速で抜けられる壁というものは、ダッシュという動きの気持ちよさを高めています。<br>また、目に見えるギミックという仕掛けだけではなく、敵とギミックの配置という仕掛けにおいても、ダッシュを気持ちよくさせるようにデザインされているものが数多く見られます。<br>加えてこれらは共通して、綺麗に攻略することで見た目が格好良くなるという副次効果もあります。これにより、プレイヤーは上手いプレイができたという実感が湧くことでしょう。<br>ついでに細かいところですが、地面にはみ出そうなときにモーションが変わっていたり、ジャンプやダッシュ中に揺れ物がちゃんと揺れたり、アクションのたびに緩い画面地震が起こるなどの細やかな部分も気持ちよさの後押しをしています。</p>
+<h3 id="美しいドットグラフィック"><a href="#美しいドットグラフィック" class="headerlink" title="美しいドットグラフィック"></a>美しいドットグラフィック</h3><table>
+<thead>
+<tr>
+<th>ドット絵が綺麗</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/celeste/20201213210547_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>また、Celesteを語る上では美しいドット絵と音楽も外せません。</p>
+<p>残酷なまでに厳しい冬山の情景も、息を呑むほど美しい頂上付近の景色も精緻に描かれています。スクショを見るとなんとなく分かりますが、各面でトゲの役割を担うオブジェクトも異なっています。<br>このような各ステージで様変わりしていく風景もまた見どころの一つとなるでしょう。<br>特に、ストーリー終盤の駆け上がっていくようなシーンは曲も相まってテンションを上げたまま最後まで突っ走れる程に素晴らしかったです。</p>
+<h3 id="気持ち良い2Dプラットフォーマー"><a href="#気持ち良い2Dプラットフォーマー" class="headerlink" title="気持ち良い2Dプラットフォーマー"></a>気持ち良い2Dプラットフォーマー</h3><p>Celesteは確かに難しく、歯ごたえのあるアクションゲームではありますが、難しいステージをクリアすることで得られる達成感というものを、動きの気持ちよさで補助して与えてくれるゲームでもあります。<br>この手のゲームを初めてやる方にも勧められるような手の行き届いた作品と言えるでしょう。</p>
+<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>説明なしだと少し厳しいギミックはいくつかあるかもしれませんが、理不尽に感じるようなマップ構成は殆どない作品です。一画面に収まらず、その外の情報がいる場合はちゃんと見るためのギミックが配置されています。<br>多分、リアルスキルさえ高ければそんなに死なずにクリアできるんだと思います。筆者はめちゃくちゃ死にましたが。</p>
+<p>あと、ストーリーもちゃんとあって、盛り上がりに寄与してくれます。ラストへと向かう流れは音楽とともに気分を盛り上げてくれました。</p>
+]]></content>
+      <categories>
+        <category>Review</category>
+        <category>2Dプラットフォーマー</category>
+      </categories>
+      <tags>
+        <tag>Celeste</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Recursed: 再帰するパズル</title>
+    <url>/2020/07/09/review/Recursed/index/</url>
+    <content><![CDATA[<h2 id="Recursed"><a href="#Recursed" class="headerlink" title="Recursed"></a>Recursed</h2><p><a href="https://store.steampowered.com/app/497780/Recursed/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603"></a></p>
+<table>
+<thead>
+<tr>
+<th>値段</th>
+<th>クリア状況</th>
+<th>実績</th>
+<th>プレイ時間</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>820</td>
+<td>クリア</td>
+<td>17 / 17</td>
+<td>20時間</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>お勧め度</th>
+<th>コスパ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>★★★★★★★★☆☆</td>
+<td>★★★★★★★☆☆☆</td>
+</tr>
+</tbody></table>
+<p>パズルゲームという砂場は様々な概念を変換しうる土壌を持っています。同じ倉庫番でも、そこにキャラクター性を足せばHellTakerとなり、ルール構築という概念を入れればBaba Is Youとなります。<br>このゲーム、Recursedはパズルゲームに再帰をはじめとしたプログラミングの概念を組み入れた作品です。</p>
+<h3 id="ルールはシンプル、経路は複雑"><a href="#ルールはシンプル、経路は複雑" class="headerlink" title="ルールはシンプル、経路は複雑"></a>ルールはシンプル、経路は複雑</h3><table>
+<thead>
+<tr>
+<th>ルールはシンプル</th>
+<th>宝箱を持って入る</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/recursed/20201215025239_1.jpg"></td>
+<td><img src="/images/review/recursed/20201215025256_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>ゲームのルールはいたってシンプルであり、物をつかむ、直線上に投げる、ジャンプの3つのアクションを使って、ステージにある宝石をとればクリアとなります。<br>さらに、ステージはいくつかの部屋に分かれており、宝箱に入ることでその部屋に入ることができます。</p>
+<p>しかし、このゲームは単純に一筋縄で解けるものではありません。物をつかむというアクションが、このゲームを複雑怪奇なものにしています。<br>このアクションでつかめるのは扉を開ける鍵や、足場となるブロックだけではありません。なんと部屋の入り口である宝箱すら掴んで持ち運べるのです。</p>
+<p>また、部屋に入り直すことで、その部屋の状態は初期状態にリセットされます。例えば、ブロックが一つおいてある部屋に入ってブロックを掴んで持ち出しても、入り直せばまたブロックが復活しているのです。</p>
+<p>これらの性質をうまく活用していくことがこのゲームを攻略するカギとなっていきます。<br>ある部屋でブロックが複数必要なら、その部屋にブロックが一つおいてある宝箱を持ち込んで、その宝箱からブロックを必要な数取り出すなど、課題を解決するには複雑なアプローチが必要になっていくでしょう。</p>
+<h3 id="プログラムとの連関"><a href="#プログラムとの連関" class="headerlink" title="プログラムとの連関"></a>プログラムとの連関</h3><table>
+<thead>
+<tr>
+<th>static</th>
+<th>スレッド</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/recursed/20201215025505_1.jpg"></td>
+<td><img src="/images/review/recursed/20201215025448_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>そして、ここまでの説明で勘の良い方はお気づきかもしれませんが、この性質はプログラミングの概念として解釈できます。<br>部屋に入ることのできる宝箱は一つの引数(持ち運び)、一つの返り値(持ち出し)を持つ関数ポインタと考えることができます。<br>そう考えれば宝箱を持って入るのは関数ポインタを引数として渡したと解釈できますし、入るたびに状態がリセットされるのはローカル変数が初期化されたとでも解釈できます。</p>
+<p>さらにステージを進むにつれて、より複雑な概念が現れていきます。ステージに必ず一つしか存在しなくなる緑色のオーラ(static)、水に沈めると状態が変わる宝箱(仮想関数？)、亀裂から出ることでその部屋で行った行為を状態保存して入り口を持って出てこれる瓶(継続)、入るとそれまでのすべての行為は保存されたままそれの対が置かれた別の部屋に入ることのできる大釜(スレッド)。<br>様々なプログラミングの概念がパズルに綺麗に落とし込まれています。</p>
+<p>プログラミングにおいてカバレッジを100%にすることが難しいように、あらゆる可能性を考慮してRecursedのパズルを解くのは難問となります。<br>その分、結果からの逆算をちゃんと行ってクリアできた時の達成感は筆舌に尽くしがたいものがあります。</p>
+<h3 id="隠し要素もある"><a href="#隠し要素もある" class="headerlink" title="隠し要素もある"></a>隠し要素もある</h3><table>
+<thead>
+<tr>
+<th>????</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/recursed/20200712184506_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>また、このゲームを進めていくと、ある条件下ではグリッチが起こせることに気づくでしょう。<br>このグリッチを見つけ出すことで、さらなる難問へとチャレンジすることもできます。</p>
+<p>グリッチをステージから見つけ出すということも難しければ、グリッチのその先をクリアすることはさらに難しいものとなっています。最後まで歯ごたえのあるパズルを楽しめることでしょう。</p>
+<h3 id="再帰するパズル"><a href="#再帰するパズル" class="headerlink" title="再帰するパズル"></a>再帰するパズル</h3><p>Recursedは再帰をパズルのギミックとして取り入れ、あたかもプログラムの様に解くパズルゲームとなっています。<br>一方で、このゲームはプログラムの知識を必要とするわけではありません。あくまで概念として取り入れて、パズルへと昇華した作品ですので、プログラマーの方以外でも気軽にプレイしてみてください。</p>
+<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>プログラマーが好きそうなパズルゲームという意味で、Induction なんかと軌を一にするゲームだと思っています。<br>別にプログラム的な知識を要求されたりはしませんが、思考の過程はかなりプログラマー寄りになってきそうな作品なので。</p>
+<p>出来の良いパズルゲームをやると、クリアしたときに製作者は天才かと呟く時が来るんですが、この作品も例にもれずそういうタイプです。発想が天才的で、めちゃくちゃ美しく解けます。The Void の Escalate は控えめに言っても作った人は天才。</p>
+<p>Interlock の複雑具合も、Escalate の頭がぶっ壊れそうな構成も、Flight の凄まじさも、大体全部好きです。好きなステージは結構多いゲームでした。</p>
+]]></content>
+      <categories>
+        <category>Review</category>
+        <category>パズル</category>
+      </categories>
+      <tags>
+        <tag>Recursed</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OneShot: 敷衍する一度きりの体験</title>
+    <url>/2019/06/30/review/OneShot/index/</url>
+    <content><![CDATA[<h2 id="OneShot"><a href="#OneShot" class="headerlink" title="OneShot"></a>OneShot</h2><p><a href="https://store.steampowered.com/app/420530/OneShot/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/header.jpg?t=1589357151"></a></p>
+<table>
+<thead>
+<tr>
+<th>値段</th>
+<th>クリア状況</th>
+<th>実績</th>
+<th>プレイ時間</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>980</td>
+<td>さようなら</td>
+<td>7 / 11</td>
+<td>5時間</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>お勧め度</th>
+<th>コスパ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>★★★★★★★★★★</td>
+<td>★★★★★★★★☆☆</td>
+</tr>
+</tbody></table>
+<p>アドベンチャーゲームに限らず、ゲームというのは繰り返し行うことのできる体験です。殊に物語に主眼を置くゲームでは、選択肢に応じた分岐などにより周回することを想定しているような作りのものもあります。<br>OneShot はそれらに対して、その名の示すとおりにただ一度きりの体験を提供するゲームとなっています。</p>
+<h3 id="ニコ可愛い"><a href="#ニコ可愛い" class="headerlink" title="ニコ可愛い"></a>ニコ可愛い</h3><table>
+<thead>
+<tr>
+<th>ニコ可愛い</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_f96300cc310f7f0aa6f6c6f0c870cdd4c6418bf7.jpg?t=1589357151"></td>
+</tr>
+</tbody></table>
+<p>OneShot を紹介するのは非常に困難なことの一つです。このゲームの良さはまさにこのゲームがワンショットであるが故のものであり、その一度きりの体験を妨げないためにもこのゲームの体験について語るわけにはいかないからです。<br>なので、このゲームに関しては公式のスクショしか貼っていません。</p>
+<p>このゲームをネタバレなしで語る上で欠かせないのは、主人公であるニコが可愛いことです。このゲームをお勧めしてきた友人は異口同音にニコ可愛いしか言いませんでしたが、終わってみれば成程これはニコ可愛いと勧めるほかない作品です。</p>
+<h3 id="美しき景観"><a href="#美しき景観" class="headerlink" title="美しき景観"></a>美しき景観</h3><table>
+<thead>
+<tr>
+<th>そびえる摩天楼</th>
+<th>淡く光る水面</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_5d03428de28dd03845a9adb5566ba29431eba0f5.jpg?t=1589357151"></td>
+<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_5632681456db78d0e33c252c59d39c18ff35262e.jpg?t=1589357151"></td>
+</tr>
+</tbody></table>
+<p>プレイヤーはこのニコとともに、世界に光を取り戻すための旅をします。<br>薄暗い暗闇の荒野をさまようことも、鬱蒼と茂る草木の中を進むことも、遥かそびえたつ摩天楼を巡ることもあります。<br>それぞれの土地は幻想的な雰囲気をたたえつつも、光を失ったが故のほの暗さも抱えています。</p>
+<p>それらの土地で流れるBGMも非常によく、心地よく世界に浸ることができます。陰ある中で描かれる美しい世界を良質な曲とともにめぐるという体験もまた良いものです。</p>
+<h3 id="出会いと別れ"><a href="#出会いと別れ" class="headerlink" title="出会いと別れ"></a>出会いと別れ</h3><table>
+<thead>
+<tr>
+<th>兄妹</th>
+<th>親切な苦労人</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_f215b03a3339871a6652bb14df418f205d1c6e42.jpg?t=1589357151"></td>
+<td><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/420530/ss_bb4e011aa2958a09bf84994055991e377846e155.jpg?t=1589357151"></td>
+</tr>
+</tbody></table>
+<p>また、訪れる土地ごとに出会いもあります。<br>多くの魅力的なキャラクターとの物語を体験し、出会いと別れを経てOneShotは紡がれていきます。<br>このように、様々な土地で様々な人物と触れあいながら、探索したり謎を解いたりすることでゲームは少しづつ結末へと向けて進んでいくようになっています。</p>
+<p>そうしてOneshotが描く結末までの体験は、およそゲームにしかなしえない体験の頂の一つであり、またこれまでのゲーム体験にすら波及し得るものでもあるでしょう。<br>ただし、この結末へと向けた展開はどれを語ろうとネタバレになってしまうので、もうこれ以上は語れません。とりあえずニコが可愛いということは伝えておきます。</p>
+<h3 id="敷衍する一度きりの体験"><a href="#敷衍する一度きりの体験" class="headerlink" title="敷衍する一度きりの体験"></a>敷衍する一度きりの体験</h3><p>このゲームはただ一度きりの体験であり、そして全ての体験へと敷衍するものです。Oneshotという名に偽りはありません。<br>叶うのであれば、もう一回記憶を消してプレイしたいところです。</p>
+<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>道中のパズルなんかも結構好きではあるんですが、終盤以降の流れとシステムの親和性は感動を以て迎えられる作品です。本当にニコが可愛い。</p>
+<p>プレイヤーは選択をする存在であり、選択とは世界を構成する行為であり、それに伴う結果はプレイヤー自身が深く受け止めなくてはならないのでしょう。それが正しいことにせよ、正しくないことにせよ、選んだという事実からは目を背けることはできません。</p>
+<p>ただ一度きりの体験だからこそ得難いのですが、まあ記憶消してもう一回やりたいのは皆そうだと思います。</p>
+]]></content>
+      <categories>
+        <category>Review</category>
+        <category>アドベンチャー</category>
+      </categories>
+      <tags>
+        <tag>OneShot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-05 日誌</title>
+    <url>/2021/02/05/diary/2021-02-05/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>illust</title>
     <url>/illust/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Product</title>
+    <url>/product/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -1119,12 +1223,8 @@
   <entry>
     <title></title>
     <url>/tags/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Product</title>
-    <url>/product/index.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>a</p>
+]]></content>
   </entry>
   <entry>
     <title>EatCoin</title>
