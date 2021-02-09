@@ -9,54 +9,8 @@
 
 
     <url>
-        <loc>https://Expine.github.io/2021/01/27/HexoTips-1/</loc>
-        <lastmod>2021-02-04T17:15:11.023Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://Expine.github.io/2020/07/09/review/Recursed/index/</loc>
-        <lastmod>2021-02-04T17:13:48.231Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025239_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025256_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025505_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/recursed/20201215025448_1.jpg</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
         <loc>https://Expine.github.io/2019/06/30/review/OneShot/index/</loc>
-        <lastmod>2021-02-04T17:13:42.167Z</lastmod>
+        <lastmod>2021-02-09T00:19:12.973Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -100,7 +54,7 @@
 
     <url>
         <loc>https://Expine.github.io/2019/12/21/review/Monolith/index/</loc>
-        <lastmod>2021-02-04T17:13:36.583Z</lastmod>
+        <lastmod>2021-02-09T00:16:16.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -144,7 +98,7 @@
 
     <url>
         <loc>https://Expine.github.io/2020/12/13/review/Celeste/index/</loc>
-        <lastmod>2021-02-04T17:13:32.550Z</lastmod>
+        <lastmod>2021-02-08T17:50:12.202Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -177,6 +131,96 @@
             <image:loc>https://Expine.github.io/images/review/celeste/20201213210547_1.jpg</image:loc>
 
         </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2019/01/06/review/VA-11Hall-A/index/</loc>
+        <lastmod>2021-02-07T14:51:49.122Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/447530/header.jpg?t=1568782899</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/va11halla/20201216022152_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/va11halla/20201216023854_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/va11halla/20201216023335_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/va11halla/20201216022455_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/va11halla/20201216024657_1.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2020/07/09/review/Recursed/index/</loc>
+        <lastmod>2021-02-06T06:26:38.958Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025239_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025256_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025505_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/recursed/20201215025448_1.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2021/01/27/HexoTips-1/</loc>
+        <lastmod>2021-02-04T17:15:11.023Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
 
     </url>
 
