@@ -1010,7 +1010,7 @@
   <entry>
     <title>2021-02-13 日誌</title>
     <url>/2021/02/13/diary/2021-02-13/</url>
-    <content><![CDATA[<ul>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://twitter.com/Ozijasak/status/1347345907692421120">パリは燃えているか</a><ul>
 <li>冒頭はマジでそれっぽい</li>
 </ul>
@@ -18925,6 +18925,99 @@ function toggle_bad() {
       <tags>
         <tag>ウディタ</tag>
         <tag>ウディコン</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-15 日誌</title>
+    <url>/2021/02/15/diary/2021-02-15/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.publickey1.jp/blog/21/excellambdaexcelceoexcel.html">チューリング完全</a><ul>
+<li>チューリング完全ではなかったことのほうに驚いた</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-16 日誌</title>
+    <url>/2021/02/16/diary/2021-02-16/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/fanseft/status/1361164160994668546">らむらむさん</a><ul>
+<li>おめでとうございます</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>開発者</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-18 日誌</title>
+    <url>/2021/02/18/diary/2021-02-18/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/wgextra/status/1279586860759527424">ラバーダックデバッグ</a><ul>
+<li>説明することで脳内が整理される、よくあります</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-19 日誌</title>
+    <url>/2021/02/19/diary/2021-02-19/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/Goluboje_Morje/status/1362767491806601217">CC BY-SA3.0</a><ul>
+<li>クリエイティブコモンズ自体割かしSCPめいたところある</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Twitter</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-20 日誌</title>
+    <url>/2021/02/20/diary/2021-02-20/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2021-02-17 日誌</title>
+    <url>/2021/02/17/diary/2021-02-17/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://automaton-media.com/articles/newsjp/20210213-152014/">壁抜け</a><ul>
+<li>抜ける必要すらないの面白い202-</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ゲーム</tag>
       </tags>
   </entry>
   <entry>
