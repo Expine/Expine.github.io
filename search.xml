@@ -1045,6 +1045,11 @@
       <categories>
         <category>Diary</category>
       </categories>
+      <tags>
+        <tag>SOLITUNE</tag>
+        <tag>The White Door</tag>
+        <tag>ABYSS CRAWLERS plus</tag>
+      </tags>
   </entry>
   <entry>
     <title>Celeste: 気持ち良い2Dプラットフォーマー</title>
@@ -3273,39 +3278,39 @@ function toggle_bad() {
 </ul>
 <p>以下は別ページになります</p>
 <ul>
-<li><a href="./index2.html#41">41.俺が勇者だ！(仮)</a></li>
-<li><a href="./index2.html#42">42.不思議な世界で</a></li>
-<li><a href="./index2.html#43">43.残業サバイバル</a></li>
-<li><a href="./index2.html#44">44.のんびりしゅーたー</a></li>
-<li><a href="./index2.html#45">45.鶏は音を置き去りにした</a></li>
-<li><a href="./index2.html#46">46.青屋根ビル合戦</a></li>
-<li><a href="./index2.html#47">47.玄武の如く</a></li>
-<li><a href="./index2.html#48">48.てのひらにさいころ</a></li>
-<li><a href="./index2.html#49">49.冒険者35歳</a></li>
-<li><a href="./index2.html#50">50.腹が減っては勇者はできぬ</a></li>
-<li><a href="./index2.html#51">51.すやりす絵巻</a></li>
-<li><a href="./index2.html#52">52.魔法少女 FREE☆GAMECREATOR</a></li>
-<li><a href="./index2.html#53">53.ウルファールと鬼ごっこ</a></li>
-<li><a href="./index2.html#54">54.世界</a></li>
-<li><a href="./index2.html#55">55.鋼の心</a></li>
-<li><a href="./index2.html#56">56.謎解きホテルの30のトビラ</a></li>
-<li><a href="./index2.html#57">57.殺人者の塔</a></li>
-<li><a href="./index2.html#58">58.ひとりぼっちの竜の神話</a></li>
-<li><a href="./index2.html#59">59.地底の太陽</a></li>
-<li><a href="./index2.html#60">60.技術将棋：デルタ</a></li>
-<li><a href="./index2.html#61">61.僕らのスイソウ</a></li>
-<li><a href="./index2.html#62">62.リトルナイト</a></li>
-<li><a href="./index2.html#63">63.アンダーグラウンドヒーロー</a></li>
-<li><a href="./index2.html#64">64.架空共生層アウターハッシュ・ワン 泡沫世界破裂</a></li>
-<li><a href="./index2.html#65">65.CrossSoul</a></li>
-<li><a href="./index2.html#66">66.Rice Ball Summer</a></li>
-<li><a href="./index2.html#67">67.なんちゃらを目指して</a></li>
+<li><a href="../index2/index.html#41">41.俺が勇者だ！(仮)</a></li>
+<li><a href="../index2/index.html#42">42.不思議な世界で</a></li>
+<li><a href="../index2/index.html#43">43.残業サバイバル</a></li>
+<li><a href="../index2/index.html#44">44.のんびりしゅーたー</a></li>
+<li><a href="../index2/index.html#45">45.鶏は音を置き去りにした</a></li>
+<li><a href="../index2/index.html#46">46.青屋根ビル合戦</a></li>
+<li><a href="../index2/index.html#47">47.玄武の如く</a></li>
+<li><a href="../index2/index.html#48">48.てのひらにさいころ</a></li>
+<li><a href="../index2/index.html#49">49.冒険者35歳</a></li>
+<li><a href="../index2/index.html#50">50.腹が減っては勇者はできぬ</a></li>
+<li><a href="../index2/index.html#51">51.すやりす絵巻</a></li>
+<li><a href="../index2/index.html#52">52.魔法少女 FREE☆GAMECREATOR</a></li>
+<li><a href="../index2/index.html#53">53.ウルファールと鬼ごっこ</a></li>
+<li><a href="../index2/index.html#54">54.世界</a></li>
+<li><a href="../index2/index.html#55">55.鋼の心</a></li>
+<li><a href="../index2/index.html#56">56.謎解きホテルの30のトビラ</a></li>
+<li><a href="../index2/index.html#57">57.殺人者の塔</a></li>
+<li><a href="../index2/index.html#58">58.ひとりぼっちの竜の神話</a></li>
+<li><a href="../index2/index.html#59">59.地底の太陽</a></li>
+<li><a href="../index2/index.html#60">60.技術将棋：デルタ</a></li>
+<li><a href="../index2/index.html#61">61.僕らのスイソウ</a></li>
+<li><a href="../index2/index.html#62">62.リトルナイト</a></li>
+<li><a href="../index2/index.html#63">63.アンダーグラウンドヒーロー</a></li>
+<li><a href="../index2/index.html#64">64.架空共生層アウターハッシュ・ワン 泡沫世界破裂</a></li>
+<li><a href="../index2/index.html#65">65.CrossSoul</a></li>
+<li><a href="../index2/index.html#66">66.Rice Ball Summer</a></li>
+<li><a href="../index2/index.html#67">67.なんちゃらを目指して</a></li>
 </ul>
 <p>おまけ</p>
 <ul>
-<li><a href="./index2.html#score">個人的得点</a></li>
-<li><a href="./index2.html#result">結果発表を受けて</a></li>
-<li><a href="./index2.html#end">後記</a></li>
+<li><a href="../index2/index.html#score">個人的得点</a></li>
+<li><a href="../index2/index.html#result">結果発表を受けて</a></li>
+<li><a href="../index2/index.html#end">後記</a></li>
 </ul>
 <p><a name="caution"></a></p>
 <h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>このレビューは、筆者個人の独断と偏見によって書かれています。当然サークルの総意ではありませんし、筆者の好みが多分に影響していますことをご了承ください。<br>また、出来る限り気を付けていますが、一部ネタバレを含む可能性もあります。問題がある場合は、コメント等にて指摘していただけると助かります。<br>なお、レビュー内容は主にプレイ当時の初期バージョンに基づいています。大きく変更している場合は、最新バージョンについての言及も行いますが、漏れがある可能性があります。</p>
@@ -4783,8 +4788,8 @@ function toggle_bad() {
 <p>このゲームは、ひたすら塔を登って敵を倒し続けるゲームです。30階層にわたる戦いを繰り広げる必要があります。戦いの結果得られたうつジェムを使って、ガチャを回すことで、装備などを強化することもできます。</p>
 <p>肝心の戦闘部分ですが、始めこそ何も考えずに倒せますが、後半は敵の火力がインフレし、まともにやっていては勝てなくなります。敵の攻撃からの回避を祈りながら、麻痺をぶち当てていきましょう。</p>
 <p>回避と麻痺に頼った戦闘を体験したい方に。</p>
-<p><a href="./index2.html">後半へ続く</a></p>
-]]></content>
+<p><a href="../index2/index.html">後半へ続く</a></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
         <category>Review</category>
         <category>ウディコン</category>
@@ -4833,46 +4838,46 @@ function toggle_bad() {
 </ul>
 <p>レビュー</p>
 <ul>
-<li><a href="./index.html#1">1.夢見草の夜</a></li>
-<li><a href="./index.html#2">2.スピネルの魔法工房</a></li>
-<li><a href="./index.html#3">3.AN EARTH</a></li>
-<li><a href="./index.html#4">4.まおうのおつかい -レトランド伝説-</a></li>
-<li><a href="./index.html#5">5.SaveHer</a></li>
-<li><a href="./index.html#6">6.死後の世界に触れた彼女は</a></li>
-<li><a href="./index.html#7">7.レイユウサイ</a></li>
-<li><a href="./index.html#8">8.うでぃふぇんす！</a></li>
-<li><a href="./index.html#9">9.ぽちぽちすぴりっつ</a></li>
-<li><a href="./index.html#10">10.±ZERO</a></li>
-<li><a href="./index.html#11">11.魔導銃士ジュノと囚われの姫君</a></li>
-<li><a href="./index.html#12">12.育成物語</a></li>
-<li><a href="./index.html#13">13.Life of Dangeon</a></li>
-<li><a href="./index.html#14">14.スーパーキパキパ3</a></li>
-<li><a href="./index.html#15">15.Game Master Lycan</a></li>
-<li><a href="./index.html#16">16.夢遊猫イミテイション</a></li>
-<li><a href="./index.html#17">17.Sword Witch♭</a></li>
-<li><a href="./index.html#18">18.不思議のMANGA</a></li>
-<li><a href="./index.html#19">19.Dream Story</a></li>
-<li><a href="./index.html#20">20.F.L.O.O.R.</a></li>
-<li><a href="./index.html#21">21.血の穢れを乗り越えて・・・</a></li>
-<li><a href="./index.html#22">22.最後の夜</a></li>
-<li><a href="./index.html#23">23.魔導のリザレクション</a></li>
-<li><a href="./index.html#24">24.じこ×にち</a></li>
-<li><a href="./index.html#25">25.箱庭勇者</a></li>
-<li><a href="./index.html#26">26.僕は旅商人</a></li>
-<li><a href="./index.html#27">27.ロンリークエスト</a></li>
-<li><a href="./index.html#28">28.道の先はみえない_創造</a></li>
-<li><a href="./index.html#29">29.邪策の枷</a></li>
-<li><a href="./index.html#30">30.UNKNOWN ENEMY</a></li>
-<li><a href="./index.html#31">31.GOURMAND CHATON</a></li>
-<li><a href="./index.html#32">32.お月見大作戦</a></li>
-<li><a href="./index.html#33">33.箱の中のバーディ</a></li>
-<li><a href="./index.html#34">34.自由ナ人生ハ、イカガ？</a></li>
-<li><a href="./index.html#35">35.夏雲の島の宝船</a></li>
-<li><a href="./index.html#36">36.罪と幸せの四苦八苦(ノアズアーク)</a></li>
-<li><a href="./index.html#37">37.Endlose Villa</a></li>
-<li><a href="./index.html#38">38.ラピッドスティール</a></li>
-<li><a href="./index.html#39">39.怪盗ユリリンの王城からの脱出!</a></li>
-<li><a href="./index.html#40">40.REBIRTH ・TOWER</a></li>
+<li><a href="../index/index.html#1">1.夢見草の夜</a></li>
+<li><a href="../index/index.html#2">2.スピネルの魔法工房</a></li>
+<li><a href="../index/index.html#3">3.AN EARTH</a></li>
+<li><a href="../index/index.html#4">4.まおうのおつかい -レトランド伝説-</a></li>
+<li><a href="../index/index.html#5">5.SaveHer</a></li>
+<li><a href="../index/index.html#6">6.死後の世界に触れた彼女は</a></li>
+<li><a href="../index/index.html#7">7.レイユウサイ</a></li>
+<li><a href="../index/index.html#8">8.うでぃふぇんす！</a></li>
+<li><a href="../index/index.html#9">9.ぽちぽちすぴりっつ</a></li>
+<li><a href="../index/index.html#10">10.±ZERO</a></li>
+<li><a href="../index/index.html#11">11.魔導銃士ジュノと囚われの姫君</a></li>
+<li><a href="../index/index.html#12">12.育成物語</a></li>
+<li><a href="../index/index.html#13">13.Life of Dangeon</a></li>
+<li><a href="../index/index.html#14">14.スーパーキパキパ3</a></li>
+<li><a href="../index/index.html#15">15.Game Master Lycan</a></li>
+<li><a href="../index/index.html#16">16.夢遊猫イミテイション</a></li>
+<li><a href="../index/index.html#17">17.Sword Witch♭</a></li>
+<li><a href="../index/index.html#18">18.不思議のMANGA</a></li>
+<li><a href="../index/index.html#19">19.Dream Story</a></li>
+<li><a href="../index/index.html#20">20.F.L.O.O.R.</a></li>
+<li><a href="../index/index.html#21">21.血の穢れを乗り越えて・・・</a></li>
+<li><a href="../index/index.html#22">22.最後の夜</a></li>
+<li><a href="../index/index.html#23">23.魔導のリザレクション</a></li>
+<li><a href="../index/index.html#24">24.じこ×にち</a></li>
+<li><a href="../index/index.html#25">25.箱庭勇者</a></li>
+<li><a href="../index/index.html#26">26.僕は旅商人</a></li>
+<li><a href="../index/index.html#27">27.ロンリークエスト</a></li>
+<li><a href="../index/index.html#28">28.道の先はみえない_創造</a></li>
+<li><a href="../index/index.html#29">29.邪策の枷</a></li>
+<li><a href="../index/index.html#30">30.UNKNOWN ENEMY</a></li>
+<li><a href="../index/index.html#31">31.GOURMAND CHATON</a></li>
+<li><a href="../index/index.html#32">32.お月見大作戦</a></li>
+<li><a href="../index/index.html#33">33.箱の中のバーディ</a></li>
+<li><a href="../index/index.html#34">34.自由ナ人生ハ、イカガ？</a></li>
+<li><a href="../index/index.html#35">35.夏雲の島の宝船</a></li>
+<li><a href="../index/index.html#36">36.罪と幸せの四苦八苦(ノアズアーク)</a></li>
+<li><a href="../index/index.html#37">37.Endlose Villa</a></li>
+<li><a href="../index/index.html#38">38.ラピッドスティール</a></li>
+<li><a href="../index/index.html#39">39.怪盗ユリリンの王城からの脱出!</a></li>
+<li><a href="../index/index.html#40">40.REBIRTH ・TOWER</a></li>
 </ul>
 <p>以下から、このページになります。</p>
 <ul>
@@ -6757,7 +6762,7 @@ for(var i = ts.length; i--; ) {
     for(var j = ths.length; j--; )
         ths[j].addEventListener("click", sortEvent(ts[i].tBodies[0], j));
 }
-</script>]]></content>
+</script><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
         <category>Review</category>
         <category>ウディコン</category>
@@ -18998,17 +19003,30 @@ function toggle_bad() {
   <entry>
     <title>2021-02-20 日誌</title>
     <url>/2021/02/20/diary/2021-02-20/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/794760/ABYSS_CRAWLERS_plus/?l=japanese">ABYSS CRAWLERS plus</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://evokemusic.ai/ja/">AIのBGM</a><ul>
+<li>面白い</li>
+</ul>
+</li>
+</ul>
+]]></content>
       <categories>
         <category>Diary</category>
       </categories>
+      <tags>
+        <tag>サービス</tag>
+        <tag>ABYSS CRAWLERS plus</tag>
+      </tags>
   </entry>
   <entry>
     <title>2021-02-17 日誌</title>
     <url>/2021/02/17/diary/2021-02-17/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://automaton-media.com/articles/newsjp/20210213-152014/">壁抜け</a><ul>
-<li>抜ける必要すらないの面白い202-</li>
+<li>抜ける必要すらないの面白い</li>
 </ul>
 </li>
 </ul>
@@ -19018,6 +19036,164 @@ function toggle_bad() {
       </categories>
       <tags>
         <tag>ゲーム</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-21 日誌</title>
+    <url>/2021/02/21/diary/2021-02-21/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1150950/Timelie/">Timelie</a><ul>
+<li>時間を操作してシビアなタイミングを思いのままにクリアするパズル</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://qiita.com/takobaya391076/items/49b15c1fa36734b3fa53">マックで一日分</a><ul>
+<li>サラダを食えという機械からの有難いお言葉</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
+        <tag>Timelie</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-22 日誌</title>
+    <url>/2021/02/22/diary/2021-02-22/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1150950/Timelie/">Timelie</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://togetter.com/li/770241">フリゲ</a><ul>
+<li>半分くらい知らんのでまだ見ぬ面白い作品は多そう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ゲーム</tag>
+        <tag>Timelie</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>マルコと銀河竜: 疾風怒濤の奥に深淵</title>
+    <url>/2020/03/08/review/Marco/index/</url>
+    <content><![CDATA[<h2 id="マルコと銀河竜"><a href="#マルコと銀河竜" class="headerlink" title="マルコと銀河竜"></a>マルコと銀河竜</h2><p><a href="https://store.steampowered.com/app/1202540/_MARCOGALAXY_DRAGON/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1202540/header_japanese.jpg?t=1592831911"></a></p>
+<table>
+<thead>
+<tr>
+<th>値段</th>
+<th>クリア状況</th>
+<th>実績</th>
+<th>プレイ時間</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>7800</td>
+<td>読了</td>
+<td>15 / 15</td>
+<td>6時間</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>お勧め度</th>
+<th>コスパ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>★★★★★★★★★☆</td>
+<td>★★★★★☆☆☆☆☆</td>
+</tr>
+</tbody></table>
+<p>筆者がこのゲームを買った理由はたった一つでした。ノベルゲームにカートゥーン調のアニメが収録されているという話を友人から聞いたからです。有り体に言えば、カートゥーンアニメにつられて買ったと言えるでしょう。<br>その時はマルコと銀河竜という作品が、銀河のように広大でつかみどころのない深淵を持つとは、未だ知る由もなかったのです。</p>
+<h3 id="尋常ならざる速度感"><a href="#尋常ならざる速度感" class="headerlink" title="尋常ならざる速度感"></a>尋常ならざる速度感</h3><table>
+<thead>
+<tr>
+<th>スチルは1000枚超</th>
+<th>カートゥーンアニメもあるよ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/marco/20201216010530_1.jpg"></td>
+<td><img src="/images/review/marco/20201216010942_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>マルコと銀河竜は、ノベルゲームとしては破格のスチルを用い、さらにカートゥーンスタイルのアニメーションまで収録することで、まさにアニメーション的手法によって紡がれていくノベルゲームとなっています。</p>
+<p>主人公である記憶喪失の孤児マルコが、ドラゴンのアルコとともに自身の母親の手掛かりを探して地球でドタバタ活劇を繰り広げるのが基本的なストーリーとなります。</p>
+<p>なんといってもこのゲームの特徴は怒涛のテンポ感です。尋常ないスチルの物量によって不要な情景描写を極力排した状況の中、ライターによってさらに先鋭化され磨き上げられた速度感は驚嘆の一言です。<br>余計な描写はスチルに委ねられ、冗長な幕引きはアイキャッチで強制的に遮断され、選択肢を排して一本道にすることで速度をさらに引き上げています。<br>ギャグを突っ込んでは余計な回収をすることなく矢継ぎ早に展開を進め、一寸先にはシリアスをぶち込んでくるジェットコースターのような感情体験はなかなか味わえるものではありません。</p>
+<h3 id="目まぐるしい勢い"><a href="#目まぐるしい勢い" class="headerlink" title="目まぐるしい勢い"></a>目まぐるしい勢い</h3><table>
+<thead>
+<tr>
+<th>テンポだけで押し切ってくる例</th>
+<th>エモい</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="/images/review/marco/20201216012119_1.jpg"></td>
+<td><img src="/images/review/marco/20201216012231_1.jpg"></td>
+</tr>
+</tbody></table>
+<p>この世界が一巡しそうなほど早い展開を下支えしているのは前述したスチル、アイキャッチ、そして癖の強いキャラクター達です。<br>勢いだけで突っ走る無鉄砲から、後先考えない楽天家、頭まで筋肉な戦士などの個性豊かな面々が、狂言回しも追いつかないほどのスピードで物語を進めていきます。</p>
+<p>加えて、要所要所のシリアスな場面をそれ一辺倒にさせないコメディリリーフのタイミングや、脇道にそれたようでいて本道へしっかり戻すストーリーラインといった構成の妙もあります。<br>疾風怒濤のテンポ感で流しきってくるストーリではありますが、テンポで展開の雑さを誤魔化している部分は余りありません。</p>
+<p>そうして切り替わり、立ち代わり、物語は次第にシリアスに傾いていき、終盤に向けては勢いそのままに今度はエモさでも流し切ってきます。とにかく展開の潮流が早いため、様々な感情の洪水に押し流されて大きな感情が生まれることになるかもしれません。</p>
+<h3 id="反芻する深淵"><a href="#反芻する深淵" class="headerlink" title="反芻する深淵"></a>反芻する深淵</h3><p>さて、このゲームはちゃんと声を聴いても6時間ほどで終わります。<br>カートゥーンアニメを期待して買ってみたら思いのほか物語もよかったので、筆者は満足して布団に入って、物語を反芻して楽しもうとしたのを記憶しています。違和感を覚えたのはその時でした。</p>
+<div class='spoiler collapsed'>
+    <div class='spoiler-title'>
+        以降はちょっとネタバレになるので隠します。
+    </div>
+    <div class='spoiler-content'>
+        <p>このゲームをクリアした人に試してみていただきたいのは、このゲームで発生した主要なイベントを時系列順に並べてみることです。<br>このノベルゲームには選択肢が基本無いので、知らない情報はないはずです。しかし、恐らくこの試みは失敗するでしょう。筆者は布団の中で失敗しました。</p>
+<p>その違和感を皮切りに、これまでテンポとエモさで押し流されていた様々な展開が想起されてきました。明らかにずれた記憶と、どう考えたって死んでいるあのキャラクター、終盤のあり得ない展開まで、枚挙に暇はありません。<br>しかもそれらは単なる脚本の矛盾点には思えず、明らかに意図してそう配されているような奇妙な恐ろしさを覚えていきます。<br>これらを反芻するうちに疑問と違和感はどんどんと肥大化し、それらの思考を整理しようとしていたら気づけば朝になっていました。</p>
+
+    </div>
+</div>
+
+<p>筆者はたまにこの深淵について考えていますし、いくつか仮説を立てて解釈を試みています。いくつかの部分では解釈できているような気もしますが、多くは未解決のままです。<br>たった6時間のプレイ時間よりも、考察している時間の長い作品になってしまいました。</p>
+<h3 id="映像と楽曲も良い"><a href="#映像と楽曲も良い" class="headerlink" title="映像と楽曲も良い"></a>映像と楽曲も良い</h3><p>書き忘れていたのでここに補記しますが、お目当てのカートゥーンアニメも良いものでした。<br>思ったよりボリュームはありませんでしたが、止めと動きのメリハリがついた迫力や線の自由ななびき方、位置を表現するような大胆なカット割りなど、見ていて気持ちの良いものです。</p>
+<p>また、マルコと銀河竜は楽曲も良い作品です。<br>最高潮のシーンで流れる主題曲「飢餓と宝玉」は、それを聞くためだけにこのゲームを起動してサウンドテストでループ再生することもあります。<br>シリアスシーンで流れる「でんでらりゅうば」というわらべ歌も雰囲気に合っています。なお、でんでらりゅうばという曲を採用したことにすら意味がありそうなのでこれもたまに思い返しています。</p>
+<h3 id="疾風怒濤の奥に深淵"><a href="#疾風怒濤の奥に深淵" class="headerlink" title="疾風怒濤の奥に深淵"></a>疾風怒濤の奥に深淵</h3><p>カートゥーンアニメにつられて買ってみれば、マルコと銀河竜は怒涛のスチルの洪水で押し流してくる深淵でした。<br>もはやプレイ時間が飾りに思うくらいには、あれこれ考えたり、思い返してみている時間は長くなってしまっています。</p>
+<p>プレイした後に感じる1クールのアニメーションを駆け抜けたかのような読後感と、様々な描写を点検して思いを馳せられる懐の深さが、この作品を素晴らしい体験へと昇華させています。</p>
+<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>物語のけん引力というか、突っ走っていき方の完成度が恐ろしく高いです。いくつか勢いで構成される物語を体験したことはありますが、群を抜いて上手く勢いを手なずけています。終盤に手を止められる人はいないんじゃないかというレベル。</p>
+<p>いまだに深淵の底は見えないんですが、描写を確認して仮説を立ててみる時間が楽しいのであんまり問題ではないです。物語は一応の終点にたどり着いているので、安心して細部の仮説を考えることができます。</p>
+<p>あと、飢餓と宝玉は個人的にだいぶ気に入ったので、ほぼこれを聞くためだけにサントラを買っています。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Review</category>
+        <category>ノベル</category>
+      </categories>
+      <tags>
+        <tag>マルコと銀河竜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-23 日誌</title>
+    <url>/2021/02/23/diary/2021-02-23/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1150950/Timelie/">Timelie</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://pc.watch.impress.co.jp/docs/news/1307882.html">SubRISC+</a><ul>
+<li>命令数4でもチューリング完全</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Timelie</tag>
+        <tag>アーキテクチャ</tag>
       </tags>
   </entry>
   <entry>
