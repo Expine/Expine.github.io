@@ -9,6 +9,50 @@
 
 
     <url>
+        <loc>https://Expine.github.io/2020/05/20/review/Dustforce/index/</loc>
+        <lastmod>2021-02-24T16:52:19.356Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/65300/header.jpg?t=1529257110</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/dustforce/20201213222849_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/dustforce/20201213214018_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/dustforce/20201213214354_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/dustforce/20201213222957_1.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://Expine.github.io/images/review/dustforce/z3wJFrh.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://Expine.github.io/2017/08/27/review/wodicon2017/index2/</loc>
         <lastmod>2021-02-23T00:29:50.629Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -153,50 +197,6 @@
         <image:image>
 
             <image:loc>https://Expine.github.io/images/review/monolith/20201215040501_1.jpg</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://Expine.github.io/2021/02/07/review/Dustforce/index/</loc>
-        <lastmod>2021-02-14T12:17:56.879Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://cdn.cloudflare.steamstatic.com/steam/apps/65300/header.jpg?t=1529257110</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/dustforce/20201213222849_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/dustforce/20201213214018_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/dustforce/20201213214354_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/dustforce/20201213222957_1.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>https://Expine.github.io/images/review/dustforce/z3wJFrh.jpg</image:loc>
 
         </image:image>
 

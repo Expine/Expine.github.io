@@ -1235,7 +1235,7 @@
   </entry>
   <entry>
     <title>DUSTFORCE DX: たゆまぬ鍛錬がスタイリッシュを作る</title>
-    <url>/2021/02/07/review/Dustforce/index/</url>
+    <url>/2020/05/20/review/Dustforce/index/</url>
     <content><![CDATA[<h2 id="DUSTFORCE-DX"><a href="#DUSTFORCE-DX" class="headerlink" title="DUSTFORCE DX"></a>DUSTFORCE DX</h2><p><a href="https://store.steampowered.com/app/65300/Dustforce_DX/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/65300/header.jpg?t=1529257110"></a></p>
 <table>
 <thead>
@@ -1313,7 +1313,7 @@
 <h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>だんだんアクションが上手くなっていくことに快感を覚えるタイプの人ならお勧めです。プレイし続けることで大分動きが洗練されてくるのは、得も言われぬ達成感があります。</p>
 <p>筆者は最高レベルのSSはさすがにしんどいのでやめましたが、それでも全ステージに挑むためには銀の鍵のステージは全てSSを取る必要があります。この辺は本当に鍛錬という感じです。ただ、やればやるだけ上手くなっていくのは楽しいです。<br>ちなみに実績は全部SSの一つしかないので取れていません。
 　</p>
-]]></content>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
         <category>Review</category>
         <category>2Dプラットフォーマー</category>
@@ -19180,6 +19180,14 @@ function toggle_bad() {
     <url>/2021/02/23/diary/2021-02-23/</url>
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1150950/Timelie/">Timelie</a></li>
+<li><a href="https://store.steampowered.com/app/1093910/Tales_of_the_Black_Forest/?l=japanese">Tales of the Black Forest</a><ul>
+<li>物語が良い探索アドベンチャー</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/453300/A_Healer_Only_Lives_Twice/?l=japanese">A Healer Only Lives Twice</a><ul>
+<li>とにかく忙しないヒーラー職を体験するゲーム</li>
+</ul>
+</li>
 </ul>
 <h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://pc.watch.impress.co.jp/docs/news/1307882.html">SubRISC+</a><ul>
@@ -19194,6 +19202,25 @@ function toggle_bad() {
       <tags>
         <tag>Timelie</tag>
         <tag>アーキテクチャ</tag>
+        <tag>Tales of the Black Forest</tag>
+        <tag>A Healer Only Lives Twice</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-02-24 日誌</title>
+    <url>/2021/02/25/diary/2021-02-24/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/Dogen/status/1237317774248046593">日本語なんて簡単</a><ul>
+<li>解像度が高い</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
       </tags>
   </entry>
   <entry>
