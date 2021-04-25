@@ -9,8 +9,22 @@
 
 
     <url>
+        <loc>https://Expine.github.io/2018/08/25/review/wodicon2018/index/</loc>
+        <lastmod>2021-04-20T16:05:22.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry10/CMbanner.png</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://Expine.github.io/2020/02/11/review/HollowKnight/index/</loc>
-        <lastmod>2021-04-20T15:06:20.304Z</lastmod>
+        <lastmod>2021-04-20T15:22:41.563Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -383,20 +397,6 @@
         <image:image>
 
             <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/CMbanner.png</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://Expine.github.io/2018/08/25/review/wodicon2018/index/</loc>
-        <lastmod>2021-02-14T12:17:56.879Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry10/CMbanner.png</image:loc>
 
         </image:image>
 
