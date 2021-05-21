@@ -22123,6 +22123,48 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-05-19 日誌</title>
+    <url>/2021/05/19/diary/2021/05/2021-05-19/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://github.com/donnemartin/system-design-primer">システム設計</a><ul>
+<li>Github、技術資料もまとまってるものなんだ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-05-21 日誌</title>
+    <url>/2021/05/21/diary/2021-05-21/</url>
+    <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2021-05-20 日誌</title>
+    <url>/2021/05/20/diary/2021/05/2021-05-20/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.reddit.com/r/speedrun/comments/mb3sq2/kirby_64_100_in_1429_uwr/">64RTA</a><ul>
+<li>64の解析は割と難しいのかな</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -22185,7 +22227,141 @@ for(let i = ts.length; i--; ) {
   <entry>
     <title>Steam ゲーム</title>
     <url>/history/steam/index.html</url>
-    <content><![CDATA[<h1 id="アクション"><a href="#アクション" class="headerlink" title="アクション"></a>アクション</h1><h2 id="2Dアクション"><a href="#2Dアクション" class="headerlink" title="2Dアクション"></a>2Dアクション</h2><table>
+    <content><![CDATA[<h1 id="アクション"><a href="#アクション" class="headerlink" title="アクション"></a>アクション</h1><h2 id="2Dアクション"><a href="#2Dアクション" class="headerlink" title="2Dアクション"></a>2Dアクション</h2><h3 id="2Dアクション一般"><a href="#2Dアクション一般" class="headerlink" title="2Dアクション一般"></a>2Dアクション一般</h3><table>
+<thead>
+<tr>
+<th>タイトル</th>
+<th>クリア状況</th>
+<th>補足</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>APE OUT</td>
+<td>クリア</td>
+<td>見下ろし型ゴリラ無双</td>
+</tr>
+<tr>
+<td>BADLAND</td>
+<td>Day I Noon</td>
+<td>ステージ型障害物競走</td>
+</tr>
+<tr>
+<td>Battle Chef Brigade Deluxe</td>
+<td>5日目?</td>
+<td>パズルとアクションの複合型</td>
+</tr>
+<tr>
+<td>Beatbuddy</td>
+<td>Stage 2</td>
+<td>リズムアクション</td>
+</tr>
+<tr>
+<td>Castle Crashers</td>
+<td>クリア</td>
+<td>ベルトスクロール</td>
+</tr>
+<tr>
+<td>Cave Story+</td>
+<td>もとはクリア</td>
+<td>探索型メトロイドヴァニアちっく</td>
+</tr>
+<tr>
+<td>Circa Infinity</td>
+<td>クリア</td>
+<td>ステージ型円形アクション</td>
+</tr>
+<tr>
+<td>Downwell</td>
+<td>クリア</td>
+<td>アーケード型垂直落下</td>
+</tr>
+<tr>
+<td>Fairy Bloom Freesia</td>
+<td>クリア</td>
+<td>ウェーブ式格闘</td>
+</tr>
+<tr>
+<td>Getting Over It with Bennett Foddy</td>
+<td>みかん</td>
+<td>山登り</td>
+</tr>
+<tr>
+<td>GoNNER</td>
+<td>ステージ2</td>
+<td>ローグライクアクション</td>
+</tr>
+<tr>
+<td>I hate this game</td>
+<td>クリア</td>
+<td>パズルに近いステージ型</td>
+</tr>
+<tr>
+<td>Impulsow</td>
+<td>クリア</td>
+<td>ステージ型避け</td>
+</tr>
+<tr>
+<td>One Finger Death Punch</td>
+<td>クリア</td>
+<td>ステージ型ワンボタン</td>
+</tr>
+<tr>
+<td>Remnants of Naezith</td>
+<td>クリア</td>
+<td>ステージ型ワイヤーアクション</td>
+</tr>
+<tr>
+<td>RONIN</td>
+<td>クリア</td>
+<td>半分ステルス</td>
+</tr>
+<tr>
+<td>Roombo</td>
+<td>2ステージクリア</td>
+<td>見下ろし型ステルス</td>
+</tr>
+<tr>
+<td>Strikey Sisters</td>
+<td>クリア</td>
+<td>ブロック崩し</td>
+</tr>
+<tr>
+<td>Super Crush KO</td>
+<td>クリア</td>
+<td>ステージ型格闘</td>
+</tr>
+<tr>
+<td>Superflight</td>
+<td>クリア</td>
+<td>スコアアタック型フライト</td>
+</tr>
+<tr>
+<td>Super House of Dead Ninjas</td>
+<td>2層</td>
+<td>ややローグライトなアーケード型</td>
+</tr>
+<tr>
+<td>Super Puzzle Platformer Deluxe</td>
+<td>100&amp;?</td>
+<td>ステージ型耐久</td>
+</tr>
+<tr>
+<td>Titan Souls</td>
+<td>クリア</td>
+<td>ボスラッシュ</td>
+</tr>
+<tr>
+<td>Transistor</td>
+<td>クリア</td>
+<td>見下ろし型戦略アクション</td>
+</tr>
+<tr>
+<td>ぶんまわしヒーロー</td>
+<td>途中</td>
+<td>見下ろし型戦い</td>
+</tr>
+</tbody></table>
+<h3 id="2Dプラットフォーム"><a href="#2Dプラットフォーム" class="headerlink" title="2Dプラットフォーム"></a>2Dプラットフォーム</h3><table>
 <thead>
 <tr>
 <th>タイトル</th>
@@ -22196,32 +22372,122 @@ for(let i = ts.length; i--; ) {
 <tbody><tr>
 <td>140</td>
 <td>クリア</td>
-<td>2Dプラットフォーム</td>
+<td></td>
 </tr>
 <tr>
 <td>Adventures of Pip</td>
 <td>クリア</td>
-<td>2Dプラットフォーム</td>
+<td></td>
 </tr>
 <tr>
-<td>APE OUT</td>
+<td>Bomb Chicken</td>
 <td>クリア</td>
-<td>見下ろし型</td>
+<td>ややパズル気味</td>
 </tr>
 <tr>
-<td>BADLAND</td>
-<td>Day I Noon</td>
-<td>ステージクリア型</td>
+<td>Cats are Liquid</td>
+<td>クリア</td>
+<td></td>
 </tr>
 <tr>
-<td>Battle Chef Brigade Deluxe</td>
-<td>5日目?</td>
-<td>複合型</td>
+<td>Celeste</td>
+<td>クリア</td>
+<td></td>
 </tr>
 <tr>
-<td>Beatbuddy</td>
-<td>Stage 2</td>
-<td>リズムアクション</td>
+<td>Ctrl CV</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Dimension Jump</td>
+<td>ほぼクリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Dungeon Escape</td>
+<td>ステージ48</td>
+<td></td>
+</tr>
+<tr>
+<td>Dustforce</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Electronic Super Joy</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>ibb &amp; obb</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>LOVE</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>OVIVO</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Pink Heaven</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Pink Hour</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Return.</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Rosenkreuzstilette</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Super Phantom Cat</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>They Bleed Pixels</td>
+<td>3章クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Tricky Cat</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>VVVVV</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>ココロクローバー パート１</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>マジキャット</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>魔神少女</td>
+<td>クリア</td>
+<td></td>
 </tr>
 </tbody></table>
 <h2 id="3Dアクション"><a href="#3Dアクション" class="headerlink" title="3Dアクション"></a>3Dアクション</h2><table>
@@ -22238,9 +22504,54 @@ for(let i = ts.length; i--; ) {
 <td></td>
 </tr>
 <tr>
-<td>Blind Witch</td>
+<td>Furi</td>
+<td>クリア</td>
+<td>ボスラッシュ</td>
+</tr>
+<tr>
+<td>Impossible Runner</td>
+<td>少し</td>
+<td></td>
+</tr>
+<tr>
+<td>LOST EGG</td>
 <td>クリア</td>
 <td></td>
+</tr>
+<tr>
+<td>Matter</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Neon Boost</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Refunct</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>A Story About My Uncle</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Suzy Cube</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>UNDEFEATED</td>
+<td>ボス1</td>
+<td></td>
+</tr>
+<tr>
+<td>Yooka-Laylee</td>
+<td>ステージ2クリア</td>
+<td>箱庭</td>
 </tr>
 </tbody></table>
 <h2 id="2Dパズルアクション"><a href="#2Dパズルアクション" class="headerlink" title="2Dパズルアクション"></a>2Dパズルアクション</h2><table>
@@ -22256,6 +22567,231 @@ for(let i = ts.length; i--; ) {
 <td>クリア</td>
 <td>横スクロール式一方通行</td>
 </tr>
+<tr>
+<td>BOOR</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Braid</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>The Bridge</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Camera Obscura</td>
+<td>2層クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Closure</td>
+<td>1章クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>DARQ</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>EDGE</td>
+<td>Normalクリア</td>
+<td>ステージ型</td>
+</tr>
+<tr>
+<td>FEZ</td>
+<td>クリア</td>
+<td>探索型</td>
+</tr>
+<tr>
+<td>Forgotton Anne</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>FRACTER</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>GIGA WRECKER</td>
+<td>クリア</td>
+<td>探索型</td>
+</tr>
+<tr>
+<td>Helltaker</td>
+<td>クリア</td>
+<td>ほぼパズル</td>
+</tr>
+<tr>
+<td>Hollowed</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>htoL#NiQ-ホタルノニッキ-</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Hue</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>INSIDE</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>Life Goes on</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>LIMBO</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>Linelight</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>LostWinds</td>
+<td>クリア</td>
+<td>探索型</td>
+</tr>
+<tr>
+<td>LostWinds 2</td>
+<td>クリア</td>
+<td>探索型</td>
+</tr>
+<tr>
+<td>Mekabolt</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>MIND CUBES</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>MIND REFLECTION</td>
+<td>Playful</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>The Misadventures of P.B. Winterbottom</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>The MISSING</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>Never Alone</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>Nihilumbra</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>Out There Somewhere</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>PECO</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Recursed</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Seen</td>
+<td>アーリー終わり</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Semblance</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Shrug Island</td>
+<td>クリア</td>
+<td>探索型</td>
+</tr>
+<tr>
+<td>Squishy the Suicidal Pig</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Sumoman</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>The Swapper</td>
+<td>クリア</td>
+<td>探索型</td>
+</tr>
+<tr>
+<td>Teslagrad</td>
+<td>クリア</td>
+<td>探索型</td>
+</tr>
+<tr>
+<td>Timelie</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Total Party Kill</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Trials of Azra</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Typoman</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>Way to Yaatra</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Wenjia</td>
+<td>クリア</td>
+<td>横スクロール式一方通行</td>
+</tr>
+<tr>
+<td>ロゼと黄昏の古城</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
 </tbody></table>
 <h2 id="3Dパズルアクション"><a href="#3Dパズルアクション" class="headerlink" title="3Dパズルアクション"></a>3Dパズルアクション</h2><table>
 <thead>
@@ -22265,7 +22801,67 @@ for(let i = ts.length; i--; ) {
 <th>補足</th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td>Blind Witch</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Brothers</td>
+<td>クリア</td>
+<td>ほぼステージクリア型</td>
+</tr>
+<tr>
+<td>Candleman</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Etherborn</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Iris.Fall</td>
+<td>クリア</td>
+<td>ほぼ2D</td>
+</tr>
+<tr>
+<td>Little Nightmares</td>
+<td>クリア</td>
+<td>一方通行</td>
+</tr>
+<tr>
+<td>The Long Return</td>
+<td>クリア</td>
+<td>ほぼ一方通行</td>
+</tr>
+<tr>
+<td>Portal</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Portal 2</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>Qbeh-1</td>
+<td>ステージ3</td>
+<td>ステージクリア型</td>
+</tr>
+<tr>
+<td>RiME</td>
+<td>クリア</td>
+<td>ほぼ一方通行</td>
+</tr>
+<tr>
+<td>TRI</td>
+<td>クリア</td>
+<td>ステージクリア型</td>
+</tr>
+</tbody></table>
 <h2 id="メトロイドヴァニア"><a href="#メトロイドヴァニア" class="headerlink" title="メトロイドヴァニア"></a>メトロイドヴァニア</h2><table>
 <thead>
 <tr>
@@ -22277,6 +22873,46 @@ for(let i = ts.length; i--; ) {
 <tbody><tr>
 <td>ABYSS CRAWLERS plus</td>
 <td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>CatMaze</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Gato Roboto</td>
+<td>クリア</td>
+<td>一本道気味</td>
+</tr>
+<tr>
+<td>Hollow Knight</td>
+<td>神殿2</td>
+<td></td>
+</tr>
+<tr>
+<td>Momodora</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Ori and the Blind Forest</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Salt and Sanctuary</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Successor of the Moon</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>The Vagrant</td>
+<td>ベテランクリア</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -22293,6 +22929,66 @@ for(let i = ts.length; i--; ) {
 <td>???</td>
 <td></td>
 </tr>
+<tr>
+<td>Gorogoa</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Hexologic</td>
+<td>クリア</td>
+<td>論理パズル</td>
+</tr>
+<tr>
+<td>Hook</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Induction</td>
+<td>〇〇〇〇</td>
+<td></td>
+</tr>
+<tr>
+<td>klocki</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>LYNE</td>
+<td>Eクリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Simple Dot</td>
+<td>70</td>
+<td>物理演算パズル</td>
+</tr>
+<tr>
+<td>Sokobond</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Stephen’s Sausage Roll</td>
+<td>26</td>
+<td></td>
+</tr>
+<tr>
+<td>Umiro</td>
+<td>クリア</td>
+<td>ややアクション</td>
+</tr>
+<tr>
+<td>Zenge</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Zup!</td>
+<td>クリア</td>
+<td>物理全山パズル</td>
+</tr>
 </tbody></table>
 <h2 id="3Dパズル"><a href="#3Dパズル" class="headerlink" title="3Dパズル"></a>3Dパズル</h2><table>
 <thead>
@@ -22307,16 +23003,57 @@ for(let i = ts.length; i--; ) {
 <td>クリア</td>
 <td></td>
 </tr>
+<tr>
+<td>Discolored</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Dr. Langeskov, The Tiger, <br>and The Terribly Cursed Emerald: <br>A Whirlwind Heist</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Superliminal</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>The Witness</td>
+<td>全景</td>
+<td></td>
+</tr>
 </tbody></table>
 <h1 id="ローグライク"><a href="#ローグライク" class="headerlink" title="ローグライク"></a>ローグライク</h1><table>
 <thead>
 <tr>
 <th>タイトル</th>
 <th>クリア状況</th>
+<th>補足</th>
 </tr>
 </thead>
-</table>
-<h1 id="アドベンチャー"><a href="#アドベンチャー" class="headerlink" title="アドベンチャー"></a>アドベンチャー</h1><h2 id="ノベル"><a href="#ノベル" class="headerlink" title="ノベル"></a>ノベル</h2><table>
+<tbody><tr>
+<td>Crypt of the NecroDancer</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Dungetris</td>
+<td>途中まで</td>
+<td></td>
+</tr>
+<tr>
+<td>片道勇者</td>
+<td>何回もクリア</td>
+<td></td>
+</tr>
+<tr>
+<td>妖談寺</td>
+<td>未クリア</td>
+<td></td>
+</tr>
+</tbody></table>
+<h1 id="アドベンチャー"><a href="#アドベンチャー" class="headerlink" title="アドベンチャー"></a>アドベンチャー</h1><h2 id="ノベル-ナラティブ"><a href="#ノベル-ナラティブ" class="headerlink" title="ノベル/ナラティブ"></a>ノベル/ナラティブ</h2><table>
 <thead>
 <tr>
 <th>タイトル</th>
@@ -22329,8 +23066,78 @@ for(let i = ts.length; i--; ) {
 <td>クリア</td>
 <td>やや動かすが物語主体</td>
 </tr>
+<tr>
+<td>CyberRebeat</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Her Story</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>LoveChoice</td>
+<td>クリア</td>
+<td>クリック式</td>
+</tr>
+<tr>
+<td>Mhakna Gramura and Fairy Bell</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>The Red Strings Club</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Replica</td>
+<td>クリア</td>
+<td>クリック式</td>
+</tr>
+<tr>
+<td>Sound of Drop</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>To the moon</td>
+<td>クリア</td>
+<td>やや動かすが物語主体</td>
+</tr>
+<tr>
+<td>VA-11 Hall-A</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>WORLD END ECONOMiCA episode.01</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>ヘッドライナー</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>マルコと銀河竜</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>ルーシィ ～彼女が望んでいたもの～</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>雪絵</td>
+<td>クリア</td>
+<td>ややアクション</td>
+</tr>
 </tbody></table>
-<h2 id="クリックアドベンチャー"><a href="#クリックアドベンチャー" class="headerlink" title="クリックアドベンチャー"></a>クリックアドベンチャー</h2><table>
+<h2 id="パズルアドベンチャー"><a href="#パズルアドベンチャー" class="headerlink" title="パズルアドベンチャー"></a>パズルアドベンチャー</h2><table>
 <thead>
 <tr>
 <th>タイトル</th>
@@ -22340,6 +23147,11 @@ for(let i = ts.length; i--; ) {
 </thead>
 <tbody><tr>
 <td>The Almost Gone</td>
+<td>クリア</td>
+<td>クリック式</td>
+</tr>
+<tr>
+<td>Clocker</td>
 <td>クリア</td>
 <td></td>
 </tr>
@@ -22357,6 +23169,61 @@ for(let i = ts.length; i--; ) {
 <td>クリア</td>
 <td></td>
 </tr>
+<tr>
+<td>Close Me</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Dreaming Sarah</td>
+<td>クリア</td>
+<td>ややアクション</td>
+</tr>
+<tr>
+<td>Dropsy</td>
+<td>クリア</td>
+<td>クリック式</td>
+</tr>
+<tr>
+<td>Jenny LeClue - Detectivu</td>
+<td>クリア</td>
+<td>クリック式</td>
+</tr>
+<tr>
+<td>LiEat</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>OneShot</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>SOLITUNE</td>
+<td>クリア</td>
+<td>クリック式</td>
+</tr>
+<tr>
+<td>Strange Telephone</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Tales of the Black Forest</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>The White Door</td>
+<td>クリア</td>
+<td>クリック式</td>
+</tr>
+<tr>
+<td>夜廻</td>
+<td>クリア</td>
+<td></td>
+</tr>
 </tbody></table>
 <h1 id="RPG"><a href="#RPG" class="headerlink" title="RPG"></a>RPG</h1><h2 id="コマンド式RPG"><a href="#コマンド式RPG" class="headerlink" title="コマンド式RPG"></a>コマンド式RPG</h2><table>
 <thead>
@@ -22366,7 +23233,27 @@ for(let i = ts.length; i--; ) {
 <th>補足</th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td>Child of Light</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>FINAL FANTASY X/X-2 HD Remaster</td>
+<td>Xクリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Light Fairytale Episode 1</td>
+<td>表クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>LISA</td>
+<td>Area1</td>
+<td></td>
+</tr>
+</tbody></table>
 <h2 id="アクションRPG"><a href="#アクションRPG" class="headerlink" title="アクションRPG"></a>アクションRPG</h2><table>
 <thead>
 <tr>
@@ -22385,6 +23272,26 @@ for(let i = ts.length; i--; ) {
 <td>クリア</td>
 <td>非コマンド型</td>
 </tr>
+<tr>
+<td>Marchen Forest</td>
+<td>クリア</td>
+<td>前半は探索アドベンチャー</td>
+</tr>
+<tr>
+<td>Minit</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Reventure</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Undertale</td>
+<td>クリア</td>
+<td>非コマンド型</td>
+</tr>
 </tbody></table>
 <h1 id="シミュレーション"><a href="#シミュレーション" class="headerlink" title="シミュレーション"></a>シミュレーション</h1><table>
 <thead>
@@ -22394,7 +23301,27 @@ for(let i = ts.length; i--; ) {
 <th>補足</th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td>Goat Simulator</td>
+<td>3ステージプレイ</td>
+<td>ヤギ</td>
+</tr>
+<tr>
+<td>KIDS</td>
+<td>クリア</td>
+<td>群衆シミュレータ</td>
+</tr>
+<tr>
+<td>Papers, Please</td>
+<td>クリア</td>
+<td>入国審査官</td>
+</tr>
+<tr>
+<td>PRINCIPIA</td>
+<td>クリア</td>
+<td>科学者</td>
+</tr>
+</tbody></table>
 <h1 id="シューティング"><a href="#シューティング" class="headerlink" title="シューティング"></a>シューティング</h1><table>
 <thead>
 <tr>
@@ -22408,6 +23335,31 @@ for(let i = ts.length; i--; ) {
 <td>V5</td>
 <td>ミニゲーム</td>
 </tr>
+<tr>
+<td>Monolith</td>
+<td>クリア</td>
+<td>ローグライト</td>
+</tr>
+<tr>
+<td>Savant</td>
+<td>クリア</td>
+<td>ほぼアクション</td>
+</tr>
+<tr>
+<td>Super Bit Blaster XL</td>
+<td>90500</td>
+<td>ミニゲーム</td>
+</tr>
+<tr>
+<td>Vertical Strike Endless Challenge</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>WITCH-BOT MEGLILO</td>
+<td>クリア</td>
+<td></td>
+</tr>
 </tbody></table>
 <h1 id="リズムゲーム"><a href="#リズムゲーム" class="headerlink" title="リズムゲーム"></a>リズムゲーム</h1><table>
 <thead>
@@ -22417,7 +23369,22 @@ for(let i = ts.length; i--; ) {
 <th>補足</th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td>Geometry Dash</td>
+<td>Normal6</td>
+<td>リズムアクション</td>
+</tr>
+<tr>
+<td>Hacker’s Beat</td>
+<td>地獄のサーフィンA</td>
+<td></td>
+</tr>
+<tr>
+<td>Melody’s Escape</td>
+<td>30曲くらい</td>
+<td></td>
+</tr>
+</tbody></table>
 <h1 id="格闘ゲーム"><a href="#格闘ゲーム" class="headerlink" title="格闘ゲーム"></a>格闘ゲーム</h1><table>
 <thead>
 <tr>
@@ -22426,7 +23393,17 @@ for(let i = ts.length; i--; ) {
 <th>補足</th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td>Rivals of Aether</td>
+<td>クリア</td>
+<td></td>
+</tr>
+<tr>
+<td>Stick Fight</td>
+<td>ちょっと</td>
+<td></td>
+</tr>
+</tbody></table>
 <h1 id="その他"><a href="#その他" class="headerlink" title="その他"></a>その他</h1><table>
 <thead>
 <tr>
@@ -22435,7 +23412,97 @@ for(let i = ts.length; i--; ) {
 <th>補足</th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td>Dead by Daylight</td>
+<td>ちょっと</td>
+<td>PvP</td>
+</tr>
+<tr>
+<td>Forgotten Passages</td>
+<td>クリア</td>
+<td>歩く</td>
+</tr>
+<tr>
+<td>Fractured Minds</td>
+<td>クリア</td>
+<td>アート</td>
+</tr>
+<tr>
+<td>GRID 2</td>
+<td>ちょっと</td>
+<td>レース</td>
+</tr>
+<tr>
+<td>GRIS</td>
+<td>クリア</td>
+<td>アート</td>
+</tr>
+<tr>
+<td>Hacknet</td>
+<td>クリア</td>
+<td>ハッカーの真似事</td>
+</tr>
+<tr>
+<td>A Healer Only Lives Twice</td>
+<td>クリア</td>
+<td>リアルタイムストラテジー</td>
+</tr>
+<tr>
+<td>Mandagon</td>
+<td>クリア</td>
+<td>アート</td>
+</tr>
+<tr>
+<td>Meteor 60 Seconds!</td>
+<td>全END</td>
+<td>Flashっぽい</td>
+</tr>
+<tr>
+<td>OLDTV</td>
+<td>プレイ可能範囲クリア</td>
+<td>反射神経</td>
+</tr>
+<tr>
+<td>Orbt XL</td>
+<td>81</td>
+<td>ミニゲーム</td>
+</tr>
+<tr>
+<td>Please, Don’t Touch Anything</td>
+<td>全END</td>
+<td></td>
+</tr>
+<tr>
+<td>Pony Isrand</td>
+<td>クリア</td>
+<td>ややアクション</td>
+</tr>
+<tr>
+<td>Realm of the Mad God</td>
+<td>クリア</td>
+<td>MMO ARPG</td>
+</tr>
+<tr>
+<td>Retro Game Crunch</td>
+<td>2つクリア</td>
+<td>オムニバス</td>
+</tr>
+<tr>
+<td>Terraria</td>
+<td>ラスボス相当撃破</td>
+<td>サンドボックス</td>
+</tr>
+<tr>
+<td>TIS-100</td>
+<td>ちょっと</td>
+<td>プログラミング</td>
+</tr>
+<tr>
+<td>ナユの冒険</td>
+<td>クリア</td>
+<td>放置</td>
+</tr>
+</tbody></table>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
@@ -22527,6 +23594,11 @@ for(let i = ts.length; i--; ) {
 <tr>
 <td>灼熱カバディ</td>
 <td>17巻</td>
+<td></td>
+</tr>
+<tr>
+<td>市場クロガネは稼ぎたい</td>
+<td>13巻</td>
 <td></td>
 </tr>
 <tr>
