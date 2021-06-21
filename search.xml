@@ -23457,6 +23457,35 @@ for(let i = ts.length; i--; ) {
       </categories>
   </entry>
   <entry>
+    <title>2021-06-21 日誌</title>
+    <url>/2021/06/21/diary/2021/06/2021-06-21/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/">The Wanderer: Frankenstein’s Creature</a><ul>
+<li>最後まで和訳が没入させてくれなかった</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/727640/__ShP/">ШП - ShP</a><ul>
+<li>何だこれと思いながら解いていた</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/wiz4_werdna/status/1406628619162558466">マリオ</a><ul>
+<li>意図して縦方向をループさせないとこうならないと思うんだけど、あのループする移動足場のための処理かな</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
+        <tag>The Wanderer</tag>
+        <tag>ШП</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
