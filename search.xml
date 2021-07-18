@@ -2233,7 +2233,7 @@
   <entry>
     <title>2021-02-08 日誌</title>
     <url>/2021/02/08/diary/2021/02/2021-02-08/</url>
-    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><ul>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="http://feo-tapipoke.hatenablog.com/entry/2020/06/21/232215">ユレイドル</a><ul>
 <li>12年越しにクリアされたそうで感慨深い</li>
 </ul>
@@ -3254,6 +3254,9 @@
       <categories>
         <category>Diary</category>
       </categories>
+      <tags>
+        <tag>ネタ</tag>
+      </tags>
   </entry>
   <entry>
     <title>2021-04-29 日誌</title>
@@ -3755,15 +3758,15 @@
   <entry>
     <title>2021-03-26 日誌</title>
     <url>/2021/03/26/diary/2021/03/2021-03-26/</url>
-    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href="https://this.kiji.is/747793805117358080?c=39546741839462401">単位時間4億ドル</a><ul>
-<li>恐ろしい話</li>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.capcom.co.jp/monsterhunter/rise/">モンスターハンターライズ</a><ul>
+<li>ことごとくハードを持っていなかったので初めてプレイしている</li>
 </ul>
 </li>
 </ul>
-<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
-<li><a href="https://www.capcom.co.jp/monsterhunter/rise/">モンスターハンターライズ</a><ul>
-<li>ことごとくハードを持っていなかったので初めてプレイしている</li>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://this.kiji.is/747793805117358080?c=39546741839462401">単位時間4億ドル</a><ul>
+<li>恐ろしい話</li>
 </ul>
 </li>
 </ul>
@@ -23455,6 +23458,9 @@ for(let i = ts.length; i--; ) {
       <categories>
         <category>Diary</category>
       </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
   </entry>
   <entry>
     <title>2021-06-21 日誌</title>
@@ -23519,6 +23525,9 @@ for(let i = ts.length; i--; ) {
       <categories>
         <category>Diary</category>
       </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
   </entry>
   <entry>
     <title>2021-06-22 日誌</title>
@@ -24218,6 +24227,103 @@ for(let i = ts.length; i--; ) {
       <tags>
         <tag>記事</tag>
         <tag>軒轅剣2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-07-15 日誌</title>
+    <url>/2021/07/15/diary/2021/07/2021-07-15/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/774171/Muse_Dash/">Muse Dash</a><ul>
+<li>GPD Win3が届いたのでやってみたけど、Muse DashならSwitchでやれという気分になった</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://note.com/hajimehoshi/n/nc09751f2dbf9">Ebiten</a><ul>
+<li>RPGツクール2000に人生を狂わされた、とてもよくわかる</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Muse Dash</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-07-16 日誌</title>
+    <url>/2021/07/16/diary/2021/07/2021-07-16/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/774171/Muse_Dash/">Muse Dash</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.steamdeck.com/ja/">Steam Deck</a><ul>
+<li>GPD Win3を買ったのだけど、これも気になる</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>グッズ</tag>
+        <tag>Muse Dash</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-07-18 日誌</title>
+    <url>/2021/07/18/diary/2021/07/2021-07-18/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/774171/Muse_Dash/">Muse Dash</a></li>
+<li><a href="https://store.steampowered.com/app/1151060/_">ビフォー・アライビング・アット・ザ・ターミナル</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml">ウディコン</a><ul>
+<li>始まった、積みゲーが60個くらい増えそうな祭典が</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ウディコン</tag>
+        <tag>Muse Dash</tag>
+        <tag>ビフォー・アライビング・アット・ザ・ターミナル</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-07-17 日誌</title>
+    <url>/2021/07/18/diary/2021/07/2021-07-17/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/774171/Muse_Dash/">Muse Dash</a><ul>
+<li>ちまちまやるのに最適なゲーム</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1151060/_">ビフォー・アライビング・アット・ザ・ターミナル</a><ul>
+<li>脅かすタイプでなくて、ずっと不安定なおかしさを感じるタイプのホラーで、後味が悪くない系</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://news.livedoor.com/article/detail/20536756/">ボディビルボードゲーム</a><ul>
+<li>コロナ禍が終わったらやりたいタイプ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ゲーム</tag>
+        <tag>Muse Dash</tag>
+        <tag>ビフォー・アライビング・アット・ザ・ターミナル</tag>
       </tags>
   </entry>
   <entry>
@@ -26986,6 +27092,11 @@ td a {
 <td>WORLD END ECONOMiCA episode.03</td>
 <td>読了</td>
 <td>月の国家経済</td>
+</tr>
+<tr>
+<td>ビフォー・アライビング・アット・ザ・ターミナル</td>
+<td>読了</td>
+<td>精神系ホラー</td>
 </tr>
 <tr>
 <td><a href="/2020/03/08/review/Marco/index/">マルコと銀河竜</a></td>
