@@ -9,6 +9,20 @@
 
 
     <url>
+        <loc>https://Expine.github.io/2020/09/22/review/wodicon2020/index/</loc>
+        <lastmod>2021-09-06T17:30:15.205Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/CMbanner.png</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://Expine.github.io/2021/09/07/review/wodicon2021/index/</loc>
         <lastmod>2021-09-06T16:52:11.822Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -715,20 +729,6 @@
         <image:image>
 
             <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/CMbanner.png</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://Expine.github.io/2020/09/22/review/wodicon2020/index/</loc>
-        <lastmod>2021-02-14T12:17:56.879Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/CMbanner.png</image:loc>
 
         </image:image>
 
