@@ -29706,6 +29706,239 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-09-13 日誌</title>
+    <url>/2021/09/13/diary/2021/09/2021-09-13/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://trap.jp/post/1324/">本番環境を飛ばす</a><ul>
+<li>やっぱ動作確認大事なんだなあ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-15 日誌</title>
+    <url>/2021/09/15/diary/2021/09/2021-09-15/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://speakerdeck.com/task4233/why-can-javasctipt-invoke-asynchronous-in-single-thread">JavaScriptの非同期処理</a><ul>
+<li>PromiseのほうがsetTimeoutより優先度高いのね</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-14 日誌</title>
+    <url>/2021/09/14/diary/2021/09/2021-09-14/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%A0%E3%81%AE%E6%B3%95%E5%89%87">ヒュームの法則</a><ul>
+<li>よく言われる、事実からするべきという命題にはできないという話</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-17 日誌</title>
+    <url>/2021/09/17/diary/2021/09/2021-09-17/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/nekoshita/articles/097e00c6d3d1c9">goのエラーハンドリング</a><ul>
+<li>スタックトレースまでも自分でハンドリングしなきゃいけないの辛そう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-16 日誌</title>
+    <url>/2021/09/16/diary/2021/09/2021-09-16/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://qiita.com/junp007/items/ea25fe152b2fa983f7ce">扇風機</a><ul>
+<li>なるほどなあと思って読んでるとちゃんと引きがある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-18 日誌</title>
+    <url>/2021/09/18/diary/2021/09/2021-09-18/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/115800/Owlboy">Owlboy</a><ul>
+<li>ピクセルアートは綺麗、グラフィックが綺麗なアクションという意味ではOriと相似</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://gigazine.net/news/20210917-space-particles-mario-speedrun/">宇宙線</a><ul>
+<li>SEUなんてあるんだ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>Owlboy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-20 日誌</title>
+    <url>/2021/09/20/diary/2021/09/2021-09-20/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/115800/Owlboy">Owlboy</a></li>
+<li><a href="https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease">Kao the Kangaroo: Round 2</a><ul>
+<li>N64の3Dアクションって感じだ</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md">if-then-elseの歴史</a><ul>
+<li>確かにelseはみょうちきりんではあって、結構面白い歴史がある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Owlboy</tag>
+        <tag>Kao the Kangaroo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-19 日誌</title>
+    <url>/2021/09/19/diary/2021/09/2021-09-19/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/115800/Owlboy">Owlboy</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%90%E3%83%BC%E6%95%B0">ダンバー数</a><ul>
+<li>100から250もいけるのにすら驚く</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+        <tag>Owlboy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-22 日誌</title>
+    <url>/2021/09/22/diary/2021/09/2021-09-22/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1518610/_">リバーティア</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="http://mysdic.zero-yen.com/">ミステリ用語辞典</a><ul>
+<li>ネタもあれば知らん単語もあって面白い</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+        <tag>リバーティア</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-21 日誌</title>
+    <url>/2021/09/21/diary/2021/09/2021-09-21/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1518610/_">リバーティア</a><ul>
+<li>絶妙に操作性が悪い</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%97%E3%82%B7%E3%83%83%E3%83%84%E9%80%A3%E7%B6%9A">リプシッツ連続</a><ul>
+<li>解析学は面白そうだけど用語も多そう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+        <tag>リバーティア</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-09-23 日誌</title>
+    <url>/2021/09/23/diary/2021/09/2021-09-23/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1518610/_">リバーティア</a><ul>
+<li>全部Aで埋めても実績でないとは思わなかった</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease">Kao the Kangaroo: Round 2</a><ul>
+<li>めちゃくちゃに酔うので何かと並行してやっていきたい</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/375820/Human_Resource_Machine">Human Resource Machine</a><ul>
+<li>この手の最適化面白いし好きなんだけど、TIS-100といい、もはや仕事と差異が無くなってきかねない</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/Nintendo/status/1440677732464021513">ニンダイ</a><ul>
+<li>楽しみですね</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ゲーム</tag>
+        <tag>リバーティア</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -31198,6 +31431,9 @@ for(let i = ts.length; i--; ) {
 <h2 id="第12回"><a href="#第12回" class="headerlink" title="第12回"></a>第12回</h2><ul>
 <li><a href="../../2020/09/22/review/wodicon2020/index/">ほとんどすべてクリア</a></li>
 </ul>
+<h2 id="第13回"><a href="#第13回" class="headerlink" title="第13回"></a>第13回</h2><ul>
+<li><a href="../../2021/09/07/review/wodicon2021/index/">ほとんどすべてクリア</a></li>
+</ul>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
@@ -31946,6 +32182,11 @@ td a {
 <td>憑依プラットフォーム</td>
 </tr>
 <tr>
+<td>Owlboy</td>
+<td>クリア</td>
+<td>飛行系</td>
+</tr>
+<tr>
 <td>The Misadventures of P.B. Winterbottom</td>
 <td>クリア</td>
 <td>ムーディー・ブルース系</td>
@@ -32014,6 +32255,11 @@ td a {
 <td>キュビ</td>
 <td>クリア</td>
 <td>アクションやや強めパズル</td>
+</tr>
+<tr>
+<td>リバーティア</td>
+<td>クリア</td>
+<td>オセロパズル</td>
 </tr>
 <tr>
 <td>ロゼと黄昏の古城</td>
@@ -32984,7 +33230,7 @@ td a {
 </tr>
 <tr>
 <td>月刊少女野崎くん</td>
-<td>12巻</td>
+<td>13巻</td>
 <td></td>
 </tr>
 <tr>
@@ -33019,7 +33265,7 @@ td a {
 </tr>
 <tr>
 <td>灼熱カバディ</td>
-<td>17巻</td>
+<td>19巻</td>
 <td></td>
 </tr>
 <tr>
@@ -33044,12 +33290,12 @@ td a {
 </tr>
 <tr>
 <td>推しの子</td>
-<td>3巻</td>
+<td>5巻</td>
 <td></td>
 </tr>
 <tr>
 <td>かぐや様は告らせたい</td>
-<td>22巻</td>
+<td>23巻</td>
 <td></td>
 </tr>
 <tr>
@@ -33084,7 +33330,7 @@ td a {
 </tr>
 <tr>
 <td>木根さんの一人でキネマ</td>
-<td>6巻</td>
+<td>8巻</td>
 <td></td>
 </tr>
 <tr>
@@ -33129,7 +33375,17 @@ td a {
 </tr>
 <tr>
 <td>ジャンケットバンク</td>
-<td>3巻</td>
+<td>4巻</td>
+<td></td>
+</tr>
+<tr>
+<td>鋼の錬金術師</td>
+<td>18巻</td>
+<td>完全版</td>
+</tr>
+<tr>
+<td>淡海乃海　水面が揺れる時</td>
+<td>6巻</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -33277,11 +33533,6 @@ td a {
 <td></td>
 </tr>
 <tr>
-<td>鋼の錬金術師</td>
-<td>27巻</td>
-<td></td>
-</tr>
-<tr>
 <td>男子高校生の日常</td>
 <td>7巻</td>
 <td></td>
@@ -33416,6 +33667,11 @@ td a {
 <td></td>
 </tr>
 <tr>
+<td>モブサイコ100</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>鉄鍋のジャン</td>
 <td></td>
 <td></td>
@@ -33501,6 +33757,16 @@ td a {
 </tr>
 <tr>
 <td>トキオトナナミ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>僕達の魔王は普通</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>エルフと狩猟士のアイテム工房</td>
 <td></td>
 <td></td>
 </tr>
@@ -34094,6 +34360,36 @@ td a {
 </tr>
 <tr>
 <td>廃バスに住む</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>JKさんちのサルトルさん</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>はなまるスキップ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>もし、恋が見えたなら</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>魔法少女全員おじさん</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ななどなどなど</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>忍者と殺し屋のふたりぐらし</td>
 <td></td>
 <td></td>
 </tr>
