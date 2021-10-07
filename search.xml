@@ -30171,6 +30171,106 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-10-06 日誌</title>
+    <url>/2021/10/06/diary/2021/10/2021-10-06/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1190160/LIT_Bend_the_Light">LIT: Bend the Light</a></li>
+<li><a href="https://store.steampowered.com/app/908050/Summer_Catchers/">Summer Catchers</a><ul>
+<li>運ゲーかな</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://imidas.jp/idiom/detail/X-05-X-26-5-0029.html">鼻毛を読む</a><ul>
+<li>ここまでマイナーだと伝わらなそう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+        <tag>LIT</tag>
+        <tag>Summer Catchers</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-10-07 日誌</title>
+    <url>/2021/10/07/diary/2021/10/2021-10-07/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1190160/LIT_Bend_the_Light">LIT: Bend the Light</a><ul>
+<li>終わり。別解探すの楽しい</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1225560/Unravel">Unravel</a><ul>
+<li>EAのアカウント作りたくないなあ。Child of Lightの時もUbisoftで似たようなこと考えてた</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://http.cat/">猫のステータスコード</a><ul>
+<li>ちゃんと意味があるの良い</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
+        <tag>LIT</tag>
+        <tag>Unravel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-10-05 日誌</title>
+    <url>/2021/10/05/diary/2021/10/2021-10-05/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1190160/LIT_Bend_the_Light">LIT: Bend the Light</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://twitter.com/soshi_harami/status/1445204859704152064">SUSURU</a><ul>
+<li>SUSURU系で一番好きかもしれない</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
+        <tag>LIT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-10-04 日誌</title>
+    <url>/2021/10/04/diary/2021/10/2021-10-04/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1190160/LIT_Bend_the_Light">LIT: Bend the Light</a><ul>
+<li>日本語でやるとメニューが開かず実績も解放されない謎バグがある</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/hsaki/books/golang-httpserver-internal/viewer/intro">Goのサーバー</a><ul>
+<li>こういうところからの理解は良い</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>LIT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -32763,6 +32863,11 @@ td a {
 <td>Lara Croft GO</td>
 <td>クリア</td>
 <td>見下ろしターン制</td>
+</tr>
+<tr>
+<td>LIT: Bend the Light</td>
+<td>クリア</td>
+<td>光反射系</td>
 </tr>
 <tr>
 <td>LYNE</td>
