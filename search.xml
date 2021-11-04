@@ -30825,6 +30825,76 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-11-03 日誌</title>
+    <url>/2021/11/03/diary/2021/11/2021-11-03/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/">The Eternal Castle [REMASTERED]</a><ul>
+<li>4色で描いている世界が美しい</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1579310/Light_Infantry/">Light Infantry</a><ul>
+<li>これ変なゲーム成分より死んで覚える成分のほうが強いやつだ</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://github.com/k-nasa/goku">goku</a><ul>
+<li>元ネタはvegetaで、そっちの理由はなんとなくわかる</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ツール</tag>
+        <tag>The Eternal Castle</tag>
+        <tag>Light Infantry</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-04 日誌</title>
+    <url>/2021/11/04/diary/2021/11/2021-11-04/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1579310/Light_Infantry/">Light Infantry</a><ul>
+<li>ラスボスがちゃんと強い</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="http://highscalability.com/blog/2016/4/20/how-twitter-handles-3000-images-per-second.html">Twitter</a><ul>
+<li>マイクロサービスというか、ちゃんと分離させるというのは有効手なんだなと</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>Light Infantry</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-02 日誌</title>
+    <url>/2021/11/02/diary/2021/11/2021-11-02/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://colin-scott.github.io/personal_website/research/interactive_latency.html">レイテンシの歴史</a><ul>
+<li>30年の歩みがもたらしているものは凄い  </li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>サービス</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -32756,6 +32826,11 @@ td a {
 <td>ボスラッシュ</td>
 </tr>
 <tr>
+<td>The Eternal Castle</td>
+<td>クリア</td>
+<td>ややプラットフォーム</td>
+</tr>
+<tr>
 <td>Transistor</td>
 <td>クリア</td>
 <td>見下ろし型戦略アクション</td>
@@ -33718,6 +33793,11 @@ td a {
 <td>クリック式ハグ</td>
 </tr>
 <tr>
+<td>Hotel Sowls</td>
+<td>クリア</td>
+<td>聞き込み式</td>
+</tr>
+<tr>
 <td>Jenny LeClue - Detectivu</td>
 <td>クリア</td>
 <td>クリック式探偵もの</td>
@@ -34079,6 +34159,11 @@ td a {
 <td>TIS-100</td>
 <td>ちょっと</td>
 <td>プログラミング</td>
+</tr>
+<tr>
+<td>アトペス</td>
+<td>クリア</td>
+<td>哲学</td>
 </tr>
 <tr>
 <td>ナユの冒険</td>
