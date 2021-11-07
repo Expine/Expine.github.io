@@ -30895,6 +30895,78 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-11-05 日誌</title>
+    <url>/2021/11/05/diary/2021/11/2021-11-05/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1067720/Hellsinker">Hellsinker.</a><ul>
+<li>シューティング、やっぱりたまにやると楽しい</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://c-010.space.koudaisai.jp/">工大祭</a><ul>
+<li>そういえばあった</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Hellsinker.</tag>
+        <tag>イベント</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-06 日誌</title>
+    <url>/2021/11/06/diary/2021/11/2021-11-06/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1156990/_Return_to_Shironagasu_Island">シロナガス島への帰還</a><ul>
+<li>シンプルに読みやすかったし面白かった</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.science.org/content/article/if-alive-sleeps-brainless-creatures-shed-light-why-we-slumber">睡眠</a><ul>
+<li>デフォルトが睡眠状態なのも面白いし、睡眠が脳の一機能でとどまっていないというのも面白い</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>学術</tag>
+        <tag>シロナガス島への帰還</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-07 日誌</title>
+    <url>/2021/11/07/diary/2021/11/2021-11-07/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1067720/Hellsinker">Hellsinker.</a><ul>
+<li>8ボス、きつい</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">マーチンゲール法など</a><ul>
+<li>無限の資金があればいける</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+        <tag>Hellsinker.</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -32771,6 +32843,11 @@ td a {
 <td>ステージ型避け</td>
 </tr>
 <tr>
+<td>Light Infantry</td>
+<td>クリア</td>
+<td>バグらせ</td>
+</tr>
+<tr>
 <td>One Finger Death Punch</td>
 <td>クリア</td>
 <td>ステージ型ワンボタン</td>
@@ -33723,6 +33800,11 @@ td a {
 <td>ビフォー・アライビング・アット・ザ・ターミナル</td>
 <td>読了</td>
 <td>精神系ホラー</td>
+</tr>
+<tr>
+<td>シロナガス島への帰還</td>
+<td>読了</td>
+<td>サスペンス</td>
 </tr>
 <tr>
 <td><a href="/2020/03/08/review/Marco/index/">マルコと銀河竜</a></td>
