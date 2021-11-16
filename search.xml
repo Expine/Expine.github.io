@@ -31056,6 +31056,106 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-11-14 日誌</title>
+    <url>/2021/11/14/diary/2021/11/2021-11-14/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/535480/Sundered_Eldritch_Edition">Sundered</a><ul>
+<li>とりあえず無双系ではない</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://umector.hatenablog.jp/entry/2021/11/07/193101">プレバト</a><ul>
+<li>回す人がちゃんと知識ある人だと面白い</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Sundered</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-15 日誌</title>
+    <url>/2021/11/15/diary/2021/11/2021-11-15/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/535480/Sundered_Eldritch_Edition">Sundered</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/kaityo256/articles/nesting_functions">ネスト</a><ul>
+<li>GCCいじめ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>Sundered</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-13 日誌</title>
+    <url>/2021/11/13/diary/2021/11/2021-11-13/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://qiita.com/500/items/e9afcdd7374c9eaeb472">500</a><ul>
+<li>システムの穴って感じ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-16 日誌</title>
+    <url>/2021/11/16/diary/2021/11/2021-11-16/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/535480/Sundered_Eldritch_Edition">Sundered</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://store.steampowered.com/app/1795170/_/">超将棋</a><ul>
+<li>買うつもりはないんだけどネタとして面白そうではある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ゲーム</tag>
+        <tag>Sundered</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-12 日誌</title>
+    <url>/2021/11/12/diary/2021/11/2021-11-12/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%87%E3%83%A5%E3%83%9D%E3%83%B3">デュポン</a><ul>
+<li>リィンにいるかいないかギリギリのライン</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -34148,6 +34248,11 @@ td a {
 <td>Bit Blaster XL</td>
 <td>V5</td>
 <td>ミニゲーム</td>
+</tr>
+<tr>
+<td>Hellsinker.</td>
+<td>クリア</td>
+<td>弾幕</td>
 </tr>
 <tr>
 <td><a href="/2019/12/21/review/Monolith/index/">Monolith</a></td>
