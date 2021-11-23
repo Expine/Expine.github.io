@@ -31270,6 +31270,52 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-11-23 日誌</title>
+    <url>/2021/11/23/diary/2021/11/2021-11-22/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.slideshare.net/kosaki55tea/glibc-malloc">glibcのmalloc</a><ul>
+<li>低レイヤーなので当然のようにハックしている</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-11-23 日誌</title>
+    <url>/2021/11/23/diary/2021/11/2021-11-23/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1225590/Sea_of_Solitude">Sea of Solitude</a><ul>
+<li>無関心と過干渉の話</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1720850/AB/">A=B</a><ul>
+<li>この手のをよくやる</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li>[pythonの割り算]](<a href="https://qiita.com/yungo/items/42563a3dea7960a01145">https://qiita.com/yungo/items/42563a3dea7960a01145</a>)<ul>
+<li>確かにオペレータ演算子の戻り値の型が固定化されているという意味では綺麗な気もしてきた</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>Sea of Solitude</tag>
+        <tag>A=B</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
