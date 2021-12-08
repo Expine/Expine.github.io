@@ -31664,11 +31664,11 @@ for(let i = ts.length; i--; ) {
     <url>/2021/12/07/diary/2021/12/2021-12-07/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://note.com/seki_seki_seki/n/na578630d50f4">Switch移植</a><ul>
-<li>Unityそういうとところは強い</li>
+<li>Unityそういうところは強い</li>
 </ul>
 </li>
 </ul>
-<h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">int f(int x)&#123;int s&#x3D;0;for(;x%++s|s&lt;x&#x2F;s;);return s+x&#x2F;s&lt;&lt;1;&#125;</span><br><span class="line">int s;int f(int x)&#123;return x%++s|s&lt;x&#x2F;s?f(x):s+x&#x2F;s&lt;&lt;(s&#x3D;1);&#125;</span><br><span class="line">u8 s;int f(int x)&#123;return x%++s|s&lt;x&#x2F;s?f(x):s+x&#x2F;s&lt;&lt;(s&#x3D;1);&#125;</span><br></pre></td></tr></table></figure><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
         <category>Diary</category>
       </categories>
@@ -31700,6 +31700,30 @@ for(let i = ts.length; i--; ) {
         <tag>退廃思考</tag>
         <tag>スライド</tag>
         <tag>Steel Sword Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-12-08 日誌</title>
+    <url>/2021/12/08/diary/2021/12/2021-12-08/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/332200/Axiom_Verge">Axiom Verge</a><ul>
+<li>メトロイドだ</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://80.lv/articles/zibra-liquids-a-look-at-real-time-ray-tracing-in-unity/">流体レイトレ</a><ul>
+<li>どうなってんねん</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Axiom Verge</tag>
+        <tag>技術</tag>
       </tags>
   </entry>
   <entry>
