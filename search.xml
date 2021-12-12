@@ -31727,6 +31727,89 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2021-12-09 日誌</title>
+    <url>/2021/12/09/diary/2021/12/2021-12-09/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/332200/Axiom_Verge">Axiom Verge</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.gamespark.jp/article/2021/12/08/114190.html">Oneshot</a><ul>
+<li>Switchに出るなら勧めやすいね</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ゲーム</tag>
+        <tag>Axiom Verge</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-12-10 日誌</title>
+    <url>/2021/12/10/diary/2021/12/2021-12-10/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/332200/Axiom_Verge">Axiom Verge</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1373242.html">Log4j</a><ul>
+<li>なかなかにやばい</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>Axiom Verge</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-12-11 日誌</title>
+    <url>/2021/12/11/diary/2021/12/2021-12-11/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/332200/Axiom_Verge">Axiom Verge</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://qiita.com/mskmiki/items/544149987475719e417b">エンジニア向けデザイン</a><ul>
+<li>思考順序が違う</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Axiom Verge</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-12-12 日誌</title>
+    <url>/2021/12/12/diary/2021/12/2021-12-12/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/332200/Axiom_Verge">Axiom Verge</a><ul>
+<li>100%にしたので終わり</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://github.com/Cybereason/Logout4Shell">Logout4Shell</a><ul>
+<li>脆弱性使って脆弱性直す</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -34280,6 +34363,11 @@ td a {
 <td>ABYSS CRAWLERS plus</td>
 <td>クリア</td>
 <td>ややローグライト</td>
+</tr>
+<tr>
+<td>Axiom Verge</td>
+<td>クリア</td>
+<td>メトロイド</td>
 </tr>
 <tr>
 <td>CatMaze</td>
