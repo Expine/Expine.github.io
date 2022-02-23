@@ -33917,17 +33917,6 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
-    <title>2022-02-22 日誌</title>
-    <url>/2022/02/22/diary/2022-02-22/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href=""></a></li>
-</ul>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>Diary</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022-02-18 日誌</title>
     <url>/2022/02/18/diary/2022/02/2022-02-18/</url>
     <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
@@ -34045,6 +34034,56 @@ for(let i = ts.length; i--; ) {
       <tags>
         <tag>記事</tag>
         <tag>イリスと巨人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-02-22 日誌</title>
+    <url>/2022/02/22/diary/2022/02/2022-02-22/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1451940/NEEDY_GIRL_OVERDOSE">NEEDY GIRL OVERDOSE</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://furoshiki.hatenadiary.jp/entry/2021/11/18/100000">退職エントリ</a><ul>
+<li>こういうタイプの人は言語化が上手いなあ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>NEEDY GIRL OVERDOSE</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-02-23 日誌</title>
+    <url>/2022/02/23/diary/2022/02/2022-02-23/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1451940/NEEDY_GIRL_OVERDOSE">NEEDY GIRL OVERDOSE</a><ul>
+<li>†昇天†</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1172450/Carto">Carto</a><ul>
+<li>これその場にいる人はどういう感覚なんだろう</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.8823.net/">手動サーチエンジンはやぶさ</a><ul>
+<li>解答時間がもう少しで8823</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
+        <tag>NEEDY GIRL OVERDOSE</tag>
+        <tag>Carto</tag>
       </tags>
   </entry>
   <entry>
