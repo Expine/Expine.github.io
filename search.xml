@@ -34124,13 +34124,17 @@ for(let i = ts.length; i--; ) {
 </li>
 </ul>
 <h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href=""></a></li>
+<li><a href="https://kanjinokusargss3.hatenablog.com/entry/2022/02/21/204725">インディーゲーム</a><ul>
+<li>シナリオや映像で表現できないシステムで戦うのは難しそう</li>
+</ul>
+</li>
 </ul>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
         <category>Diary</category>
       </categories>
       <tags>
+        <tag>読み物</tag>
         <tag>Snake Pass</tag>
         <tag>Tangle Tower</tag>
       </tags>
@@ -34176,6 +34180,30 @@ for(let i = ts.length; i--; ) {
       </categories>
       <tags>
         <tag>記事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-02-28 日誌</title>
+    <url>/2022/02/28/diary/2022/02/2022-02-28/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother">The Wake: Mourning Father, Mourning Mother</a><ul>
+<li>罪悪感三部作と言われるだけはある</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://en.wikipedia.org/wiki/Universally_unique_identifier#Collisions">UUIDの衝突確率</a><ul>
+<li>何かで衝突した記憶があるけどあれは使い方がまずかったのかもしれない</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>The Wake</tag>
       </tags>
   </entry>
   <entry>

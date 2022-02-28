@@ -9,8 +9,37 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Sun, 27 Feb 2022 15:30:24 GMT</pubDate>
+    <pubDate>Mon, 28 Feb 2022 15:30:56 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2022-02-28 日誌</title>
+      <link>https://expine.github.io/2022/02/28/diary/2022/02/2022-02-28/</link>
+      <guid>https://expine.github.io/2022/02/28/diary/2022/02/2022-02-28/</guid>
+      <pubDate>Mon, 28 Feb 2022 00:32:42 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1311540/The_Wake_Mourning_Father_Mourning_Mother">The Wake: Mourning Father, Mourning Mother</a><ul><li>罪悪感三部作と言われるだけはある</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://en.wikipedia.org/wiki/Universally_unique_identifier#Collisions">UUIDの衝突確率</a><ul><li>何かで衝突した記憶があるけどあれは使い方がまずかったのかもしれない</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
+      
+      <category domain="https://Expine.github.io/tags/The-Wake/">The Wake</category>
+      
+      
+      <comments>https://expine.github.io/2022/02/28/diary/2022/02/2022-02-28/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2022-02-27 日誌</title>
@@ -26,11 +55,13 @@
       
       
       
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/544330/Snake_Pass">Snake Pass</a><ul><li>終わり、やっぱり壺と相似</li></ul></li><li><a href="https://store.steampowered.com/app/359510/Tangle_Tower">Tangle Tower</a><ul><li>良かったので前作をウィッシュリストに突っ込んだ</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href=""></a></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/544330/Snake_Pass">Snake Pass</a><ul><li>終わり、やっぱり壺と相似</li></ul></li><li><a href="https://store.steampowered.com/app/359510/Tangle_Tower">Tangle Tower</a><ul><li>良かったので前作をウィッシュリストに突っ込んだ</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://kanjinokusargss3.hatenablog.com/entry/2022/02/21/204725">インディーゲーム</a><ul><li>シナリオや映像で表現できないシステムで戦うのは難しそう</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
       
       
       <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
       
+      
+      <category domain="https://Expine.github.io/tags/%E8%AA%AD%E3%81%BF%E7%89%A9/">読み物</category>
       
       <category domain="https://Expine.github.io/tags/Snake-Pass/">Snake Pass</category>
       
@@ -570,35 +601,6 @@
       
       
       <comments>https://expine.github.io/2022/02/09/diary/2022/02/2022-02-09/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2022-02-08 日誌</title>
-      <link>https://expine.github.io/2022/02/08/diary/2022/02/2022-02-08/</link>
-      <guid>https://expine.github.io/2022/02/08/diary/2022/02/2022-02-08/</guid>
-      <pubDate>Tue, 08 Feb 2022 00:26:14 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.pokemon.co.jp/ex/le</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://www.pokemon.co.jp/ex/legends_arceus/ja/">Pokémon LEGENDS アルセウス</a><ul><li>未解決を調べるの事</li><li>チェリンボマラソンでようやくチェリンボが出た<ul><li>太古の神殿で2回出たので出やすいのかもしれない</li><li>2回出せれば、後はすいとる3回と進化でいける</li></ul></li><li>ハリーマン、全然進化しないのでイダイトウ、アヤシシラインでいったらいけた<ul><li>今作初のポケモン大体そういう進化なのかな</li><li>だがガチグマはじならしを何度やってもならない</li></ul></li><li>アイテム整理していて、使用用途が分からないアイテムを見つける<ul><li>バサギリのやつの次で、すでに大体こいつら関係は終わらせているのでガチグマか</li><li>しかしやはり使えない</li><li>と思っていたが、夜に使ったらいけた<ul><li>ガチグマ、月輪ってことか</li></ul></li></ul></li><li>ともしびをすべて集めるの事<ul><li>純白最後の一個が埋まらな過ぎてキッサキ神殿を3回踏破するなど</li><li>結局ずっと疑問に思っていた岩砕きっぽい岩の中にあった<ul><li>たまたま通りがかりで横切ったともしびの光をとらえた目は偉い</li></ul></li></ul></li><li>マニューラ、やっぱり牙だよなあと思いながら落とし物を拾い集めて牙を再度購入<ul><li>そしてガチグマの時についでに行けた</li><li>こいつも条件は夜か</li></ul></li><li>ルカリオの親分を今更発見した<ul><li>別に雪じゃなくてもいるのね</li></ul></li><li>ロス系はすべて集めた<ul><li>ボルトロス、地上ばっかり探していたので大分手間取った</li><li>残りは別のことをしているときに見つけられたのでラッキーだった</li></ul></li><li>残るは確か群青の次元で見かけたコイル、レアコイル<ul><li>そしてどこかにいるタテトプス<ul><li>純白で何回か次元に入ったけど出なかったので、別の所かもしれん</li><li>黒曜、紅蓮でも全然でない</li><li>群青かなあ<ul><li>コイルついでに探してみよう</li></ul></li></ul></li></ul></li><li>そして海の伝説<ul><li>ヒントどこにあるの</li><li>壁画は特に何もなさそうだし、ポエムのほう探してみようかな</li></ul></li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://forest.watch.impress.co.jp/docs/news/1382919.html">DevToys</a><ul><li>便利そう</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/%E3%83%84%E3%83%BC%E3%83%AB/">ツール</category>
-      
-      <category domain="https://Expine.github.io/tags/Pokemon-LEGENDS-%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9/">Pokémon LEGENDS アルセウス</category>
-      
-      
-      <comments>https://expine.github.io/2022/02/08/diary/2022/02/2022-02-08/#disqus_thread</comments>
       
     </item>
     
