@@ -34400,6 +34400,30 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-03-09 日誌</title>
+    <url>/2022/03/09/diary/2022/03/2022-03-09/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/638230/Journey/">Journey</a><ul>
+<li>今年1面白くなかったかもしれない</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="http://mmacklin.com/2017-EG-CourseNotes.pdf">Position Based Dynamics</a><ul>
+<li>後で読みたい</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Journey</tag>
+        <tag>論文</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -36525,6 +36549,11 @@ td a {
 <td>花火アクション</td>
 </tr>
 <tr>
+<td>海腹川背</td>
+<td>全EDクリア</td>
+<td>ラバーリングアクション</td>
+</tr>
+<tr>
 <td>ケロブラスター</td>
 <td>ボスラッシュクリア</td>
 <td>シューティング系</td>
@@ -36582,6 +36611,11 @@ td a {
 <td>Impossible Runner</td>
 <td>少し</td>
 <td>ランゲーム</td>
+</tr>
+<tr>
+<td>Journey</td>
+<td>クリア</td>
+<td>雰囲気</td>
 </tr>
 <tr>
 <td>Kao the Kangaroo: Round 2</td>

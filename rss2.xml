@@ -9,8 +9,37 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Tue, 08 Mar 2022 15:18:16 GMT</pubDate>
+    <pubDate>Wed, 09 Mar 2022 14:27:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2022-03-09 日誌</title>
+      <link>https://expine.github.io/2022/03/09/diary/2022/03/2022-03-09/</link>
+      <guid>https://expine.github.io/2022/03/09/diary/2022/03/2022-03-09/</guid>
+      <pubDate>Wed, 09 Mar 2022 00:31:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/638230/Journey/">Journey</a><ul><li>今年1面白くなかったかもしれない</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="http://mmacklin.com/2017-EG-CourseNotes.pdf">Position Based Dynamics</a><ul><li>後で読みたい</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/Journey/">Journey</category>
+      
+      <category domain="https://Expine.github.io/tags/%E8%AB%96%E6%96%87/">論文</category>
+      
+      
+      <comments>https://expine.github.io/2022/03/09/diary/2022/03/2022-03-09/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2022-03-08 日誌</title>
@@ -570,35 +599,6 @@
       
       
       <comments>https://expine.github.io/2022/02/18/diary/2022/02/2022-02-18/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2022-02-17 日誌</title>
-      <link>https://expine.github.io/2022/02/17/diary/2022/02/2022-02-17/</link>
-      <guid>https://expine.github.io/2022/02/17/diary/2022/02/2022-02-17/</guid>
-      <pubDate>Thu, 17 Feb 2022 00:30:27 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1127610/_/">イリスと巨人</a><ul><li>慣れてきたので簡単にクリアできるようになってきた</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://gigazine.net/news/20220215-moviepass-eye-tracking/">広告</a><ul><li>極悪だ</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/%E8%A8%98%E4%BA%8B/">記事</category>
-      
-      <category domain="https://Expine.github.io/tags/%E3%82%A4%E3%83%AA%E3%82%B9%E3%81%A8%E5%B7%A8%E4%BA%BA/">イリスと巨人</category>
-      
-      
-      <comments>https://expine.github.io/2022/02/17/diary/2022/02/2022-02-17/#disqus_thread</comments>
       
     </item>
     
