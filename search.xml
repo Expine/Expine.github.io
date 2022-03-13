@@ -34448,6 +34448,83 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-03-12 日誌</title>
+    <url>/2022/03/12/diary/2022/03/2022-03-12/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/551770/ECHO/">ECHO</a><ul>
+<li>面白いんだけど英弱にはつらい</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://sils.fc2.net/blog-entry-753.html">WWPについて</a><ul>
+<li>ツクールのセーブデータサイズが小さいことに驚いている</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ウディタ</tag>
+        <tag>ECHO</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-11 日誌</title>
+    <url>/2022/03/11/diary/2022/03/2022-03-11/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/551770/ECHO/">ECHO</a><ul>
+<li>ゲームに入るのに40分くらいかかった</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.wenyanet.com/opensource/ja/5fc28bd08caf6e7178460d73.html">ノイズの例</a><ul>
+<li>色々あるなあ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>ECHO</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-13 日誌</title>
+    <url>/2022/03/13/diary/2022/03/2022-03-13/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/691450/Misao_Definitive_Edition/">Misao: Definitive Edition</a><ul>
+<li>無理にハッピーエンドに持っていこうとした感が否めない</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/282140/SOMA/">SOMA</a><ul>
+<li>良いホラー</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://note.com/dontbetruenote/n/n31ee783a6c8b">怖い話</a><ul>
+<li>良いホラー</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>[object Object]</tag>
+        <tag>SOMA</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -36627,6 +36704,11 @@ td a {
 <td>物理エンジンバカゲー</td>
 </tr>
 <tr>
+<td>ECHO</td>
+<td>クリア</td>
+<td>模倣ステルス</td>
+</tr>
+<tr>
 <td>Furi</td>
 <td>クリア</td>
 <td>ボスラッシュ</td>
@@ -37549,6 +37631,11 @@ td a {
 <td>LiEat</td>
 <td>クリア</td>
 <td>フリゲ式</td>
+</tr>
+<tr>
+<td>Misao</td>
+<td>クリア</td>
+<td>フリゲホラー</td>
 </tr>
 <tr>
 <td><a href="/2019/06/30/review/OneShot/index/">OneShot</a></td>
