@@ -34597,13 +34597,102 @@ for(let i = ts.length; i--; ) {
   <entry>
     <title>2022-03-17 日誌</title>
     <url>/2022/03/17/diary/2022/03/2022-03-17/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href=""></a></li>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/440540/_">エアラフェル</a><ul>
+<li>正統派RPGって感じ</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://news.yahoo.co.jp/articles/defc4fa1ae56840b66215d2a63fddd63bd3ad560">スマホアプリ不具合</a><ul>
+<li>どういう手違いなんだ</li>
+</ul>
+</li>
 </ul>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
         <category>Diary</category>
       </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>エアラフェル</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-18 日誌</title>
+    <url>/2022/03/18/diary/2022/03/2022-03-18/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://connpass.com/event/242713/">traP LT</a><ul>
+<li>覚えてたら観よう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>イベント</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-19 日誌</title>
+    <url>/2022/03/19/diary/2022/03/2022-03-19/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://note.com/eiki_okuma/n/n8f4e81529994">体験版</a><ul>
+<li>体験版やるくらいなら買う民</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-21 日誌</title>
+    <url>/2022/03/21/diary/2022/03/2022-03-21/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/440540/_">エアラフェル</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://product-develop.com/2c981f18e9924410bb266a5fd87343c2">ドキュメント</a><ul>
+<li>明文化していない仕様、あふれがち</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>エアラフェル</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-20 日誌</title>
+    <url>/2022/03/20/diary/2022/03/2022-03-20/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/440540/_">エアラフェル</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://evering.jp/">evering</a><ul>
+<li>よさげ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>グッズ</tag>
+        <tag>エアラフェル</tag>
+      </tags>
   </entry>
   <entry>
     <title></title>
@@ -36830,6 +36919,11 @@ td a {
 <td>ジャンプだけ</td>
 </tr>
 <tr>
+<td>SOMA</td>
+<td>クリア</td>
+<td>ホラーSF</td>
+</tr>
+<tr>
 <td>A Story About My Uncle</td>
 <td>クリア</td>
 <td>ワイヤーアクション</td>
@@ -37811,6 +37905,11 @@ td a {
 <td>Unsung Kingdom</td>
 <td>クリア</td>
 <td>スマホ系</td>
+</tr>
+<tr>
+<td>エアラフェル</td>
+<td>クリア</td>
+<td>オーソドックス</td>
 </tr>
 </tbody></table>
 <h2 id="アクションRPG"><a href="#アクションRPG" class="headerlink" title="アクションRPG"></a>アクションRPG</h2><table>
