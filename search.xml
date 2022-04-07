@@ -34695,6 +34695,345 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-04-01 日誌</title>
+    <url>/2022/04/01/diary/2022/04/2022-04-01/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/dowanna6/articles/92c6494570a4dc">ドメイン知識が漏れる</a><ul>
+<li>正しい意味でのカプセル化だ</li>
+<li>全部getterとsetterを用意することがカプセル化だと思っていた時期もありました</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-02 日誌</title>
+    <url>/2022/04/02/diary/2022/04/2022-04-02/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/kenkyu/articles/6c5f6a838d1855">Rustの人間的文字</a><ul>
+<li>書記素クラスタ、初めて聞いた</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-05 日誌</title>
+    <url>/2022/04/05/diary/2022/04/2022-04-05/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1013750/Legal_Dungeon/">Legal Dungeon</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://news.denfaminicogamer.jp/news/220405m">ゲーミングベッド</a><ul>
+<li>一生起きなそう</li>
+<li>それはそれとして光らないんですね</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>グッズ</tag>
+        <tag>Legal Dungeon</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-04 日誌</title>
+    <url>/2022/04/04/diary/2022/04/2022-04-04/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://store.steampowered.com/news/app/1303950/view/3123815529800417395">Fix</a><ul>
+<li>こういう英語、一瞬逆に訳しかける</li>
+<li>to のイメージがいる</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑談</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-03 日誌</title>
+    <url>/2022/04/03/diary/2022/04/2022-04-03/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1013750/Legal_Dungeon/">Legal Dungeon</a><ul>
+<li>情報を集めていくの面白い</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://togetter.com/li/1839666">1byteと8bit</a><ul>
+<li>歴史的経緯で解決しそうではある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>Legal Dungeon</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-06 日誌</title>
+    <url>/2022/04/06/diary/2022/04/2022-04-06/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1013750/Legal_Dungeon/">Legal Dungeon</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/mizchi/articles/todays-javascript">Node.jsという呪い</a><ul>
+<li>Deno、期待したいところではある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Legal Dungeon</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-22 日誌</title>
+    <url>/2022/03/22/diary/2022/03/2022-03-22/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/393520/Iconoclasts/">Iconoclasts</a><ul>
+<li>手触りの軽いアクション、無限にやれる</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://note.com/ruiu/n/n1676c1053a27">IPv6</a><ul>
+<li>インセンティブがない</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Iconoclasts</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-24 日誌</title>
+    <url>/2022/03/24/diary/2022/03/2022-03-24/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://comic-days.com/episode/10834108156629717062">別式</a><ul>
+<li>良いところで無料分が切れますね</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>マンガ</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-07 日誌</title>
+    <url>/2022/04/07/diary/2022/04/2022-04-07/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1013750/Legal_Dungeon/">Legal Dungeon</a><ul>
+<li>終わり、推理ともまた違う体験のできる良いゲーム</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://tripeditor.com/400916/2">ゴリラの結婚式</a><ul>
+<li><a href="https://en.wikipedia.org/wiki/Sunshower">Sunshower</a>にもあるけど本当かとなっている<ul>
+<li>というかこのソース見る限り、the donkeys are marrying　なのでロバの結婚式では</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ネタ</tag>
+        <tag>Legal Dungeon</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-23 日誌</title>
+    <url>/2022/03/23/diary/2022/03/2022-03-23/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/393520/Iconoclasts/">Iconoclasts</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.nikkei.com/article/DGXZQOUB182BH0Y2A310C2000000/">みずほとGoogle</a><ul>
+<li>みずほというだけで注目されるやつ</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>Iconoclasts</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-29 日誌</title>
+    <url>/2022/03/29/diary/2022/03/2022-03-29/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/antez/articles/a9d9d12178b7b2">npm</a><ul>
+<li>denoにすべきか</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-30 日誌</title>
+    <url>/2022/03/30/diary/2022/03/2022-03-30/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://automaton-media.com/articles/newsjp/20220307-194528/">156円</a><ul>
+<li>なぜに手動で</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-31 日誌</title>
+    <url>/2022/03/31/diary/2022/03/2022-03-31/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://forest.watch.impress.co.jp/docs/news/1394187.html">テキスト校正くん</a><ul>
+<li>覚えておこう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>ツール</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-28 日誌</title>
+    <url>/2022/03/28/diary/2022/03/2022-03-28/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://automaton-media.com/articles/newsjp/20220326-196898/">100円セール</a><ul>
+<li>今の時世に限定化するのは難しそう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-26 日誌</title>
+    <url>/2022/03/26/diary/2022/03/2022-03-26/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/393520/Iconoclasts/">Iconoclasts</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://jp.quora.com/%E7%90%86%E7%B3%BB%E3%81%AE%E4%BA%BA%E3%81%8C%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%82%84%E5%AE%9F%E9%A8%93-%E3%81%A8%E3%81%84%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C-%E3%81%9D%E3%81%93%E3%82%89%E3%81%AE%E5%AD%A6%E7%94%9F/answers/272581130?ch=2&oid=272581130&srid=tX0tg&target_type=answer">二流三流の研究</a><ul>
+<li>我々も人文系の研究の寄与するところを理解できているわけではないので</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>学術</tag>
+        <tag>Iconoclasts</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-25 日誌</title>
+    <url>/2022/03/25/diary/2022/03/2022-03-25/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://nialltl.neocities.org/articles/mpm_guide.html">MPM</a><ul>
+<li>後で読む</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-03-27 日誌</title>
+    <url>/2022/03/27/diary/2022/03/2022-03-27/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/393520/Iconoclasts/">Iconoclasts</a><ul>
+<li>クリア、人の嫌なところを描くなあ</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://piecedesign.co.jp/lab/615/">GDPR</a><ul>
+<li>まあ特にモチベーションが無ければチェックしないのは分かる</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>Iconoclasts</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -36753,6 +37092,11 @@ td a {
 <td>ibb &amp; obb</td>
 <td>クリア</td>
 <td>2人プレイ</td>
+</tr>
+<tr>
+<td>Iconoclasts</td>
+<td>クリア</td>
+<td>パズルアクションっぽい</td>
 </tr>
 <tr>
 <td>LOVE</td>
