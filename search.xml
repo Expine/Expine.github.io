@@ -35160,6 +35160,84 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-04-15 日誌</title>
+    <url>/2022/04/15/diary/2022/04/2022-04-15/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://qiita.com/zk_phi/items/acb821d298151a7b96d2">Lazy K</a><ul>
+<li>コンビネータ計算まで落とすと直感的には何も分からん</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-16 日誌</title>
+    <url>/2022/04/16/diary/2022/04/2022-04-16/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1160020/AshenForest/">AshenForest</a><ul>
+<li>一人分クリアで満足</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/467380/Khimera_Destroy_All_Monster_Girls">Khimera: Destroy All Monster Girls</a><ul>
+<li>ロックマンかな</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://qiita.com/kawasima/items/6b0f47a60c9cb5ffb5c4">ID生成大全</a><ul>
+<li>ソートしたくならなければUUIDを使っとけば良さそう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>AshenForest</tag>
+        <tag>Khimera</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-04-17 日誌</title>
+    <url>/2022/04/17/diary/2022/04/2022-04-17/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><p><a href="https://store.steampowered.com/app/467380/Khimera_Destroy_All_Monster_Girls">Khimera: Destroy All Monster Girls</a></p>
+<ul>
+<li>クリア、探索ありのロックマンだった</li>
+</ul>
+</li>
+<li><p><a href="https://store.steampowered.com/app/1794680/Vampire_Survivors/">Vampire Survivors</a></p>
+<ul>
+<li>旬も過ぎそうというか過ぎたかもしれんけど</li>
+<li>カロリー低いなと感じたけど、普通に15分くらい拘束してくるんだよな</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://d.potato4d.me/entry/20220405-nodejs/">Node.jsという呪い</a><ul>
+<li>Electron まであると大体まかなえてしまうというのはある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Khimera</tag>
+        <tag>Vampire Survivors</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -36986,6 +37064,11 @@ td a {
 <td>見下ろし型ゴリラ無双</td>
 </tr>
 <tr>
+<td>AshenForest</td>
+<td>1人クリア</td>
+<td>ローグライクボスラッシュ</td>
+</tr>
+<tr>
 <td>ATOMINE</td>
 <td>クリア</td>
 <td>ローグライトシューター</td>
@@ -37223,6 +37306,11 @@ td a {
 <td>Iconoclasts</td>
 <td>クリア</td>
 <td>パズルアクションっぽい</td>
+</tr>
+<tr>
+<td>Khimera: Destroy All Monster Girls</td>
+<td>クリア</td>
+<td>近接ロックマン</td>
 </tr>
 <tr>
 <td>LOVE</td>
