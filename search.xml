@@ -36250,6 +36250,10 @@ for(let i = ts.length; i--; ) {
 <li>使いにくいUIに理不尽な挙動と色々不満点はあるけど、最たるものは長々通路</li>
 </ul>
 </li>
+<li><a href="https://store.steampowered.com/app/1086010/198X/">198X</a><ul>
+<li>終わり、ゲームを通した作品という感じ</li>
+</ul>
+</li>
 </ul>
 <h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://topics.nintendo.co.jp/article/c7a9a0b5-fc24-4c92-846a-5793ac864887">Nintendo Switch Online</a><ul>
@@ -36264,6 +36268,7 @@ for(let i = ts.length; i--; ) {
       <tags>
         <tag>ゲーム</tag>
         <tag>Lost to Time</tag>
+        <tag>198X</tag>
       </tags>
   </entry>
   <entry>
@@ -39788,6 +39793,11 @@ td a {
 </tr>
 </thead>
 <tbody><tr>
+<td>198X</td>
+<td>クリア</td>
+<td>オムニバス+物語</td>
+</tr>
+<tr>
 <td>A=B</td>
 <td>全問クリア</td>
 <td>プログラミング</td>
