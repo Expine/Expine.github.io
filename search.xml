@@ -29665,7 +29665,7 @@ for(let i = ts.length; i--; ) {
   <entry>
     <title>2021-09-10 日誌</title>
     <url>/2021/09/10/diary/2021/09/2021-09-10/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B0%E3%83%A9%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87">スティグラーの法則</a><ul>
 <li>自己言及的でもある</li>
 </ul>
@@ -36248,6 +36248,10 @@ for(let i = ts.length; i--; ) {
     <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
 <li><a href="https://store.steampowered.com/app/1487100/Lost_to_Time/">Lost to Time</a><ul>
 <li>使いにくいUIに理不尽な挙動と色々不満点はあるけど、最たるものは長々通路</li>
+<li>クリアしていないゲーム、軒轅剣2ぶりなので97作品ぶりになる<ul>
+<li>一応のクリアもしてないのは20作品くらいあるけど</li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="https://store.steampowered.com/app/1086010/198X/">198X</a><ul>
