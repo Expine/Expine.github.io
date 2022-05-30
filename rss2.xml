@@ -9,8 +9,37 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Sun, 29 May 2022 10:51:29 GMT</pubDate>
+    <pubDate>Mon, 30 May 2022 12:45:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2022-05-30 日誌</title>
+      <link>https://expine.github.io/2022/05/30/diary/2022/05/2022-05-30/</link>
+      <guid>https://expine.github.io/2022/05/30/diary/2022/05/2022-05-30/</guid>
+      <pubDate>Sun, 29 May 2022 23:42:54 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1487100/Lost_to_Time/">Lost to Time</a><ul><li>使いにくいUIに理不尽な挙動と色々不満点はあるけど、最たるものは長々通路</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://topics.nintendo.co.jp/article/c7a9a0b5-fc24-4c92-846a-5793ac864887">Nintendo Switch Online</a><ul><li>いつでもセーブがあれば三連リュック行けるんじゃないですかね</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</category>
+      
+      <category domain="https://Expine.github.io/tags/Lost-to-Time/">Lost to Time</category>
+      
+      
+      <comments>https://expine.github.io/2022/05/30/diary/2022/05/2022-05-30/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2022-05-29 日誌</title>
@@ -26,7 +55,7 @@
       
       
       
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1113940/Electronic_Super_Joy_2/">Electronic Super Joy 2</a><ul><li>クリア、やればできる</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://github.com/mame/quine-relay">128言語のクワイン</a><ul><li>実行環境を用意するのもの大変そう</li><li>それはそれとして自己複製プログラム、クワイン(Quine)っていうんですね</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1113940/Electronic_Super_Joy_2/">Electronic Super Joy 2</a><ul><li>クリア、やればできるもの</li></ul></li><li><a href="https://store.steampowered.com/app/1360550/Summertime_Madness/">Summertime Madness</a><ul><li>最後に迷路を持ってくるゲーム、アートに振ったやつが多い</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://github.com/mame/quine-relay">128言語のクワイン</a><ul><li>実行環境を用意するのもの大変そう</li><li>それはそれとして自己複製プログラム、クワイン(Quine)っていうんですね</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
       
       
       <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
@@ -35,6 +64,8 @@
       <category domain="https://Expine.github.io/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
       
       <category domain="https://Expine.github.io/tags/Electronic-Super-Joy-2/">Electronic Super Joy 2</category>
+      
+      <category domain="https://Expine.github.io/tags/Summertime-Madness/">Summertime Madness</category>
       
       
       <comments>https://expine.github.io/2022/05/29/diary/2022/05/2022-05-29/#disqus_thread</comments>
@@ -547,35 +578,6 @@
       
       
       <comments>https://expine.github.io/2022/05/11/diary/2022/05/2022-05-11/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2022-05-10 日誌</title>
-      <link>https://expine.github.io/2022/05/10/diary/2022/05/2022-05-10/</link>
-      <guid>https://expine.github.io/2022/05/10/diary/2022/05/2022-05-10/</guid>
-      <pubDate>Tue, 10 May 2022 00:03:30 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/445980/Wizard_of_Legend/">Wizard of Legend</a><ul><li>長時間やるとだんだん飽きてくる</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://web.dev/">web.dev</a><ul><li>いろいろ情報がある</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/Web%E3%82%B5%E3%82%A4%E3%83%88/">Webサイト</category>
-      
-      <category domain="https://Expine.github.io/tags/Wizard-of-Legend/">Wizard of Legend</category>
-      
-      
-      <comments>https://expine.github.io/2022/05/10/diary/2022/05/2022-05-10/#disqus_thread</comments>
       
     </item>
     
