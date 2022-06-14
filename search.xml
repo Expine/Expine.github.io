@@ -36576,6 +36576,30 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-06-14 日誌</title>
+    <url>/2022/06/14/diary/2022/06/2022-06-14/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1090440/Kelipot/">Kelipot</a><ul>
+<li>終わり、ローカライズ以外は良いゲーム</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://jp.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655089530">AIの感情</a><ul>
+<li>Googleですらそうなのか、Googleだからそうなのか</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>Kelipot</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -38480,6 +38504,11 @@ td a {
 <td>Impulsow</td>
 <td>クリア</td>
 <td>ステージ型避け</td>
+</tr>
+<tr>
+<td>Kelipot</td>
+<td>クリア</td>
+<td>ローグライトヴァニア</td>
 </tr>
 <tr>
 <td>LIBRADE</td>
