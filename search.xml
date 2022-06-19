@@ -36641,6 +36641,72 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-06-18 日誌</title>
+    <url>/2022/06/18/diary/2022/06/2022-06-18/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/956030/Creaks/">Creaks</a><ul>
+<li>終わり、思ったよりパズルとして良かった</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www3.nhk.or.jp/news/html/20220616/k10013675381000.html">1500勝</a><ul>
+<li>勝率おかしくないですか</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>Creaks</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-06-17 日誌</title>
+    <url>/2022/06/17/diary/2022/06/2022-06-17/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://news.yahoo.co.jp/articles/7665b32f405970cc8e224db8b594ea498dd668c8">リベラルアーツ</a><ul>
+<li>東工大のガンでおなじみのリベラルアーツですね</li>
+<li>大学経営上必要な判断だったんだろうなとは思っているので、学生向けというよりは政府向けの施策だろうし、記事からもそれが伝わってくる</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-06-19 日誌</title>
+    <url>/2022/06/19/diary/2022-06-19/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/563840/Lost_Ember/">Lost Ember</a><ul>
+<li>スペランカーかな</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://github.com/jiro4989/ojosama">ojosama</a><ul>
+<li>日本語なので品詞があれな時もあるけど割とちゃんとしている</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Webサービス</tag>
+        <tag>Lost Ember</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -39435,6 +39501,11 @@ td a {
 <td>ビショップ倉庫番</td>
 </tr>
 <tr>
+<td>Creaks</td>
+<td>クリア</td>
+<td>誘導系</td>
+</tr>
+<tr>
 <td>Gorogoa</td>
 <td>クリア</td>
 <td>タイル式</td>
@@ -39706,6 +39777,11 @@ td a {
 </tr>
 </thead>
 <tbody><tr>
+<td>『絵話 -kaiwa-』</td>
+<td>読了</td>
+<td>不気味</td>
+</tr>
+<tr>
 <td>428 <del>封鎖された渋谷で</del></td>
 <td>読了</td>
 <td>パズルノベル</td>
