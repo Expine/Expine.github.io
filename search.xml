@@ -36731,6 +36731,55 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-06-21 日誌</title>
+    <url>/2022/06/21/diary/2022/06/2022-06-21/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/938560/INMOST/">INMOST</a><ul>
+<li>とりあえずクリア、導線が思ったより丁寧</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.famitsu.com/news/202205/15261421.html">The Longest Road on Earth</a><ul>
+<li>トレーラー印象は半々だったけど記事読むと買いたくなってくるな</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>INMOST</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-06-22 日誌</title>
+    <url>/2022/06/22/diary/2022/06/2022-06-22/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/938560/INMOST/">INMOST</a><ul>
+<li>エピローグまでは集めたので満足</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://source.chromium.org/">Chromium Coode Search</a><ul>
+<li>めちゃめちゃ早いな</li>
+<li><a href="https://github.com/google/zoekt">zoekt</a>というGo製のツールらしい</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Webサービス</tag>
+        <tag>INMOST</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
@@ -38844,6 +38893,11 @@ td a {
 <td>Iconoclasts</td>
 <td>クリア</td>
 <td>パズルアクションっぽい</td>
+</tr>
+<tr>
+<td>INMOST</td>
+<td>クリア</td>
+<td>物語重視</td>
 </tr>
 <tr>
 <td>Khimera: Destroy All Monster Girls</td>
