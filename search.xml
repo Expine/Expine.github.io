@@ -37412,7 +37412,10 @@ for(let i = ts.length; i--; ) {
   <entry>
     <title>2022-06-30 日誌</title>
     <url>/2022/06/30/diary/2022/06/2022-06-30/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/613190/Unworthy/">Unworthy</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
 <li><a href="https://note.com/uynet/n/ne6177dff0051">大名行列は正則なのか</a><ul>
 <li>逆行列があれば正則なのはそうなので、そこまで行くと逆行列の定義にも沿う必要がありそう</li>
 <li>つまり正方行列である必要がある<ul>
@@ -37428,6 +37431,7 @@ for(let i = ts.length; i--; ) {
       </categories>
       <tags>
         <tag>ネタ</tag>
+        <tag>Unworthy</tag>
       </tags>
   </entry>
   <entry>
@@ -37450,6 +37454,141 @@ for(let i = ts.length; i--; ) {
       <tags>
         <tag>学術</tag>
         <tag>Unworthy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-07-02 日誌</title>
+    <url>/2022/07/02/diary/2022/07/2022-07-02/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/613190/Unworthy/">Unworthy</a><ul>
+<li>ようやっとクリア、メトロイドヴァニアしたほうが楽</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1703210/Box_to_the_Box">Box to the Box</a><ul>
+<li>時間操作系パズル何個やったんだろう</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://web-ken.hatenablog.com/entry/2017/10/23/172021">面白さ</a><ul>
+<li>確かに大喜利の文化圏に近い考え方っぽい</li>
+<li>意外性とか遊びやすさとか代替する語はそこそこありそう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+        <tag>Unworthy</tag>
+        <tag>Box to the Box</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-07-03 日誌</title>
+    <url>/2022/07/03/diary/2022/07/2022-07-03/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1703210/Box_to_the_Box">Box to the Box</a><ul>
+<li>クリア、UnityのCollider君を使っているのか、ちょくちょく再現性がない</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1948280/Stacklands/">Stacklands</a><ul>
+<li>思ったより忙しいけど楽しい</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/tonkotsuboy_com/articles/es2022-whats-new">ES2022</a><ul>
+<li>それは本質的にinstanceofではないけれどダックタイピング的にはありなのね</li>
+</ul>
+</li>
+</ul>
+<h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><p>サマーセール追加</p>
+<ul>
+<li><a href="https://store.steampowered.com/app/1028570/Lofi_Ping_Pong/">Lofi Ping Pong</a><ul>
+<li>完全に雰囲気枠</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/948740/AI/">AI: ソムニウム ファイル</a><ul>
+<li>ノベルゲームは常に買うか悩んでいる</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1948280/Stacklands/">Stacklands</a><ul>
+<li>お勧めがあったので</li>
+</ul>
+</li>
+</ul>
+<p>あと無料もついでに入れておく</p>
+<ul>
+<li><a href="https://store.steampowered.com/app/1985690/The_Looker/">The Looker</a><ul>
+<li>witness なので</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1813150/Jack_Move_ICE_Breaker/">Jack Move: I.C.E Breaker</a><ul>
+<li>雰囲気がね、良い</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1740100/At_Home_Alone_Final/">At Home Alone Final</a><ul>
+<li>フリゲっぽさがある</li>
+</ul>
+</li>
+<li><a href="https://store.steampowered.com/app/1688850/All_Dream_Long_A_Flower_Storm/">All Dream Long A Flower Storm</a><ul>
+<li>絵のくっきりさが好き</li>
+</ul>
+</li>
+</ul>
+<p>どうでもいいけど、「絵の諧調が好き」と書こうとしていて、何となく違う気がして調べたら案の定だったので書き換えた。調べるのは大事。<br>諧調をなんとなくぱっきりしたグラデーションくらいの感覚で捉えていたんですが、多分イメージのもとはPaint.netの諧調変化とかその辺な気がする。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>Box to the Box</tag>
+        <tag>Stacklands</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-07-01 日誌</title>
+    <url>/2022/07/01/diary/2022/07/2022-07-01/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/uhyo/articles/github-copilot-and-human-privilege">GitHub Copilot</a><ul>
+<li>自分が無意識にコードを模倣して問題になったら諦められるけど、機械に任せていてたら発生しただと気持ち的にちょっと嫌というのはある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>読み物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-07-04 日誌</title>
+    <url>/2022/07/04/diary/2022/07/2022-07-04/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://store.steampowered.com/app/1948280/Stacklands/">Stacklands</a><ul>
+<li>ひとまずクリア、時間が溶ける</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://qiita.com/silane1001/items/3c61627a098725a83866">alt属性</a><ul>
+<li>説明ではなくて代替文、なるほどと思う</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>Stacklands</tag>
       </tags>
   </entry>
   <entry>
@@ -39801,6 +39940,11 @@ td a {
 <td>陰陽入れ替え</td>
 </tr>
 <tr>
+<td>Box to the Box</td>
+<td>クリア</td>
+<td>ムーディー・ブルース系</td>
+</tr>
+<tr>
 <td><a href="/2018/02/10/review/Braid/index/">Braid</a></td>
 <td>クリア</td>
 <td>時間操作系</td>
@@ -40226,6 +40370,11 @@ td a {
 <td>The Vagrant</td>
 <td>ベテランクリア</td>
 <td>朧村正系</td>
+</tr>
+<tr>
+<td>Unworthy</td>
+<td>クリア</td>
+<td>ジャンプ無し</td>
 </tr>
 </tbody></table>
 <h1 id="パズル"><a href="#パズル" class="headerlink" title="パズル"></a>パズル</h1><h2 id="2Dパズル"><a href="#2Dパズル" class="headerlink" title="2Dパズル"></a>2Dパズル</h2><table>
@@ -41122,6 +41271,11 @@ td a {
 <td>Seashell</td>
 <td>クリア</td>
 <td>貝集め</td>
+</tr>
+<tr>
+<td>Stacklands</td>
+<td>クリア</td>
+<td>拡大再生産シミュレーション</td>
 </tr>
 <tr>
 <td>Terraria</td>
