@@ -37986,6 +37986,160 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-07-23 日誌</title>
+    <url>/2022/07/23/diary/2022/07/2022-07-23/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#31">プルガ猫トリウム</a><ul>
+<li>ノルマが下げられたので最後までやった、最後のステージのほうが簡単じゃないかな</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#56">wisdom of history</a><ul>
+<li>江戸幕府は1603年ですよ、関ケ原からの相対で覚えると楽</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#47">1/∞の奇跡</a><ul>
+<li>世界観とかグラフィックは好き</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#57">突撃そのへんの遺跡</a><ul>
+<li>お手軽ギミックボスバトル</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#62">Reversible Island</a><ul>
+<li>鳥がいるとアクションになるけどおおよそパズル</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://medium.com/@vosough.k/use-singleton-pattern-or-not-282b197a2e9f">シングルトン</a><ul>
+<li>個人でコード書いているときは便利で使うけど、巨大プロジェクト向けではないだろうなとは思う</li>
+</ul>
+</li>
+</ul>
+<h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><ul>
+<li>75作品でFixのようで、昨年が多すぎただけでこれでも十分多いよなあという印象です<ul>
+<li>というかRPGが多めなので合計時間の印象値はどっこいどっこいかもしれない</li>
+</ul>
+</li>
+<li>1, 2, 3, 5, 11, 12, 15, 17, 22, 29, 30, 39, 41, 49, 51, 52, 54, 55, 58, 60, 61, 63, 65, 66, 67, 69, 71, 73, 74 あたりはやる予定</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>ウディコン</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-07-22 日誌</title>
+    <url>/2022/07/22/diary/2022/07/2022-07-22/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#24">ウルファールの冒険</a><ul>
+<li>良いゲーム</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://rocketnews24.com/2022/07/20/1658637/">スギナ</a><ul>
+<li>雑草って感じが凄い</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>ウディコン</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-07-21 日誌</title>
+    <url>/2022/07/21/diary/2022/07/2022-07-21/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#21">シヴァーラの塔</a><ul>
+<li>最後まで気の抜けない良いRPGでした</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://github.com/carbon-language/carbon-lang">Carbon</a><ul>
+<li>better C++ 勢力は混とんしている</li>
+</ul>
+</li>
+</ul>
+<h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><ul>
+<li>ウディコン増えてはきたけど、まだ最終日に10作品以上増えるんですよね、たぶん</li>
+<li>今の所、1, 2, 3, 5, 11, 12, 15, 17, 22, 29, 30, 39, 41, 47, 49, 51, 52, 54, 55, 56 あたりはやる</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>ウディコン</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-07-24 日誌</title>
+    <url>/2022/07/24/diary/2022/07/2022-07-24/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#62">Reversible Island</a><ul>
+<li>ステージ20でいったん一区切り</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#37">サッカー好きがつくる ウディタサッカー</a><ul>
+<li>小学生でもドリブルはするよ</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#70">ただのRPG</a><ul>
+<li>レベリング強制RPGとでも申せましょうか</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#13">狼は愛を、狐は狼からの報復を、蛇は狐と狼に打ち倒されることを望んだ</a><ul>
+<li>今までで一番何やってるかわからない戦闘システムだった</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#59">エムロード</a><ul>
+<li>初めて作ったRPG然としている</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#27">選択肢がなでるとなめるしかないゲェム</a><ul>
+<li>タイトルでオチてる</li>
+</ul>
+</li>
+<li><a href="https://www.silversecond.com/WolfRPGEditor/Contest/entry.shtml#36">数で押し切れ。</a><ul>
+<li>成長後回しで頭数増やしたほうが良かったかもしれん</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://app.wombo.art/">AIアート</a><ul>
+<li>これをもとに背景を描くという人がいてなるほどなと思うなど</li>
+</ul>
+</li>
+</ul>
+<h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><ul>
+<li>サイコロの偏りが大きいなあ<ul>
+<li>(Get-Random) % 75 してるだけなんだけど</li>
+<li>厳密には確率が違うし、Get-Random -Maximum 75 にするか</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Webサービス</tag>
+        <tag>ウディコン</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
