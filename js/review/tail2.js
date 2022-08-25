@@ -60,7 +60,7 @@ for (var idx = 1; idx < 100; ++idx) {
 function toggle_bad() {
 	Array.prototype.slice.call(document.querySelectorAll(".bad")).forEach(it => it.style.display == "none" ? it.style.display = "block" : it.style.display = "none")
 	Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it => {
-		let isBad = document.querySelector('.bad').style.display == 'block';
+		let isBad = document.querySelector('.bad') && document.querySelector('.bad').style.display == 'block';
 		it.value = isBad ? "ネガティブな点を見る状態です" : "ネガティブな点を見ない状態です";
 		if(isBad) 	{ it.classList.add(`btn-primary`); it.classList.remove(`btn-default`); }
 		else		{ it.classList.remove(`btn-primary`); it.classList.add(`btn-default`); }

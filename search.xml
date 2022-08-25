@@ -38938,6 +38938,74 @@ for(let i = ts.length; i--; ) {
       </tags>
   </entry>
   <entry>
+    <title>2022-08-22 日誌</title>
+    <url>/2022/08/22/diary/2022/08/2022-08-22/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://github.com/geolonia/normalize-japanese-addresses">住所正規化ライブラリ</a><ul>
+<li>日本の住所ややこしいですからね</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-08-23 日誌</title>
+    <url>/2022/08/23/diary/2022/08/2022-08-23/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(22)01075-0?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2211124722010750?showall=true">そっくりさん</a><ul>
+<li>そっくりさんは遺伝子レベルで似ているらしい</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>学術</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-08-25 日誌</title>
+    <url>/2022/08/25/diary/2022/08/2022-08-25/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://blog.oimo.io/2022/08/25/calm-joints-down/">Jointを鎮める</a><ul>
+<li>Nonlinear Gauss-Seidel</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-08-24 日誌</title>
+    <url>/2022/08/24/diary/2022/08/2022-08-24/</url>
+    <content><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://gigazine.net/news/20220824-stable-diffusion-google-colaboratory/">Stable Diffusion</a><ul>
+<li>遊んでみたくはある</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
