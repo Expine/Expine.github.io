@@ -72,8 +72,8 @@ function toggle_impression(id) {
 	const button = document.querySelector(`.impression_button-${id}`);
 	const isShow = document.querySelector(`.impression-${id}`).style.display == 'block';
 	button.value = isShow ? "感想を非表示にする" : "感想を表示する";
-	if(isShow)  { button.classList.add(`btn-primary`); button.classList.remove(`btn-default`); }
-	else		{ button.classList.remove(`btn-primary`); button.classList.add(`btn-default`); }
+	if(isShow)  { button.classList.add(`btn-default`); button.classList.remove(`btn-primary`); }
+	else		{ button.classList.remove(`btn-default`); button.classList.add(`btn-primary`); }
 }
 
 Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it => {
