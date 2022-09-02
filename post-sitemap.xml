@@ -10,13 +10,27 @@
 
     <url>
         <loc>https://Expine.github.io/2022/09/01/review/wodicon2022/00_index/</loc>
-        <lastmod>2022-09-01T13:04:24.968Z</lastmod>
+        <lastmod>2022-09-02T13:37:39.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
         <image:image>
 
             <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry14/CMbanner.png</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2022/09/01/review/wodicon2022/08/</loc>
+        <lastmod>2022-09-02T13:37:39.373Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry14/08.jpg</image:loc>
 
         </image:image>
 
