@@ -69,7 +69,10 @@ for (let idx = 0; idx < 10; ++idx) {
 				break;
 			}
 			const nextTarget = target.nextElementSibling;
-			target.className = (`impression-${idx}`);
+			if (target.autoExclude) {
+			} else {
+				target.className = (`impression-${idx}`);
+			}
 			target.parentNode.removeChild(target);
 			insert.appendChild(target);
 			target = nextTarget;

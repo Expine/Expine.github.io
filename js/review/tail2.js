@@ -112,7 +112,12 @@ for (let idx = 0; idx < 100; ++idx) {
 				break;
 			}
 			const nextTarget = target.nextElementSibling;
-			target.className = (`impression-${idx}`);
+			if (idx == 30)
+			console.log(nextTarget);
+			if (target.className == "autoexclude") {
+			} else {
+				target.className = (`impression-${idx}`);
+			}
 			target.parentNode.removeChild(target);
 			insert.appendChild(target);
 			target = nextTarget;
