@@ -50886,13 +50886,120 @@ for(let i = ts.length; i--; ) {
   <entry>
     <title>2022-11-19 日誌</title>
     <url>/2022/11/19/diary/2022/11/2022-11-19/</url>
-    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
-<li><a href=""></a></li>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.pokemon.co.jp/ex/sv/ja/">ポケットモンスター バイオレット</a><ul>
+<li>最初のイメージ選択肢、中央にカーソル合って決定連打できないようにしているの賢いな<ul>
+<li>特徴的でないカーソルだからUIの見た目的にも違和感がないというのはある</li>
+</ul>
+</li>
+<li>やっぱりカメラがちょっと動いただけで影がパカパカするんですね</li>
+<li>ものを調べた時にロックされるカメラが本来ロックされるカメラより進んじゃう場合、そこから切り替わる時の位置が本来とずれるのでカクッと動いた印象になりますね<ul>
+<li>というかそこでロックするなら注目カメラも止めたほうが良いのでは<ul>
+<li>多分動く側の障害物が見えなくなる</li>
+</ul>
+</li>
+<li>主人公の家のリビングのTV確認した時が顕著</li>
+<li>注目カメラのせいで、カメラめり込みとかも発生する<ul>
+<li>恐らくこれを止めるためのカメラロックだろう</li>
+</ul>
+</li>
+<li>とりあえずめちゃめちゃ酔う<ul>
+<li>処理落ちもあるとは思うけど</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>バッグない時にメニューでバッグが出ないの細かいですね<ul>
+<li>最初の方は家でスマホロトムボタン押しても出ないし<ul>
+<li>その代わり、なぜか歩みを止める良く分からん挙動にはなるけど</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>太陽の遮光表現がある</li>
+<li>アイテム拾ったときに時間が止まらないの良いですね</li>
+<li>イベント入ると影が変わるのが気になるの、私が開発者側に回っちゃったからなのかな<ul>
+<li>雲表現の所為かな</li>
+</ul>
+</li>
+<li>キャラクターのシャドウ、大分おもいきった粗さをしてる<ul>
+<li>ある程度シルエットがはっきりわかる時もあるな、解像度変えてるのかな</li>
+</ul>
+</li>
+<li>なんかフェードが気持ち悪い<ul>
+<li>フェードの終わり際当たりがなめらかじゃないのは処理落ちなのかそういうフェードなのか</li>
+</ul>
+</li>
+<li>最近のライバルは弱点側選んでくれるなあ</li>
+<li>ビーチ、そこにシートが張ってあっても砂判定なんだ<ul>
+<li>着地エフェクトが砂　</li>
+</ul>
+</li>
+<li>ポケモン図鑑登録演出、好き<ul>
+<li>ポケモンの本、いいな</li>
+</ul>
+</li>
+<li>空中のポケモン捕まえる時、モンスターボール落ちずに宙にあるんですね</li>
+<li>モンスターボールの演出、短くなった？</li>
+<li>スマホロトム、スマホを越えた便利機能がある<ul>
+<li>それに捕まって浮けるとしても、腕壊さないかな</li>
+</ul>
+</li>
+<li>ヤングース、ザングースの進化前？</li>
+<li>ペパー、なんやかんや良いやつ枠だと思う</li>
+<li>ネモ、清々しいまでに戦闘バカですね</li>
+<li>わざマシンマシン、ちゃんと技使ってる所見せてくれるの好き</li>
+<li>アイス、要するにモンハンの食事ですね</li>
+<li>今作、カレーではなくサンドウィッチなんだ</li>
+<li>後でライドンできるようになってからのほうが効率良いのは分かっているんだけど、動き回っちゃうな</li>
+<li>ポケモンに話しかけられるのは良いんだけど、近くの人に話しかけようとすると誤爆しがち</li>
+<li>LP、野生のポケモンがお金を落とすのはおかしいから設計された仕組みなんですね<ul>
+<li>街の人の会話を聞きながら</li>
+<li>FF12みたいな金策してるな</li>
+</ul>
+</li>
+<li>近づくとみんな笑顔になるんだけど、解像度の関係か皆糸目になっているように見える</li>
+<li>授業はチュートリアルか</li>
+<li>ポケモンには今更なんですけど、いろんな人の髪型が個性的ですね<ul>
+<li>揺れ物はどういう表現してるんだろう</li>
+</ul>
+</li>
+<li>色々と目的提示されて良いですね<ul>
+<li>3つくらいなら混乱もしない</li>
+</ul>
+</li>
+<li>レホール先生の時の後ろにアルセウスのあの博士がいる</li>
+<li>Lv56のトレーナーに当たるの、オープンワールドって感じだ<ul>
+<li>それはそれとして事前に強さが見たくはある</li>
+<li>FF12とかだと、明らかに勝てない敵の名前が赤く表示されるとかあったのであんな感じ</li>
+</ul>
+</li>
+<li>ミライドン、もう少し速くならんかな<ul>
+<li>水の上に入ったら自動的に出てきてすぐ戻されたから、恐らくそういうパワーアップはあるとにらんでいる</li>
+</ul>
+</li>
+<li>ある程度想定通りに進まないと敵が強すぎて叶わん</li>
+<li>テラレイド、相手の番待たなくていいように改良されたんですね<ul>
+<li>ある意味面白い戦闘システムにもなっている</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://gigazine.net/news/20221025-at-protocol-bluesky-social/">BlueSky</a><ul>
+<li>時代は分散型</li>
+</ul>
+</li>
 </ul>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
         <category>Diary</category>
       </categories>
+      <tags>
+        <tag>サービス</tag>
+        <tag>ポケットモンスター バイオレット</tag>
+      </tags>
   </entry>
   <entry>
     <title>2022-11-16 日誌</title>
@@ -50960,6 +51067,314 @@ for(let i = ts.length; i--; ) {
       </categories>
       <tags>
         <tag>ゲーム</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-11-20 日誌</title>
+    <url>/2022/11/20/diary/2022/11/2022-11-20/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.pokemon.co.jp/ex/sv/ja/">ポケットモンスター バイオレット</a><ul>
+<li>カイデンのテラレイド、目玉がめっちゃでかく後ろに出て怖い<ul>
+<li>テラレイド後ろの反射表現、どういう仕組みなんだ</li>
+</ul>
+</li>
+<li>オープンワールドポケモン、新しいポケモン見つけた時のテンションが違う<ul>
+<li>たまたま草むら遭遇するより楽しい</li>
+</ul>
+</li>
+<li>パモ、捕獲性能的にもイヌヌワン枠という感じがする<ul>
+<li>ほっぺすりすりが強すぎる</li>
+</ul>
+</li>
+<li>オープンワールドアクションとしてはカメラとか突っ込みどころあるけど、オープンワールドポケモンならまあいいかという感じがする</li>
+<li>初手虫ジムなの、草タイプへの逆風<ul>
+<li>最後ヒメグマ？と思って草タイプ出したら、虫テラスタル忘れてた</li>
+<li>テラレイド産カイデンがいなければ怪しかった</li>
+</ul>
+</li>
+<li>手癖でメニューを＋で開こうとしてしまう</li>
+<li>今作、NPCがやたらガタイが良い気がする</li>
+<li>処理落ち、出ている個所から考えるに描画負荷起因もありそうではある<ul>
+<li>明らかに重そうなところはあるので無理しているなあとも</li>
+<li>長いスパイクになっているのは間違いなく動的ロードだろうけども</li>
+</ul>
+</li>
+<li>コルサ、その高さからスーパーヒーロー着地できるの凄いですね</li>
+<li>美術の時間でハッサク先生が熱く語ってるのに教科書読んでる奴がいて笑っている</li>
+<li>今作、いつでもBOXが使えるのでポケセンの回復時にBOX全走査走ってそうではある<ul>
+<li>だからと言って重くなるとは思わないけど</li>
+</ul>
+</li>
+<li>たたかう、で技選ぶと全体的な影が消えるのなんだろう<ul>
+<li>多分雲表現の影が消えてそうだとは思っている</li>
+</ul>
+</li>
+<li>テラスタル、ダイマックスと違って通常戦闘でも使えるようにしたかった気配を感じるけど、それなら演出を短くしてほしかった</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://omocoro.jp/kiji/366264/">カスのライフハック</a><ul>
+<li>想像以上にカスのライフハックだった</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>記事</tag>
+        <tag>ポケットモンスター バイオレット</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-11-22 日誌</title>
+    <url>/2022/11/22/diary/2022/11/2022-11-22/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.pokemon.co.jp/ex/sv/ja/">ポケットモンスター バイオレット</a><ul>
+<li>ダン、群れると結局いじめ側になっているという話らしい</li>
+<li>なんか無表情でボール投げるなあと思っていたら、表情が固定化される不具合だったっぽいな<ul>
+<li>何で起きたかは分からんけど</li>
+</ul>
+</li>
+<li>四天王を小出しにするスタイル、新鮮<ul>
+<li>大概いきなり現れる強敵なので</li>
+</ul>
+</li>
+<li>ナンジャモ、何度見ても属性の過積載</li>
+<li>新しいところ行くと必ず新しいポケモンいるの、必要条件かもしれんけどやっぱり楽しい</li>
+<li>シュウメイ、やたら目が綺麗</li>
+<li>シュウメイに負けたので旅パーティ再考する<ul>
+<li>さすがにタイプ補完考えなさ過ぎた</li>
+</ul>
+</li>
+<li>テツノワダチ、再考したメンバーですら苦戦した<ul>
+<li>意図して強いデザインにしてそう</li>
+<li>素早さが早い上、アイアンヘッドでめちゃめちゃひるませてくる</li>
+<li>カエンジンでギリギリ削り切れた</li>
+</ul>
+</li>
+<li>191匹到達、ようやっと半分くらい<ul>
+<li>バッジは4/4/3 で5つ増えた</li>
+</ul>
+</li>
+<li>ストーリーメインで進めると敵が強くてそれはそれで楽しいですね<ul>
+<li>図鑑埋めるための育成ワンマンチームだと、ワンマンの弱点が来た時に崩壊する</li>
+</ul>
+</li>
+<li>草メインだと相性補完で氷が欲しいんだけど、全然手に入らないという<ul>
+<li>クジラに期待しているけど、火力要員じゃないっぽく見えるんですよね</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://ja.m.wikipedia.org/wiki/%E3%82%BF%E3%83%90%E3%82%B3%E3%82%B7%E3%83%90%E3%83%B3%E3%83%A0%E3%82%B7">タバコシバンムシ</a><ul>
+<li>タバコという名前ながら現代の煙草とはほぼ無縁っぽい</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>雑学</tag>
+        <tag>ポケットモンスター バイオレット</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-11-21 日誌</title>
+    <url>/2022/11/21/diary/2022/11/2022-11-21/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.pokemon.co.jp/ex/sv/ja/">ポケットモンスター バイオレット</a><ul>
+<li>このままだと終わらないので、ちゃんと物語を進めることにしよう<ul>
+<li>目につくポケモンはこれまで通り捕まえるけど、寄り道はしない</li>
+</ul>
+</li>
+<li>強いよという洞窟がちゃんと強いの良いですね<ul>
+<li>制限のあるオープンワールドではあるんだろうけど、RPGとしてはそんなもんだと思う</li>
+</ul>
+</li>
+<li>ペパー君、やっぱただのいい奴か</li>
+<li>何やってんすか校長先生<ul>
+<li>あまりに違いすぎてぱっと見で分からんかった</li>
+</ul>
+</li>
+<li>カシオペアから漂うマジボスっぽさ</li>
+<li>VSが出る条件分からんな<ul>
+<li>トレーナー戦でも出る時と出ない時がある</li>
+</ul>
+</li>
+<li>ロースト砂漠のはしご、いかにも上れそうだけど上れない</li>
+<li>イベント位置が遠いからカメラは近くてもプロセス化リングしてるのを見るにつけ<ul>
+<li>ハイダイの競りイベントの時</li>
+</ul>
+</li>
+<li>競り、割と楽しい<ul>
+<li>お金にそんなに余裕が無いので、資産家には勝てないけど</li>
+<li>もっと釣りあげられると楽しいんだけど、二択なのでなんとも</li>
+</ul>
+</li>
+<li>やっぱり各街に特色があって好き<ul>
+<li>地域としても多種多様だし、街にも独自性があるので訪れるのが楽しい</li>
+</ul>
+</li>
+<li>ネモ、戦闘狂としての性質ができすぎている<ul>
+<li>最初からライバルがチャンピオン格というのも面白い<ul>
+<li>ある意味ダンデはそんなところがあったかもしれない</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>ハイダイ、すしざんまい感あるな<ul>
+<li>うちのパーティー的に特攻なんですけどね<ul>
+<li>草メイン、雷2体</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>マスカーニャ、見た目は結構好き<ul>
+<li>後ろ姿がちゃんとしてる</li>
+<li>専用技なのか分からんけど、トリックフラワーが性能も込みで良いし</li>
+</ul>
+</li>
+<li>なんかちょくちょく帽子が怪しい挙動するんですよね</li>
+<li>なんやかんや154匹到達<ul>
+<li>バッジは3/2/1 で3つ増えた</li>
+<li>ドンファンもどきには負けたので、後回しにしてしまっている</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/fumina/articles/95876888664844">TypeScriptの利点</a><ul>
+<li>初学者向け</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>ポケットモンスター バイオレット</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022-11-23 日誌</title>
+    <url>/2022/11/23/diary/2022/11/2022-11-23/</url>
+    <content><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul>
+<li><a href="https://www.pokemon.co.jp/ex/sv/ja/">ポケットモンスター バイオレット</a></li>
+</ul>
+<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul>
+<li><a href="https://zenn.dev/sho7noka/articles/dfa590f88dbb11">ivy</a><ul>
+<li>機械学習、色々あってどれ選べばいいか分からないというのはある</li>
+</ul>
+</li>
+</ul>
+<h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><p>オータムセールなので、積むことは分かっているけど買う。恒例行事なので。<br>積みゲーを80から50台に減らすのには半年くらいかかるけど、50から80に戻すのには1日もかからない。</p>
+<ul>
+<li>7Days Origins<ul>
+<li>雰囲気良さそうなテキストアドベンチャー枠</li>
+</ul>
+</li>
+<li>Agarta<ul>
+<li>実写ものの面白さがありそう</li>
+</ul>
+</li>
+<li>Blade Evolution<ul>
+<li>ローグライクアクション、なんぼあっても良いですからね</li>
+</ul>
+</li>
+<li>Children of Morta<ul>
+<li>いい加減買っておこうと思った</li>
+</ul>
+</li>
+<li>Hook2<ul>
+<li>シンプルパズル枠、息抜きになる</li>
+</ul>
+</li>
+<li>ITORAH<ul>
+<li>雰囲気良さそうなアクション</li>
+</ul>
+</li>
+<li>MARSUPILAMI - HOOBADVENTURE<ul>
+<li>たまにはこういうタイプのアクションもやる</li>
+</ul>
+</li>
+<li>One Step From Eden<ul>
+<li>エグゼはやったことないけど、あの戦闘システムは面白そうだと思っていた</li>
+</ul>
+</li>
+<li>Outcore: Desktop Adventure<ul>
+<li>メタ系、一つくらい持っていると良い</li>
+</ul>
+</li>
+<li>Potato Survival<ul>
+<li>何故ポテトなのか気になります</li>
+</ul>
+</li>
+<li>Splat Cat<ul>
+<li>シンプルアクション枠、カジュアルにやりたい</li>
+</ul>
+</li>
+<li>SUPERHOT<ul>
+<li>面白そうと思いつつ買ってなかったので、やってみる</li>
+</ul>
+</li>
+<li>Unbound: Worlds Apart<ul>
+<li>雰囲気良さそうなアクション、その2</li>
+</ul>
+</li>
+<li>Virgo Versus The Zodiac<ul>
+<li>RPGやりたいよね</li>
+</ul>
+</li>
+<li>White Mirror<ul>
+<li>こういうアイデアアクション、どうデザインしているか気になる</li>
+</ul>
+</li>
+<li>さらば劇薬 -encore-<ul>
+<li>どこかのサイトで見かけた時に興味があり、ここでも見かけたのでやってみようと思う</li>
+</ul>
+</li>
+<li>サンセット・ルート<ul>
+<li>シンプルそうなので</li>
+</ul>
+</li>
+<li>じゃあ、また<ul>
+<li>雰囲気良さそうなアドベンチャー</li>
+</ul>
+</li>
+<li>わだつみのこだま<ul>
+<li>グラフィック良くないですか</li>
+</ul>
+</li>
+<li>雨にして人を外れ<ul>
+<li>ビジュアルノベルをやりたいですね</li>
+</ul>
+</li>
+<li>窓の中の先にあるもの<ul>
+<li>アイデアパズル、大体楽しい</li>
+</ul>
+</li>
+<li>添丁の伝説<ul>
+<li>テーマも良さそうだし、アクションも良さそう</li>
+</ul>
+</li>
+</ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>プログラミング</tag>
+        <tag>ポケットモンスター バイオレット</tag>
       </tags>
   </entry>
   <entry>
