@@ -9,8 +9,35 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Mon, 28 Nov 2022 18:13:52 GMT</pubDate>
+    <pubDate>Tue, 29 Nov 2022 17:39:56 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2022-11-29 日誌</title>
+      <link>https://expine.github.io/2022/11/29/diary/2022/11/2022-11-29/</link>
+      <guid>https://expine.github.io/2022/11/29/diary/2022/11/2022-11-29/</guid>
+      <pubDate>Tue, 29 Nov 2022 00:27:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;リンク&quot;&gt;&lt;a href=&quot;#リンク&quot; class=&quot;headerlink&quot; title=&quot;リンク&quot;&gt;&lt;/a&gt;リンク&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://game.watch.impress.co.jp/docs/news/1450599.</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://game.watch.impress.co.jp/docs/news/1450599.html">Steamの値上げ</a><ul><li>多少値上げする程度なのでそんなに気にはならない</li></ul></li></ul><h2 id="雑記"><a href="#雑記" class="headerlink" title="雑記"></a>雑記</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;&#x2F; int g&#x3D;0;int F(int a[], int b[])&#123;if(g&#x3D;&#x3D;0)&#123;g&#x3D;1;int t&#x3D;F(a,b),s&#x3D;F(b,a);g&#x3D;0;return t&lt;s?s:-t;&#125;else&#123;int m&#x3D;8,s;for(int i&#x3D;0;s&#x3D;0,i&lt;8;++i)&#123;for(int j&#x3D;0;j&lt;8;++j)&#123;if(a[i]&gt;b[j]&amp;&amp;b[j]&lt;201)&#123;++s;&#125;&#125;m&#x3D;m&gt;s?s:m;&#125;return m;&#125;&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;0,m,s,x,y,i,j;int F(int a[],int b[])&#123;if(m&#x3D;8,g++)&#123;for(i&#x3D;0;s&#x3D;0,i&lt;8;++i)&#123;for(j&#x3D;0;j&lt;8;++j)if(a[i]&gt;b[j]&amp;&amp;b[j]&lt;201)++s;m&#x3D;m&gt;s?s:m;&#125;return m;&#125;else return x&#x3D;F(a,b),y&#x3D;F(b,a),g&#x3D;0,x&lt;y?y:-x;&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,x,y,i,j;int F(int*a,int*b)&#123;m&#x3D;8;for(i&#x3D;0;s&#x3D;0,i&lt;8;++i)&#123;for(j&#x3D;0;j&lt;8;++j)if(a[i]&gt;b[j]&amp;b[j]&lt;201)++s;m&#x3D;m&gt;s?s:m;&#125;return--g?m:(x&#x3D;F(a,b),y&#x3D;F(b,a),g&#x3D;1,x&lt;y?y:-x);&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,x,y,i,j;int F(int*a,int*b)&#123;m&#x3D;i&#x3D;8;while(i--)&#123;s&#x3D;0,j&#x3D;8;while(j--)if(a[i]&gt;b[j]&amp;b[j]&lt;201)++s;m&#x3D;m&gt;s?s:m;&#125;return--g?m:(x&#x3D;F(a,b),y&#x3D;F(b,a),g&#x3D;1,x&lt;y?y:-x);&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,x,y,j;int F(int*a,int*b)&#123;for(m&#x3D;y&#x3D;8;y--;)&#123;for(s&#x3D;0,j&#x3D;8;j--;)if(a[y]&gt;b[j]&amp;b[j]&lt;201)++s;m&#x3D;m&gt;s?s:m;&#125;return--g?m:(x&#x3D;F(a,b),y&#x3D;F(b,a),g&#x3D;1,x&lt;y?y:-x);&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,x,y,j;int F(int*a,int*b)&#123;for(m&#x3D;y&#x3D;8;y--;)&#123;for(s&#x3D;0,j&#x3D;8;j--;a[y]&gt;b[j]&amp;b[j]&lt;201&amp;&amp;++s);m&#x3D;m&gt;s?s:m;&#125;return--g?m:(x&#x3D;F(a,b),y&#x3D;F(b,a),g&#x3D;1,x&lt;y?y:-x);&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,x,y,j;int F(int*a,int*b)&#123;for(m&#x3D;y&#x3D;8;y--;m&#x3D;m&gt;s?s:m)for(s&#x3D;0,j&#x3D;8;j--;a[y]&gt;b[j]&amp;b[j]&lt;201&amp;&amp;++s);return--g?m:(x&#x3D;F(a,b),y&#x3D;F(b,a),g&#x3D;1,x&lt;y?y:-x);&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,x,y,j;int F(int*a,int*b)&#123;for(m&#x3D;y&#x3D;8;y--;m&#x3D;m&gt;s?s:m)for(s&#x3D;0,j&#x3D;8;j--;a[y]&gt;b[j]&amp;b[j]&lt;201&amp;&amp;++s);return!--g?x&#x3D;F(a,b),y&#x3D;F(b,a),g&#x3D;1,x&lt;y?y:-x:m;&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,i,j;int F(int*a,int*b)&#123;for(m&#x3D;i&#x3D;8;i--;m&#x3D;m&gt;s?s:m)for(s&#x3D;0,j&#x3D;8;j--;a[i]&gt;b[j]&amp;b[j]&lt;201&amp;&amp;++s);return!--g?-m+F(b,a)*(g&#x3D;1):m;&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,i,j;int F(int*a,int*b)&#123;for(m&#x3D;i&#x3D;8;i--;m&#x3D;m&gt;s?s:m)for(s&#x3D;0,j&#x3D;8;j--;b[i]&gt;a[j]&amp;a[j]&lt;201&amp;&amp;++s);return!--g?m-F(b,a)*(g&#x3D;1):m;&#125;</span><br><span class="line">&#x2F;&#x2F; int g&#x3D;1,m,s,i,j;int F(int*a,int*b)&#123;for(m&#x3D;i&#x3D;8;i--;m&#x3D;m&gt;s?s:m)for(s&#x3D;0,j&#x3D;8;j--;b[i]&gt;a[j]&amp;a[j]&lt;201&amp;&amp;++s);return--g?g&#x3D;1,m:m-F(b,a);&#125;</span><br><span class="line">&#x2F;&#x2F; int g,m,s,i,j;int F(int*a,int*b)&#123;for(m&#x3D;i&#x3D;8;i--;m&#x3D;m&gt;s?s:m)for(s&#x3D;0,j&#x3D;8;j--;b[i]&gt;a[j]&amp;a[j]&lt;201&amp;&amp;++s);return--g?g&#x3D;1,m-F(b,a):m;&#125;</span><br></pre></td></tr></table></figure><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/%E8%A8%98%E4%BA%8B/">記事</category>
+      
+      
+      <comments>https://expine.github.io/2022/11/29/diary/2022/11/2022-11-29/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2022-11-28 日誌</title>
@@ -625,43 +652,6 @@
       
       
       <comments>https://expine.github.io/2022/11/19/review/wodicon2022/08/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>第14回ウディコン全作品レビュー - Three Sleep Sheep Soup</title>
-      <link>https://expine.github.io/2022/11/19/review/wodicon2022/09/</link>
-      <guid>https://expine.github.io/2022/11/19/review/wodicon2022/09/</guid>
-      <pubDate>Sat, 19 Nov 2022 03:31:50 GMT</pubDate>
-      
-        
-        
-      <description>&lt;input type=&quot;button&quot; class=&quot;bad_button&quot; value=&quot;&quot;&gt;
-
-
-&lt;h2 id=&quot;09-Three-Sleep-Sheep-Soup&quot;&gt;&lt;a href=&quot;#09-Three-Sleep-Sheep-Soup&quot; class=&quot;headerlin</description>
-        
-      
-      
-      <enclosure url="https://Expine.github.io//images/review/wodicon2022/banner.png" type="image"/>
-      
-      
-      <content:encoded><![CDATA[<input type="button" class="bad_button" value=""><h2 id="09-Three-Sleep-Sheep-Soup"><a href="#09-Three-Sleep-Sheep-Soup" class="headerlink" title="09. Three Sleep Sheep Soup"></a>09. Three Sleep Sheep Soup</h2><table><thead><tr><th>ジャンル</th><th>作者</th></tr></thead><tbody><tr><td>コマンド入力ADV</td><td>いわいしさき&amp;despair</td></tr></tbody></table><table><thead><tr><th>プレイ時間</th><th>プレイVer</th><th>クリア状況</th></tr></thead><tbody><tr><td>1時間</td><td>1.9</td><td>17END</td></tr></tbody></table><h3 id="良かった点"><a href="#良かった点" class="headerlink" title="良かった点"></a>良かった点</h3><ul><li>色々な入力に反応がありました</li><li>シンプルな探索ゲームモードのおかげで、初期の導線が確保されています</li></ul><h3 id="気になった点"><a href="#気になった点" class="headerlink" title="気になった点"></a>気になった点</h3><ul><li>グラフィックが単語を特定できるレベルの解像度ではありませんでした</li></ul><h3 id="レビュー"><a href="#レビュー" class="headerlink" title="レビュー"></a>レビュー</h3><p><strong>手当たり次第に突拍子もないことを</strong></p><p>Three Sleep Sheep Soup は、コマンドを入力することで進行するアドベンチャーです。</p><p>「かんたん」の難易度を選べば、このゲームは一般的な脱出ゲームのような様相を呈しています。提示されるコマンドに従い行動することで、一定のエンディングを迎えることができるでしょう。</p><p>しかし、難易度を「むずかしい」にすることで、このゲームの本当の顔が表に出ます。<br>この難易度では、プレイヤーの入力するコマンドは「動詞」と「対象」を入力する形式へと変化します。例えば、ひつじを調べたいのであれば「しらべる　ひつじ」と入力する必要があるわけです。</p><p>対象に対してどういった行動をとってみるか、あるいはどこまでを対象と見なすか、それはプレイヤーの想像力に委ねられています。<br>とにかく様々な行動をとってみて、様々なエンディングを見ていきましょう。</p><h3 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h3><p>全体の印象値は脱出ゲームのそれでした。<br>想像よりも色々入力の幅はあって良いです。写真立てを食べられた時は笑いました。<br>何となくもっと突拍子もないことができそうな気がするんですが、色々入力してみてトゥルーっぽいのに辿り着いたら満足しました。<br>何もないのに燃やせるあたり、もっと悪いことしたかった気もします。</p><p>筆者が見つけたエンドは以下の17個です。多分まだある。</p><ul><li>閉じ込められEND<ul><li>強制終了する</li></ul></li><li>羊食べて腹破裂エンド<ul><li>3体食べる</li></ul></li><li>扉に永遠落下エンド<ul><li>何もせずに扉から出る</li></ul></li><li>明るい声が聞こえるエンド<ul><li>3体持ったまま出る</li></ul></li><li>私は一人だったエンド<ul><li>多分写真立てをどうにかする。私は食べた</li></ul></li><li>何かが足りないエンド<ul><li>一人だけ持って出る</li></ul></li><li>理解エンド<ul><li>二人もって出る</li></ul></li><li>自分で自分をエンド<ul><li>自分を害する</li></ul></li><li>死体を見つけるエンド<ul><li>羊を食べずにやる</li></ul></li><li>焼死エンド<ul><li>もやす</li></ul></li><li>煙エンド<ul><li>部屋を燃やす</li></ul></li><li>出会った記憶があるエンド<ul><li>多分写真立てをどうにかする。私は一人だったとの違いはよくわからない。多分人数</li></ul></li><li>睡眠エンド<ul><li>ひたすら寝る</li></ul></li><li>注射器エンド<ul><li>そもそも注射器を見つける必要があり、それを自分に打つ</li></ul></li><li>薬剤を飲むエンド<ul><li>注射器の薬剤を飲む。注射器ではだめだった</li></ul></li><li>薬剤スープエンド<ul><li>注射器を羊に打ってからスープに入れて食べる</li></ul></li><li>答えるエンド<ul><li>3人救出で答えてと言われる、2人救出で羊の正体が何となく分かる<ul><li>にんげんだとニアピンで、家族が正解らしい</li></ul></li></ul></li></ul><p>これだけあるとエンドリストが欲しいですね。???で埋まっていたりすると収集欲が刺激されそう。</p><p>攻略的には、割とすぐに「答えて」とは言われるんですが、何を答えればいいのかは判然としないので、その辺でしばらく迷いながら色々試していました。</p><p>個人的に気になっているのはグラフィックの分かりにくさで、調べたいという時にかなり致命的な印象を受けました。<br>写真は最初鏡だと思っていましたし、キッチンラックを引き当てるまでに大分時間を使いました。引き出しを入力したら棚のほうに行くのは罠。正直今でもキッチンラックには見えていないです。そもそもあれはキッチンなのか。</p><p>ちなみにかがみを調べようとすると永遠にかがみループに入るんですが、仕様なのかそうでないのか分からなかったです。もしかしてこれもエンドの一つなんでしょうか。</p><script src="/js/review/tail3.js"></script><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/EachReview/">EachReview</category>
-      
-      <category domain="https://Expine.github.io/categories/EachReview/%E3%82%A6%E3%83%87%E3%82%A3%E3%82%B3%E3%83%B3/">ウディコン</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/%E3%82%A6%E3%83%87%E3%82%A3%E3%82%BF/">ウディタ</category>
-      
-      <category domain="https://Expine.github.io/tags/%E3%82%A6%E3%83%87%E3%82%A3%E3%82%B3%E3%83%B3/">ウディコン</category>
-      
-      <category domain="https://Expine.github.io/tags/Three-Sleep-Sheep-Soup/">Three Sleep Sheep Soup</category>
-      
-      
-      <comments>https://expine.github.io/2022/11/19/review/wodicon2022/09/#disqus_thread</comments>
       
     </item>
     
