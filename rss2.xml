@@ -9,8 +9,34 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Sun, 11 Dec 2022 11:09:30 GMT</pubDate>
+    <pubDate>Sun, 11 Dec 2022 12:56:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hexo 備忘録 hexo-generator-searchdb が効かない</title>
+      <link>https://expine.github.io/2022/12/11/HexoTips-2/</link>
+      <guid>https://expine.github.io/2022/12/11/HexoTips-2/</guid>
+      <pubDate>Sun, 11 Dec 2022 12:56:23 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;hexo-generator-searchdb の検索機能があるページを境に効かない。&lt;br&gt;デフォルトだとxml形式で記述しているが、ペー</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="問題"><a href="#問題" class="headerlink" title="問題"></a>問題</h2><p>hexo-generator-searchdb の検索機能があるページを境に効かない。<br>デフォルトだとxml形式で記述しているが、ページにある何かのコンテンツに反応しているのか、あるページを境に利かなくなることがある模様。</p><h3 id="解決策"><a href="#解決策" class="headerlink" title="解決策"></a>解決策</h3><p>場当たり的ではあるが、xml だと効かないので、jsonを使うようにする。<br><code>_config.yml</code>の<code>seach</code>を以下のようにすればいい</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">search:</span><br><span class="line">  path: search.json</span><br><span class="line">  field: all</span><br><span class="line">  content: true</span><br><span class="line">  format: raw</span><br></pre></td></tr></table></figure><p>根本的には、xmlパースを妨げるタグを探すべきだが、該当ページが巨大すぎて探したくないので、とりあえず動く形にする</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Programming/">Programming</category>
+      
+      <category domain="https://Expine.github.io/categories/Programming/Hexo/">Hexo</category>
+      
+      
+      
+      <comments>https://expine.github.io/2022/12/11/HexoTips-2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2022-12-11 日誌</title>
@@ -534,35 +560,6 @@
       
       
       <comments>https://expine.github.io/2022/11/23/diary/2022/11/2022-11-23/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2022-11-22 日誌</title>
-      <link>https://expine.github.io/2022/11/22/diary/2022/11/2022-11-22/</link>
-      <guid>https://expine.github.io/2022/11/22/diary/2022/11/2022-11-22/</guid>
-      <pubDate>Tue, 22 Nov 2022 00:19:22 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.pokemon.co.jp/ex/sv</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://www.pokemon.co.jp/ex/sv/ja/">ポケットモンスター バイオレット</a><ul><li>ダン、群れると結局いじめ側になっているという話らしい</li><li>なんか無表情でボール投げるなあと思っていたら、表情が固定化される不具合だったっぽいな<ul><li>何で起きたかは分からんけど</li></ul></li><li>四天王を小出しにするスタイル、新鮮<ul><li>大概いきなり現れる強敵なので</li></ul></li><li>ナンジャモ、何度見ても属性の過積載</li><li>新しいところ行くと必ず新しいポケモンいるの、必要条件かもしれんけどやっぱり楽しい</li><li>シュウメイ、やたら目が綺麗</li><li>シュウメイに負けたので旅パーティ再考する<ul><li>さすがにタイプ補完考えなさ過ぎた</li></ul></li><li>テツノワダチ、再考したメンバーですら苦戦した<ul><li>意図して強いデザインにしてそう</li><li>素早さが早い上、アイアンヘッドでめちゃめちゃひるませてくる</li><li>カエンジンでギリギリ削り切れた</li></ul></li><li>191匹到達、ようやっと半分くらい<ul><li>バッジは4/4/3 で5つ増えた</li></ul></li><li>ストーリーメインで進めると敵が強くてそれはそれで楽しいですね<ul><li>図鑑埋めるための育成ワンマンチームだと、ワンマンの弱点が来た時に崩壊する</li></ul></li><li>草メインだと相性補完で氷が欲しいんだけど、全然手に入らないという<ul><li>クジラに期待しているけど、火力要員じゃないっぽく見えるんですよね</li></ul></li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://ja.m.wikipedia.org/wiki/%E3%82%BF%E3%83%90%E3%82%B3%E3%82%B7%E3%83%90%E3%83%B3%E3%83%A0%E3%82%B7">タバコシバンムシ</a><ul><li>タバコという名前ながら現代の煙草とはほぼ無縁っぽい</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/%E9%9B%91%E5%AD%A6/">雑学</category>
-      
-      <category domain="https://Expine.github.io/tags/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88/">ポケットモンスター バイオレット</category>
-      
-      
-      <comments>https://expine.github.io/2022/11/22/diary/2022/11/2022-11-22/#disqus_thread</comments>
       
     </item>
     
