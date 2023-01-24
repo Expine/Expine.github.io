@@ -2404,6 +2404,11 @@ ul.breadcrumb li:last-child {
   display: inline-block;
   margin: 10px;
 }
+.tag-cloud-subtitle {
+  font-size: x-large;
+  border-bottom: 1px dashed #ccc;
+  border-top: 1px solid #ccc;
+}
 .tag-cloud-0 {
   border-bottom-color: #aaa;
   color: #aaa;
