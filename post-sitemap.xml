@@ -10,13 +10,83 @@
 
     <url>
         <loc>https://Expine.github.io/2023/08/17/review/wodicon2023/00_index/</loc>
-        <lastmod>2023-09-24T00:17:31.026Z</lastmod>
+        <lastmod>2023-12-03T14:45:42.449Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
         <image:image>
 
             <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry15/CMbanner.png</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2023/08/17/review/wodicon2023/19/</loc>
+        <lastmod>2023-12-02T19:09:51.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry15/19.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2023/08/17/review/wodicon2023/18/</loc>
+        <lastmod>2023-12-02T19:09:51.157Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry15/18.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2023/08/17/review/wodicon2023/17/</loc>
+        <lastmod>2023-12-02T19:09:51.140Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry15/17.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2023/08/17/review/wodicon2023/16/</loc>
+        <lastmod>2023-12-02T19:09:51.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry15/16.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2023/08/17/review/wodicon2023/15/</loc>
+        <lastmod>2023-12-02T19:09:51.066Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry15/15.jpg</image:loc>
 
         </image:image>
 
