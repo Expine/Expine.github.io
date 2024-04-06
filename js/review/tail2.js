@@ -35,6 +35,9 @@ function sortEvent(tbody, idx) {
 
 const ts = document.getElementsByTagName('table');
 for(let i = ts.length; i--; ) {
+	if (ts[i].tHead == null) {
+		continue;
+	}
 	const ths = ts[i].tHead.getElementsByTagName('th');
 	for(let j = ths.length; j--; )
 		ths[j].addEventListener("click", sortEvent(ts[i].tBodies[0], j));
