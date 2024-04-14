@@ -9,8 +9,45 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Sun, 14 Apr 2024 03:31:47 GMT</pubDate>
+    <pubDate>Sun, 14 Apr 2024 14:55:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2024-04-14 日誌</title>
+      <link>https://expine.github.io/2024/04/14/diary/2024/04/2024-04-14/</link>
+      <guid>https://expine.github.io/2024/04/14/diary/2024/04/2024-04-14/</guid>
+      <pubDate>Sun, 14 Apr 2024 04:43:43 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/657000/Rising_Hell/">Rising Hell</a><ul><li>クリアしてチャレンジモードもある程度クリアした、ヘルブレイクの強制ジャンプで被弾が辛い</li></ul></li><li><a href="https://store.steampowered.com/app/2234960/Pygmalion/">Pygmalion</a><ul><li>とりあえずEAクリアまでやったので、ちまちまパズルモードを解いていく</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://note.com/tamayama_lily/n/n74032a635c2c">「批判するのを避けるメリット」とは？</a><ul><li>作家と作品を切り離せるか問題でもある</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E8%A8%98%E4%BA%8B/">記事</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-Rising-Hell/">G:Rising Hell</category>
+      
+      <category domain="https://Expine.github.io/tags/G-Pygmalion/">G:Pygmalion</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E6%89%B9%E5%88%A4/">D:批判</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E5%89%B5%E4%BD%9C/">D:創作</category>
+      
+      
+      <comments>https://expine.github.io/2024/04/14/diary/2024/04/2024-04-14/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2024-04-13 日誌</title>
@@ -636,41 +673,6 @@
       
       
       <comments>https://expine.github.io/2024/03/26/diary/2024/03/2024-03-26/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-03-25 日誌</title>
-      <link>https://expine.github.io/2024/03/25/diary/2024/03/2024-03-25/</link>
-      <guid>https://expine.github.io/2024/03/25/diary/2024/03/2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 00:23:02 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/2455920/Mimic_Logic/">Mimic Logic</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://abagames.github.io/joys-of-small-game-development/">小さなゲーム開発の楽しみ</a><ul><li>Torus Trooper の方の記事</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/D-%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA/">D:ゲーム開発</category>
-      
-      <category domain="https://Expine.github.io/tags/G-Mimic-Logic/">G:Mimic Logic</category>
-      
-      <category domain="https://Expine.github.io/tags/D-Torus-Trooper/">D:Torus Trooper</category>
-      
-      
-      <comments>https://expine.github.io/2024/03/25/diary/2024/03/2024-03-25/#disqus_thread</comments>
       
     </item>
     
