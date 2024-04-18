@@ -9,8 +9,41 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Tue, 16 Apr 2024 15:14:38 GMT</pubDate>
+    <pubDate>Wed, 17 Apr 2024 16:47:03 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2024-04-17 日誌</title>
+      <link>https://expine.github.io/2024/04/17/diary/2024/04/2024-04-17/</link>
+      <guid>https://expine.github.io/2024/04/17/diary/2024/04/2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:25:14 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1633430/OU/">OU</a><ul><li>ゲームとしては厳しいけど作品としては良かった</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://mstssk.hatenablog.com/entry/2024/04/17/134256">不用意に font-feature-settings を使うと日本語表示がおかしくなる</a><ul><li>英文を良い感じにしたいのに日本語がおかしくなる件</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-OU/">G:OU</category>
+      
+      <category domain="https://Expine.github.io/tags/D-font-feature-settings/">D:font-feature-settings</category>
+      
+      
+      <comments>https://expine.github.io/2024/04/17/diary/2024/04/2024-04-17/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2024-04-16 日誌</title>
@@ -639,36 +672,6 @@
       
       
       <comments>https://expine.github.io/2024/03/29/diary/2024/03/2024-03-29/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-03-28 日誌</title>
-      <link>https://expine.github.io/2024/03/28/diary/2024/03/2024-03-28/</link>
-      <guid>https://expine.github.io/2024/03/28/diary/2024/03/2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 00:24:59 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;リンク&quot;&gt;&lt;a href=&quot;#リンク&quot; class=&quot;headerlink&quot; title=&quot;リンク&quot;&gt;&lt;/a&gt;リンク&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://c-halberd.com/lie-random/&quot;&gt;そらまめちしき&lt;/a&gt;&lt;ul&gt;
-</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://c-halberd.com/lie-random/">そらまめちしき</a><ul><li>ジェネレータできるくらい継続してたんですね</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/Web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/">Webサービス</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/D-%E3%81%9D%E3%82%89%E3%81%BE%E3%82%81%E3%81%A1%E3%81%97%E3%81%8D/">D:そらまめちしき</category>
-      
-      
-      <comments>https://expine.github.io/2024/03/28/diary/2024/03/2024-03-28/#disqus_thread</comments>
       
     </item>
     
