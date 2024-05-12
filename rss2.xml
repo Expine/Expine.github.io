@@ -9,8 +9,422 @@
     <atom:link href="https://expine.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>個人的なメモ帳、あるいは砂場</description>
-    <pubDate>Tue, 30 Apr 2024 11:43:44 GMT</pubDate>
+    <pubDate>Sun, 12 May 2024 12:33:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2024-05-12 日誌</title>
+      <link>https://expine.github.io/2024/05/12/diary/2024/05/2024-05-12/</link>
+      <guid>https://expine.github.io/2024/05/12/diary/2024/05/2024-05-12/</guid>
+      <pubDate>Sun, 12 May 2024 00:41:19 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a><ul><li>クリア、24時間も倉庫番やってたんですか？</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://tegon.ai/">tegon</a><ul><li>AIベースのJIRAもとい課題トラッキングツールらしい</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%84%E3%83%BC%E3%83%AB/">ツール</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-tegon/">D:tegon</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/12/diary/2024/05/2024-05-12/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-11 日誌</title>
+      <link>https://expine.github.io/2024/05/11/diary/2024/05/2024-05-11/</link>
+      <guid>https://expine.github.io/2024/05/11/diary/2024/05/2024-05-11/</guid>
+      <pubDate>Sat, 11 May 2024 04:43:27 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://speakerdeck.com/yajihum/typescriptnopahuomansugai-shan">TypeScriptのパフォーマンス改善</a><ul><li>型注釈あったほうが良いんですね</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/D-TypeScript/">D:TypeScript</category>
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E6%94%B9%E5%96%84/">D:パフォーマンス改善</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/11/diary/2024/05/2024-05-11/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-10 日誌</title>
+      <link>https://expine.github.io/2024/05/10/diary/2024/05/2024-05-10/</link>
+      <guid>https://expine.github.io/2024/05/10/diary/2024/05/2024-05-10/</guid>
+      <pubDate>Fri, 10 May 2024 00:30:38 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://blog.pokutuna.com/entry/oss-sightseeing-spots">OSS 観光名所を貼るスレ</a><ul><li>__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED、意思を感じる</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E8%A8%98%E4%BA%8B/">記事</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/D-OSS/">D:OSS</category>
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA/">D:レポジトリ</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/10/diary/2024/05/2024-05-10/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-09 日誌</title>
+      <link>https://expine.github.io/2024/05/09/diary/2024/05/2024-05-09/</link>
+      <guid>https://expine.github.io/2024/05/09/diary/2024/05/2024-05-09/</guid>
+      <pubDate>Thu, 09 May 2024 00:04:35 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://store.steampowered.com/app/2088670/Puzzline/">Puzzline -パズライン-</a><ul><li>面白いらしい</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-Puzzline/">D:Puzzline</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/09/diary/2024/05/2024-05-09/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-08 日誌</title>
+      <link>https://expine.github.io/2024/05/08/diary/2024/05/2024-05-08/</link>
+      <guid>https://expine.github.io/2024/05/08/diary/2024/05/2024-05-08/</guid>
+      <pubDate>Wed, 08 May 2024 00:03:19 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://rough-paint.hatenablog.com/entry/2024/05/03/174139">戻り値型の後置記法</a><ul><li>後置するとインデントがそろって良い、わかる</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/D-C/">D:C++</category>
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E5%BE%8C%E7%BD%AE%E8%A8%98%E6%B3%95/">D:後置記法</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/08/diary/2024/05/2024-05-08/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-07 日誌</title>
+      <link>https://expine.github.io/2024/05/07/diary/2024/05/2024-05-07/</link>
+      <guid>https://expine.github.io/2024/05/07/diary/2024/05/2024-05-07/</guid>
+      <pubDate>Mon, 06 May 2024 23:35:58 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://unityroom.com/games/kimekyawa">キメキャワ♥限界ビートちゃん!!</a><ul><li>普通に実績埋めるまでやってしまった、Steam版出たら布施しようかな</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E3%82%AD%E3%83%A1%E3%82%AD%E3%83%A3%E3%83%AF%E2%99%A5%E9%99%90%E7%95%8C%E3%83%93%E3%83%BC%E3%83%88%E3%81%A1%E3%82%83%E3%82%93/">D:キメキャワ♥限界ビートちゃん!!</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/07/diary/2024/05/2024-05-07/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-06 日誌</title>
+      <link>https://expine.github.io/2024/05/06/diary/2024/05/2024-05-06/</link>
+      <guid>https://expine.github.io/2024/05/06/diary/2024/05/2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 13:19:03 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://www.youtube.com/watch?v=bW9abDx9nuo">篝火</a><ul><li>ここ2日ずっと見てたけどやっぱり面白い、KENvsGluttony良かった</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E5%8B%95%E7%94%BB/">動画</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E7%AF%9D%E7%81%AB/">D:篝火</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/06/diary/2024/05/2024-05-06/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-05 日誌</title>
+      <link>https://expine.github.io/2024/05/05/diary/2024/05/2024-05-05/</link>
+      <guid>https://expine.github.io/2024/05/05/diary/2024/05/2024-05-05/</guid>
+      <pubDate>Sun, 05 May 2024 05:13:03 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://arxiv.org/abs/2404.19461">ミルズの定数の無理数性</a><ul><li>ここ最近ホットなやつ</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E5%AD%A6%E8%A1%93/">学術</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/D-%E8%AB%96%E6%96%87/">D:論文</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E7%84%A1%E7%90%86%E6%95%B0/">D:無理数</category>
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E3%83%9F%E3%83%AB%E3%82%BA%E3%81%AE%E5%AE%9A%E6%95%B0/">D:ミルズの定数</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/05/diary/2024/05/2024-05-05/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-04 日誌</title>
+      <link>https://expine.github.io/2024/05/04/diary/2024/05/2024-05-04/</link>
+      <guid>https://expine.github.io/2024/05/04/diary/2024/05/2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 12:28:11 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1899800/Raisondetre/">Raisond’etre</a><ul><li>クリア、良い感じのフリゲの探索ADVという雰囲気</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://blog.oimo.io/2024/04/25/ab-is-ba">掛け算の順序問題</a><ul><li>証明問題もある種の空気読みではあるのでまあ</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E8%AA%AD%E3%81%BF%E7%89%A9/">読み物</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-Raisond-etre/">G:Raisond&#39;etre</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E6%8E%9B%E3%81%91%E7%AE%97/">D:掛け算</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E9%A0%86%E5%BA%8F/">D:順序</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/04/diary/2024/05/2024-05-04/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-03 日誌</title>
+      <link>https://expine.github.io/2024/05/03/diary/2024/05/2024-05-03/</link>
+      <guid>https://expine.github.io/2024/05/03/diary/2024/05/2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 09:26:02 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/427680/_/">ツヴァイ！！</a><ul><li>クリア、割にラスボスが強かった</li></ul></li><li><a href="https://store.steampowered.com/app/2658920/Staffer_Reborn/">Staffer Reborn</a><ul><li>クリア、短編として良くまとまってたので本流の方もウィッシュリストに突っ込んでおいた</li></ul></li><li><a href="https://store.steampowered.com/app/1052990/A_Monsters_Expedition/">A Monster’s Expedition</a><ul><li>とりあえず手を付けた</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://not-miso-inside.net/blog/do-not-scan-books/">自炊するな。ガチでやめろ。人生終わる。</a><ul><li>物理媒体が物理媒体でなくなったときに失わせしめられる何かがあるのかもしれない</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E8%AA%AD%E3%81%BF%E7%89%A9/">読み物</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-%E3%83%84%E3%83%B4%E3%82%A1%E3%82%A4%EF%BC%81%EF%BC%81/">G:ツヴァイ！！</category>
+      
+      <category domain="https://Expine.github.io/tags/G-A-Monster-s-Expedition/">G:A Monster&#39;s Expedition</category>
+      
+      <category domain="https://Expine.github.io/tags/G-Staffer-Reborn/">G:Staffer Reborn</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E8%87%AA%E7%82%8A/">D:自炊</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/03/diary/2024/05/2024-05-03/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-02 日誌</title>
+      <link>https://expine.github.io/2024/05/02/diary/2024/05/2024-05-02/</link>
+      <guid>https://expine.github.io/2024/05/02/diary/2024/05/2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 01:07:55 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/427680/_/">ツヴァイ！！</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://github.com/microsoft/MS-DOS">MS-DOS</a><ul><li>歴史的保全の意味合いらしい</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/D-GitHub/">D:GitHub</category>
+      
+      <category domain="https://Expine.github.io/tags/G-%E3%83%84%E3%83%B4%E3%82%A1%E3%82%A4%EF%BC%81%EF%BC%81/">G:ツヴァイ！！</category>
+      
+      <category domain="https://Expine.github.io/tags/D-MS-DOS/">D:MS-DOS</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/02/diary/2024/05/2024-05-02/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024-05-01 日誌</title>
+      <link>https://expine.github.io/2024/05/01/diary/2024/05/2024-05-01/</link>
+      <guid>https://expine.github.io/2024/05/01/diary/2024/05/2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 13:38:38 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/427680/_/">ツヴァイ！！</a><ul><li>古き良きARPGって感じ</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://ironnakotowo.blogspot.com/2024/04/exa-arcadiar1.html">ヴァンガードプリンセスR</a><ul><li>著作権法第67条の2第1項の規定に基づく申請を行い、同項の適用を受けて作成されたもの、らしい</li><li>Steam版ともどもきな臭い感じだ</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      
+      
+      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
+      
+      <category domain="https://Expine.github.io/categories/Diary/%E8%A8%98%E4%BA%8B/">記事</category>
+      
+      
+      <category domain="https://Expine.github.io/tags/G-%E3%83%84%E3%83%B4%E3%82%A1%E3%82%A4%EF%BC%81%EF%BC%81/">G:ツヴァイ！！</category>
+      
+      <category domain="https://Expine.github.io/tags/D-%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9R/">D:ヴァンガードプリンセスR</category>
+      
+      
+      <comments>https://expine.github.io/2024/05/01/diary/2024/05/2024-05-01/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2024-04-30 日誌</title>
@@ -26,7 +440,7 @@
       
       
       
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1098280/Mago/">Mago</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://twitter.com/realhashbreaker/status/1770161965006008570">MD5が衝突する72文字</a><ul><li>ちょっと前に話題になった時の面白いやつ</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
+      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1098280/Mago/">Mago</a><ul><li>クリア、7裏が一番きついし一番楽しい</li></ul></li><li><a href="https://store.steampowered.com/app/2821020/_/">まどろみトラベル</a><ul><li>クリア、眠気が敵なので戦闘とかはないノンフィールド、のんびりできて良い</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://twitter.com/realhashbreaker/status/1770161965006008570">MD5が衝突する72文字</a><ul><li>ちょっと前に話題になった時の面白いやつ</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
       
       
       <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
@@ -41,6 +455,8 @@
       <category domain="https://Expine.github.io/tags/D-MD5/">D:MD5</category>
       
       <category domain="https://Expine.github.io/tags/D-%E8%A1%9D%E7%AA%81/">D:衝突</category>
+      
+      <category domain="https://Expine.github.io/tags/G-%E3%81%BE%E3%81%A9%E3%82%8D%E3%81%BF%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB/">G:まどろみトラベル</category>
       
       
       <comments>https://expine.github.io/2024/04/30/diary/2024/04/2024-04-30/#disqus_thread</comments>
@@ -284,414 +700,6 @@
       
       
       <comments>https://expine.github.io/2024/04/23/diary/2024/04/2024-04-23/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-22 日誌</title>
-      <link>https://expine.github.io/2024/04/22/diary/2024/04/2024-04-22/</link>
-      <guid>https://expine.github.io/2024/04/22/diary/2024/04/2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 12:42:57 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1872680/The_Knight_Witch/">The Knight Witch</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://engineers.ntt.com/entry/2024/04/17/084103">LLM校正CIを自社のブログに導入してみた</a><ul><li>校正、あんまり向いてない作業なのかもしれない</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E8%A8%98%E4%BA%8B/">記事</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/D-LLM/">D:LLM</category>
-      
-      <category domain="https://Expine.github.io/tags/G-The-Knight-Witch/">G:The Knight Witch</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E6%A0%A1%E6%AD%A3/">D:校正</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/22/diary/2024/04/2024-04-22/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-21 日誌</title>
-      <link>https://expine.github.io/2024/04/21/diary/2024/04/2024-04-21/</link>
-      <guid>https://expine.github.io/2024/04/21/diary/2024/04/2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 02:03:02 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1575470/Frogun/">Frogun</a><ul><li>コンプリートしたがお金稼ぎまではやらない</li></ul></li><li><a href="https://store.steampowered.com/app/1872680/The_Knight_Witch/">The Knight Witch</a><ul><li>全方位シューター、足遅くなりがち</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://methane.hatenablog.jp/entry/2024/04/19/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%82%92%E8%90%BD%E3%81%A8%E3%81%99%E3%81%A8%E3%81%8D%E3%81%AF%E5%88%87%E3%82%8A%E6%8D%A8%E3%81%A6%E3%82%8D">タイムスタンプの精度を落とすときは切り捨てろ</a><ul><li>確かに一貫性が崩れる</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E8%A8%98%E4%BA%8B/">記事</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-Frogun/">G:Frogun</category>
-      
-      <category domain="https://Expine.github.io/tags/G-The-Knight-Witch/">G:The Knight Witch</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/">D:タイムスタンプ</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E7%B2%BE%E5%BA%A6/">D:精度</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/21/diary/2024/04/2024-04-21/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-20 日誌</title>
-      <link>https://expine.github.io/2024/04/20/diary/2024/04/2024-04-20/</link>
-      <guid>https://expine.github.io/2024/04/20/diary/2024/04/2024-04-20/</guid>
-      <pubDate>Sat, 20 Apr 2024 07:45:58 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1575470/Frogun/">Frogun</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://note.com/akutaba/n/na40466f9386e">個人開発（インディー）ゲームをSteamストアで販売するのがおすすめじゃない理由</a><ul><li>itch良いんだけど日本で膾炙してる感じはない、書いてある通りSteamもだけど、それにもまして</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E8%AA%AD%E3%81%BF%E7%89%A9/">読み物</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/D-Steam/">D:Steam</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0/">D:インディーゲーム</category>
-      
-      <category domain="https://Expine.github.io/tags/G-Frogun/">G:Frogun</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/20/diary/2024/04/2024-04-20/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-19 日誌</title>
-      <link>https://expine.github.io/2024/04/19/diary/2024/04/2024-04-19/</link>
-      <guid>https://expine.github.io/2024/04/19/diary/2024/04/2024-04-19/</guid>
-      <pubDate>Fri, 19 Apr 2024 00:03:25 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1575470/Frogun/">Frogun</a></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://www.youtube.com/watch?v=NmI_ZkcqofI">Indie World 2024.4.17</a><ul><li>Europa、普通に発売延期してたのはこれのためかな</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-Frogun/">G:Frogun</category>
-      
-      <category domain="https://Expine.github.io/tags/D-Indie-World/">D:Indie World</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/19/diary/2024/04/2024-04-19/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-18 日誌</title>
-      <link>https://expine.github.io/2024/04/18/diary/2024/04/2024-04-18/</link>
-      <guid>https://expine.github.io/2024/04/18/diary/2024/04/2024-04-18/</guid>
-      <pubDate>Thu, 18 Apr 2024 00:21:33 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1575470/Frogun/">Frogun</a><ul><li>手癖で全達成で進めてしまっているので歩みが遅い</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://www.gamespark.jp/article/2024/01/31/137994.html">PPI</a><ul><li>どとこい？</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-Frogun/">G:Frogun</category>
-      
-      <category domain="https://Expine.github.io/tags/D-PPI/">D:PPI</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/18/diary/2024/04/2024-04-18/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-17 日誌</title>
-      <link>https://expine.github.io/2024/04/17/diary/2024/04/2024-04-17/</link>
-      <guid>https://expine.github.io/2024/04/17/diary/2024/04/2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 00:25:14 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/1633430/OU/">OU</a><ul><li>ゲームとしては厳しいけど作品としては良かった</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://mstssk.hatenablog.com/entry/2024/04/17/134256">不用意に font-feature-settings を使うと日本語表示がおかしくなる</a><ul><li>英文を良い感じにしたいのに日本語がおかしくなる件</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-OU/">G:OU</category>
-      
-      <category domain="https://Expine.github.io/tags/D-font-feature-settings/">D:font-feature-settings</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/17/diary/2024/04/2024-04-17/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-16 日誌</title>
-      <link>https://expine.github.io/2024/04/16/diary/2024/04/2024-04-16/</link>
-      <guid>https://expine.github.io/2024/04/16/diary/2024/04/2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:22:23 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/2234960/Pygmalion/">Pygmalion</a><ul><li>EP1_PNのクリアをやったので一区切り</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://www.0x0c.me/2023/12/phd">博士課程で得られたもの・失ったもの</a><ul><li>かなり早くにアカデミアからの離脱を選んだ身としては凄いなと言う印象がある</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E8%AA%AD%E3%81%BF%E7%89%A9/">読み物</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-Pygmalion/">G:Pygmalion</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E5%8D%9A%E5%A3%AB%E8%AA%B2%E7%A8%8B/">D:博士課程</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/16/diary/2024/04/2024-04-16/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-15 日誌</title>
-      <link>https://expine.github.io/2024/04/15/diary/2024/04/2024-04-15/</link>
-      <guid>https://expine.github.io/2024/04/15/diary/2024/04/2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 00:16:28 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/2469570/Oberty/">Oberty</a><ul><li>ちまちまやっていたので全問クリア</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://jp.ign.com/yasha-legends-of-the-demon-blade/74422/news/2024-hades">百剣討妖伝綺譚</a><ul><li>Hadesじゃんとなっている</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-Oberty/">G:Oberty</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E7%99%BE%E5%89%A3%E8%A8%8E%E5%A6%96%E4%BC%9D%E7%B6%BA%E8%AD%9A/">D:百剣討妖伝綺譚</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/15/diary/2024/04/2024-04-15/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-14 日誌</title>
-      <link>https://expine.github.io/2024/04/14/diary/2024/04/2024-04-14/</link>
-      <guid>https://expine.github.io/2024/04/14/diary/2024/04/2024-04-14/</guid>
-      <pubDate>Sun, 14 Apr 2024 04:43:43 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/657000/Rising_Hell/">Rising Hell</a><ul><li>クリアしてチャレンジモードもある程度クリアした、ヘルブレイクの強制ジャンプで被弾が辛い</li></ul></li><li><a href="https://store.steampowered.com/app/2234960/Pygmalion/">Pygmalion</a><ul><li>とりあえずEAクリアまでやったので、ちまちまパズルモードを解いていく</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://note.com/tamayama_lily/n/n74032a635c2c">「批判するのを避けるメリット」とは？</a><ul><li>作家と作品を切り離せるか問題でもある</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E8%A8%98%E4%BA%8B/">記事</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-Rising-Hell/">G:Rising Hell</category>
-      
-      <category domain="https://Expine.github.io/tags/G-Pygmalion/">G:Pygmalion</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E6%89%B9%E5%88%A4/">D:批判</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E5%89%B5%E4%BD%9C/">D:創作</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/14/diary/2024/04/2024-04-14/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-13 日誌</title>
-      <link>https://expine.github.io/2024/04/13/diary/2024/04/2024-04-13/</link>
-      <guid>https://expine.github.io/2024/04/13/diary/2024/04/2024-04-13/</guid>
-      <pubDate>Sat, 13 Apr 2024 06:51:05 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/2497610/_/">人魔</a><ul><li>だいぶサスペンスみが強い</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://arxiv.org/abs/1609.05507">Computability Theory of Closed Timelike Curves</a><ul><li>時間的閉曲線を用いると停止性問題が解けるらしい</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E5%AD%A6%E8%A1%93/">学術</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/D-%E8%AB%96%E6%96%87/">D:論文</category>
-      
-      <category domain="https://Expine.github.io/tags/G-%E4%BA%BA%E9%AD%94/">G:人魔</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E6%99%82%E9%96%93%E7%9A%84%E9%96%89%E6%9B%B2%E7%B7%9A/">D:時間的閉曲線</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E5%81%9C%E6%AD%A2%E6%80%A7%E5%95%8F%E9%A1%8C/">D:停止性問題</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/13/diary/2024/04/2024-04-13/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-12 日誌</title>
-      <link>https://expine.github.io/2024/04/12/diary/2024/04/2024-04-12/</link>
-      <guid>https://expine.github.io/2024/04/12/diary/2024/04/2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 00:03:45 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;リンク&quot;&gt;&lt;a href=&quot;#リンク&quot; class=&quot;headerlink&quot; title=&quot;リンク&quot;&gt;&lt;/a&gt;リンク&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://game.watch.impress.co.jp/docs/news/1583214.</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://game.watch.impress.co.jp/docs/news/1583214.html">RKGK</a><ul><li>ジェットセットラジオ？</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/D-RKGK/">D:RKGK</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/12/diary/2024/04/2024-04-12/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024-04-11 日誌</title>
-      <link>https://expine.github.io/2024/04/11/diary/2024/04/2024-04-11/</link>
-      <guid>https://expine.github.io/2024/04/11/diary/2024/04/2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 00:22:52 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;プレイしたゲーム&quot;&gt;&lt;a href=&quot;#プレイしたゲーム&quot; class=&quot;headerlink&quot; title=&quot;プレイしたゲーム&quot;&gt;&lt;/a&gt;プレイしたゲーム&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="プレイしたゲーム"><a href="#プレイしたゲーム" class="headerlink" title="プレイしたゲーム"></a>プレイしたゲーム</h2><ul><li><a href="https://store.steampowered.com/app/657000/Rising_Hell/">Rising Hell</a><ul><li>Super House of Dead Ninjas の上昇版という感じ</li></ul></li></ul><h2 id="リンク"><a href="#リンク" class="headerlink" title="リンク"></a>リンク</h2><ul><li><a href="https://zenn.dev/bannzai/articles/1eda9a5158b3d9">解約.com</a><ul><li>普通に便利なやつ</li></ul></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content:encoded>
-      
-      
-      <category domain="https://Expine.github.io/categories/Diary/">Diary</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/">プレイしたゲーム</category>
-      
-      <category domain="https://Expine.github.io/categories/Diary/Web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/">Webサービス</category>
-      
-      
-      <category domain="https://Expine.github.io/tags/G-Rising-Hell/">G:Rising Hell</category>
-      
-      <category domain="https://Expine.github.io/tags/D-%E8%A7%A3%E7%B4%84-com/">D:解約.com</category>
-      
-      
-      <comments>https://expine.github.io/2024/04/11/diary/2024/04/2024-04-11/#disqus_thread</comments>
       
     </item>
     
