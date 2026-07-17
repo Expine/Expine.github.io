@@ -9,6 +9,34 @@
 
 
     <url>
+        <loc>https://Expine.github.io/2018/08/25/review/wodicon2018/index/</loc>
+        <lastmod>2026-07-16T13:07:30.699Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry10/CMbanner.png</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://Expine.github.io/2019/08/31/review/wodicon2019/index/</loc>
+        <lastmod>2026-07-16T13:07:25.906Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/CMbanner.png</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://Expine.github.io/2024/08/24/review/wodicon2024/00_index/</loc>
         <lastmod>2024-11-30T15:47:30.678Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3583,34 +3611,6 @@
         <image:image>
 
             <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/CMbanner.png</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://Expine.github.io/2019/08/31/review/wodicon2019/index/</loc>
-        <lastmod>2023-01-24T14:04:27.842Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/CMbanner.png</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://Expine.github.io/2018/08/25/review/wodicon2018/index/</loc>
-        <lastmod>2023-01-24T14:04:24.689Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>https://www.silversecond.com/WolfRPGEditor/Contest/Entry10/CMbanner.png</image:loc>
 
         </image:image>
 
